@@ -1,0 +1,1531 @@
+Staff ID,Full Name,Gender,Age,Department,Job Role,Hospital,Employment Type,Shift Type,Years of Experience,Annual Salary ($),Hours Per Week,Overtime Hours Per Week,Sick Days Taken,Job Satisfaction,Employment Status,Year
+S0655,Deborah Clark,Female,54,General Ward,Ward Nurse,Green Valley Medical,Full-Time,Morning,5,45900.0,55.0,15,7.0,Medium,Resigned,2021
+S0077,Mark Wright,Female,41,Oncology,Oncologist,Sunrise Clinic,Contract,Night,18,,26.0,0,10.0,High,Active,2020
+S0317,Michelle Martin,Female,41,Surgery,Surgeon,Sunrise Clinic,Full-Time,Morning,10,130900.0,37.0,0,1.0,High,Active,2023
+S1348,Matthew Gonzalez,Female,27,ICU,ICU Nurse,Green Valley Medical,Full-Time,Afternoon,30,58900.0,43.0,3,0.0,Low,Active,2020
+S0572,Betty Young,Female,31,Radiology,Radiologist,Metro Health Center,Full-Time,Morning,4,108500.0,45.0,5,5.0,Medium,Active,2021
+S0919,Stephanie Thompson,Male,41,Pediatrics,Pediatrician,Sunrise Clinic,Part-Time,Night,9,88900.0,,0,15.0,High,Active,2022
+S0755,David Gonzalez,Male,48,Oncology,Palliative Care Specialist,Sunrise Clinic,Full-Time,Morning,25,67500.0,48.0,8,8.0,Low,Resigned,2023
+S1313,Donna Walker,Female,26,General Ward,Ward Nurse,Green Valley Medical,Part-Time,Night,12,40700.0,30.0,0,2.0,Medium,On Leave,2023
+S1340,Joseph Lee,Male,52,Pharmacy,Drug Safety Officer,Metro Health Center,Part-Time,Afternoon,15,73700.0,33.0,0,7.0,Medium,Active,2023
+S1194,Nancy Lee,Female,50,Pharmacy,Pharmacy Technician,Sunrise Clinic,Part-Time,Afternoon,7,38500.0,19.0,0,16.0,,Active,2021
+S1084,Jessica Nguyen,Female,46,Pediatrics,Pediatrician,City General,Contract,Afternoon,1,85000.0,19.0,0,,Medium,Active,2019
+S0875,Sandra White,Female,55,Radiology,X-Ray Technician,City General,Full-Time,Afternoon,6,37900.0,52.0,12,19.0,Low,Active,2022
+S1271,Linda Miller,Female,59,Pediatrics,Pediatrician,Sunrise Clinic,Full-Time,Afternoon,24,82700.0,39.0,0,4.0,Medium,Resigned,2024
+S1337,Betty Perez,Male,33,General Ward,Ward Nurse,St. Mary Hospital,Full-Time,Afternoon,1,50100.0,46.0,6,10.0,Low,Active,2024
+S0986,Steven Nguyen,Female,51,Emergency,Paramedic,Sunrise Clinic,Part-Time,Afternoon,10,39600.0,18.0,0,7.0,Medium,Resigned,2020
+S1415,George Clark,Female,38,General Ward,Healthcare Assistant,Metro Health Center,Part-Time,Night,13,25000.0,34.0,0,6.0,Medium,Active,2019
+S1499,Andrew Lee,FEMALE,37,Emergency,ER Nurse,St. Mary Hospital,Contract,Afternoon,12,46800.0,29.0,0,2.0,Medium,Active,2023
+S0031,Anthony Adams,Male,37,Emergency,ER Nurse,Green Valley Medical,Full-Time,Night,26,47500.0,42.0,2,5.0,,Active,2023
+S0050,Barbara Thomas,Male,23,ICU,Respiratory Therapist,St. Mary Hospital,Full-Time,Morning,19,44100.0,50.0,10,3.0,Medium,Active,2023
+S0241,Christopher Jackson,Female,35,Radiology,Radiologist,Sunrise Clinic,Full-Time,Afternoon,5,106100.0,52.0,12,18.0,Medium,Active,2021
+S0310,Donna Lopez,F,44,Surgery,Anesthesiologist,City General,Part-Time,Night Shift,5,149300.0,18.0,0,15.0,Medium,Active,2024
+S0353,Kenneth Jones,Male,28,Radiology,X-Ray Technician,Metro Health Center,Contract,Morning,27,38500.0,21.0,0,,Medium,On Leave,2019
+S0125,Barbara Jones,Male,43,Oncology,Oncologist,City General,Full-Time,Afternoon,17,119700.0,60.0,20,3.0,Medium,Resigned,2020
+S1158,Sarah Wright,Female,26,Surgery,Scrub Nurse,Green Valley Medical,Full-Time,Night,30,57500.0,39.0,0,3.0,Low,Active,2024
+S0651,Joseph Young,Female,29,ICU,ICU Nurse,St. Mary Hospital,Full-Time,Night,25,54200.0,45.0,5,11.0,Medium,On Leave,2023
+S0071,Anthony Young,Female,42,Radiology,MRI Technician,City General,Full-Time,Night,27,44700.0,56.0,16,12.0,Low,Active,2021
+S1498,Sarah Wright,Male,45,General Ward,Ward Nurse,Green Valley Medical,Contract,Night,7,46500.0,16.0,0,1.0,Medium,Resigned,2020
+S0702,Charles White,Male,31,Radiology,MRI Technician,Metro Health Center,Part-Time,Afternoon,22,40100.0,31.0,0,18.0,Medium,Active,2021
+S1103,  Patricia Perez  ,Female,60,General Ward,General Physician,St. Mary Hospital,Part-Time,Night,15,74500.0,32.0,0,11.0,Low,On Leave,2019
+S1317,Jennifer Adams,Female,62,Pharmacy,Pharmacy Technician,City General,Full-Time,Afternoon,8,38300.0,43.0,3,12.0,Medium,Active,2020
+S1104,Anthony Martinez,Female,30,Oncology,Oncologist,Green Valley Medical,Full-Time,Night,10,138600.0,39.0,0,18.0,High,Resigned,2024
+S1314,Stephanie Scott,Female,54,Radiology,Radiologist,St. Mary Hospital,Full-Time,Morning,17,103800.0,36.0,0,0.0,High,Active,2020
+S1482,Kimberly Adams,Male,28,Pharmacy,Drug Safety Officer,Green Valley Medical,Part-Time,Afternoon,20,66300.0,27.0,0,18.0,Medium,On Leave,2023
+S0584,Stephanie Hernandez,Male,47,I.C.U,ICU Specialist,Metro Health Center,Contract,Afternoon,11,92100.0,26.0,0,6.0,Medium,Active,2019
+S1217,Emily Thompson,Female,40,Emergency,Paramedic,St. Mary Hospital,Full-Time,Morning,3,36000.0,54.0,14,13.0,Low,Active,2019
+S1302,Karen Lopez,Female,50,Oncology,Oncologist,City General,Part-Time,Morning,6,117500.0,28.0,0,9.0,Medium,Active,2022
+S0501,Matthew Thompson,Male,51,Pharmacy,Drug Safety Officer,Metro Health Center,Part-Time,Night,20,63700.0,20.0,0,13.0,Medium,Active,2022
+S1401,Linda Sanchez,Male,30,Radiology,Radiologist,Green Valley Medical,Full-Time,Morning,29,103300.0,51.0,11,3.0,Medium,On Leave,2019
+S1189,Matthew Smith,Male,31,Radiology,MRI Technician,City General,Contract,Morning,25,49200.0,16.0,0,12.0,Medium,Resigned,2019
+S0486,Sarah Hernandez,Female,39,Radiology,X-Ray Technician,Green Valley Medical,Contract,Morning,29,36200.0,24.0,0,19.0,Low,On Leave,2023
+S0883,Mary Adams,Male,23,Surgery,Surgeon,Metro Health Center,Full-Time,,13,155600.0,37.0,0,18.0,High,Active,2020
+S0950,Lisa Miller,Female,26,Pharmacy,Drug Safety Officer,City General,Full-Time,Night,2,61900.0,50.0,10,7.0,Medium,Resigned,2023
+S0611,Karen Garcia,Female,62,Surgery,Surgeon,Sunrise Clinic,Contract,Afternoon,30,152200.0,30.0,0,13.0,Medium,Active,2019
+S0491,Margaret Miller,Female,60,Pediatrics,Pediatric Nurse,Metro Health Center,Full-Time,Night,3,49300.0,52.0,12,20.0,Medium,Resigned,2019
+S0354,Ashley Perez,Female,26,Icu,ICU Specialist,City General,contract,Night,2,91200.0,17.0,0,2.0,High,Resigned,2019
+S0262,James Harris,Male,56,Pharmacy,Pharmacist,St. Mary Hospital,Contract,Afternoon,7,88900.0,24.0,0,3.0,Medium,Resigned,2021
+S0060,Joshua Jackson,Male,52,Pediatrics,Pediatrician,Metro Health Center,Contract,Afternoon,8,81600.0,21.0,0,9.0,Medium,Active,2023
+S1038,Matthew Martinez,Female,62,Radiology,MRI Technician,St. Mary Hospital,Full-Time,Night,23,48800.0,53.0,13,6.0,Low,Resigned,2023
+S0539,Brian Torres,Female,39,Surgery,Anesthesiologist,City General,Part-Time,Morning,4,133900.0,23.0,0,4.0,High,Active,2019
+S1174,  Sandra Harris  ,Male,50,Oncology,Chemo Nurse,Sunrise Clinic,Part-Time,Morning,16,51300.0,30.0,0,0.0,Low,Active,2022
+S0260,  Christopher Garcia  ,Male,47,Surgery,Anesthesiologist,Green Valley Medical,Part-Time,Morning,12,166200.0,29.0,0,0.0,Medium,Active,2021
+S0766,Sarah White,Female,43,Radiology,X-Ray Technician,Green Valley Medical,CONTRACT,Afternoon,20,45900.0,27.0,0,12.0,Medium,Active,2021
+S1496,William Martinez,Female,30,General Ward,Healthcare Assistant,Metro Health Center,Contract,Night,26,25500.0,18.0,0,4.0,Medium,Resigned,2020
+S1099,Daniel Lee,FEMALE,45,Oncology,Chemo Nurse,Green Valley Medical,Part-Time,Morning,19,57400.0,24.0,0,13.0,Medium,Resigned,2024
+S1188,Kimberly Wright,Female,25,Pediatrics,Pediatrician,St. Mary Hospital,Contract,MORNING,24,80300.0,34.0,0,5.0,Medium,Active,2022
+S0463,Michelle Wright,Female,27,Pediatrics,Pediatric Nurse,St. Mary Hospital,Contract,Night,11,46200.0,27.0,0,13.0,Medium,Active,2020
+S0052,Brian Thomas,Female,47,Emergency,ER Nurse,St. Mary Hospital,Full-Time,Night,28,,57.0,17,9.0,Low,Resigned,2023
+S0472,Jessica Wilson,Male,39,General Ward,General Physician,Sunrise Clinic,Contract,Afternoon,19,80000.0,16.0,0,3.0,Low,Resigned,2023
+S0345,Christopher Scott,Female,25,Pharmacy,Pharmacist,Sunrise Clinic,Part-Time,Afternoon,7,75900.0,15.0,0,8.0,Low,Active,2024
+S0678,Matthew Miller,Female,33,Pediatrics,Pediatrician,St. Mary Hospital,Contract,Morning,29,85200.0,19.0,0,13.0,High,Resigned,2021
+S0304,Andrew Wilson,Male,40,Oncology,Palliative Care Specialist,St. Mary Hospital,Part-Time,Morning,8,69000.0,22.0,0,20.0,Medium,Active,2020
+S0869,Kimberly Wilson,Female,47,Pediatrics,Pediatrician,Sunrise Clinic,Part-Time,Morning,27,91000.0,23.0,0,5.0,High,Active,2022
+S0024,Kimberly Lee,Male,61,Surgery,Anesthesiologist,Metro Health Center,PartTime,Morning,8,147100.0,21.0,0,10.0,High,Active,2023
+S0590,Matthew Young,Male,53,Oncology,Palliative Care Specialist,Green Valley Medical,Full-Time,Afternoon,22,67500.0,38.0,0,18.0,Low,Active,2024
+S1409,Sarah Wilson,Female,24,Emergency,Paramedic,St. Mary Hospital,Contract,Afternoon,7,38500.0,21.0,0,11.0,Medium,Active,2021
+S0462,David Ramirez,Female,50,Emergency,ER Doctor,Green Valley Medical,Part-Time,Afternoon,23,89800.0,34.0,0,1.0,Medium,Resigned,2022
+S0859,John Harris,Male,43,Radiology,MRI Technician,Metro Health Center,Part-Time,Afternoon,20,43900.0,21.0,0,19.0,Medium,Active,2022
+S0765,Joshua King,Male,28,Emergency,Paramedic,St. Mary Hospital,Contract,Morning,25,39400.0,30.0,0,15.0,Low,Active,2022
+S0760,Margaret Martin,Female,31,Icu,ICU Specialist,City General,Contract,Afternoon,1,90200.0,20.0,0,15.0,High,On Leave,2024
+S0169,Linda Torres,Female,44,General Ward,Ward Nurse,Green Valley Medical,Contract,Night,29,51100.0,32.0,0,12.0,Low,Active,2021
+S1479,Linda Garcia,Female,33,Radiology,X-Ray Technician,Green Valley Medical,Full-Time,Night,1,46400.0,48.0,8,10.0,Low,Resigned,2023
+S0561,Christopher Hill,Female,27,Emergency,ER Doctor,City General,Part-Time,Night,30,94900.0,31.0,0,1.0,Medium,On Leave,2022
+S0568,Andrew Ramirez,MALE,60,Oncology,Chemo Nurse,Metro Health Center,Part-Time,Night,22,64200.0,23.0,0,20.0,Low,Active,2022
+S1478,Kenneth Perez,female,43,Pediatrics,Pediatrician,Green Valley Medical,Part-Time,Night,12,92000.0,33.0,0,13.0,Medium,Active,2023
+S0238,William Rodriguez,MALE,30,Oncology,Palliative Care Specialist,Green Valley Medical,Full-Time,Afternoon,27,59100.0,39.0,0,10.0,Medium,On Leave,2024
+S0908,Betty Harris,Female,31,Radiology,MRI Technician,City General,Full-Time,Night,7,47400.0,54.0,14,16.0,Medium,On Leave,2020
+S1117,Stephanie Lee,Male,29,ICU,ICU Specialist,Metro Health Center,Contract,Afternoon,3,103600.0,21.0,0,6.0,Medium,Resigned,2021
+S0421,Brian Walker,Male,47,Oncology,Palliative Care Specialist,St. Mary Hospital,Full-Time,Morning,12,66300.0,54.0,14,4.0,Medium,Active,2023
+S1329,Margaret Young,Male,24,ICU,ICU Specialist,City General,Full-Time,Night,10,93500.0,43.0,3,18.0,Medium,Resigned,2020
+S0100,Ashley Johnson,male,61,ICU,ICU Nurse,Metro Health Center,Contract,Morning,14,51000.0,30.0,0,12.0,Low,Resigned,2021
+S0298,Stephanie Walker,FEMALE,24,Pediatrics,Child Therapist,City General,Part-Time,Afternoon,11,44400.0,26.0,0,0.0,Low,Active,2019
+S0825,Robert Hernandez,male,47,Emergency,Paramedic,Metro Health Center,Contract,Afternoon,18,42200.0,31.0,0,12.0,Low,Active,2023
+S0416,Jessica Perez,Male,36,General Ward,Healthcare Assistant,St. Mary Hospital,Full-Time,Morning,12,31900.0,44.0,4,15.0,Medium,Active,2022
+S0068,Margaret Moore,Female,50,Pediatrics,Pediatric Nurse,Green Valley Medical,Part-Time,Morning,15,52200.0,32.0,0,15.0,Low,Active,2024
+S1106,Christopher Robinson,Male,42,Emergency,ER Doctor,City General,Part-Time,Afternoon,11,88700.0,29.0,0,11.0,Medium,Resigned,2020
+S0248,Sandra Lee,M,30,Surgery,Surgeon,Sunrise Clinic,Contract,Morning,21,129200.0,22.0,0,8.0,High,Active,2021
+S1177,Melissa Williams,Female,54,Emergency,Paramedic,Metro Health Center,Full-Time,Night,6,38500.0,38.0,0,14.0,Low,Resigned,2021
+S0789,Jessica Hernandez,Female,42,Pediatrics,Pediatrician,City General,Full-Time,Morning,28,81400.0,52.0,12,8.0,High,Active,2023
+S1353,Donna Perez,M,59,ICU,Respiratory Therapist,Sunrise Clinic,Part-Time,,26,44000.0,,0,1.0,Low,Resigned,2023
+S0839,David Davis,Female,36,Radiology,X-Ray Technician,St. Mary Hospital,Part-Time,Night,12,38700.0,18.0,0,9.0,Medium,Active,2022
+S0555,Susan Lopez,Female,32,Radiology,MRI Technician,Metro Health Center,Full-Time,Night,6,51600.0,57.0,17,4.0,Low,Active,2021
+S0810,Kevin Lewis,Female,33,Oncology,Chemo Nurse,St. Mary Hospital,Part-Time,Night Shift,24,52700.0,19.0,0,11.0,Medium,Active,2022
+S0124,Amanda Ramirez,Female,30,Pharmacy,Drug Safety Officer,Metro Health Center,Contract,Night,12,68300.0,26.0,0,0.0,Medium,On Leave,2019
+S1133,Margaret Allen,Female,49,Radiology,MRI Technician,Metro Health Center,Full-Time,Night,25,43200.0,39.0,0,7.0,Low,Active,2020
+S1384,Kenneth Martin,Male,24,General Ward,General Physician,City General,Contract,Morning,23,83700.0,28.0,0,4.0,High,Active,2021
+S0423,George Gonzalez,Female,36,ICU,ICU Specialist,Green Valley Medical,Contract,Afternoon,24,90700.0,27.0,0,11.0,High,Active,2022
+S1064,William Moore,Male,48,Oncology,Chemo Nurse,Sunrise Clinic,Full-Time,Morning,26,54400.0,49.0,9,19.0,Low,Active,2024
+S1122,Betty Taylor,Male,53,ICU,ICU Specialist,Sunrise Clinic,Part-Time,Morning,11,100500.0,15.0,0,0.0,High,On Leave,2024
+S1027,Betty King,Female,33,Surgery,Scrub Nurse,City General,Full-Time,Night,10,51200.0,35.0,0,18.0,Medium,On Leave,2022
+S1449,Barbara Robinson,Female,28,Surgery,Anesthesiologist,Metro Health Center,Part-Time,Afternoon,30,,31.0,0,5.0,High,Active,2019
+S0985,Susan Nguyen,Female,49,Pharmacy,Drug Safety Officer,City General,Part-Time,Afternoon,5,73400.0,31.0,0,2.0,Medium,Active,2024
+S1260,Andrew Thompson,Female,57,Radiology,X-Ray Technician,Sunrise Clinic,Contract,Afternoon,21,41700.0,,0,7.0,Low,Active,2020
+S0240,James Garcia,Female,45,ICU,ICU Nurse,Green Valley Medical,Part-Time,Afternoon,22,62000.0,29.0,0,20.0,Low,Active,2023
+S0368,Jessica King,Male,38,General Ward,General Physician,St. Mary Hospital,Full-Time,Afternoon,13,84900.0,60.0,20,11.0,High,Resigned,2024
+S0482,Barbara Miller,Female,52,Pediatrics,Pediatrician,Green Valley Medical,Contract,Night,7,93500.0,,0,4.0,High,Active,2021
+S0243,Betty Taylor,Male,41,surgery,Anesthesiologist,St. Mary Hospital,Part-Time,Morning,6,135400.0,26.0,0,20.0,High,On Leave,2024
+S1400,Sarah Clark,Male,62,Emergency,Paramedic,Sunrise Clinic,Full-Time,Afternoon,15,44900.0,54.0,14,17.0,Low,Active,2020
+S0320,Kevin Miller,Female,56,Emergency,ER Nurse,Metro Health Center,Full-Time,Night,14,45300.0,36.0,0,3.0,Medium,Active,2019
+S0991,Linda Davis,Female,50,Oncology,Palliative Care Specialist,Sunrise Clinic,Full-Time,Night,9,62300.0,48.0,8,15.0,Medium,Resigned,2021
+S1324,Patricia Ramirez,Male,32,Oncology,Oncologist,St. Mary Hospital,Part-Time,Night,14,123300.0,28.0,0,4.0,Medium,Active,2021
+S0030,Barbara Ramirez,Male,56,ICU,ICU Specialist,Metro Health Center,Part-Time,Morning,12,94200.0,16.0,0,9.0,High,Active,2023
+S1030,Stephanie Lopez,Female,23,ICU,ICU Specialist,City General,Contract,Night Shift,27,94300.0,17.0,0,13.0,Medium,Active,2024
+S0343,Patricia Gonzalez,Male,23,Pharmacy,Pharmacist,St. Mary Hospital,Full-Time,Afternoon,10,79400.0,59.0,19,5.0,Low,Active,2024
+S0847,Brian Martinez,Male,36,Pharmacy,Pharmacist,City General,Contract,Morning,12,81200.0,15.0,0,13.0,High,Active,2019
+S0417,Margaret Jones,Male,43,General Ward,Healthcare Assistant,St. Mary Hospital,Full-Time,Morning,7,33900.0,50.0,10,5.0,Medium,Active,2021
+S0066,Charles Robinson,Female,40,General Ward,Healthcare Assistant,Green Valley Medical,Full-Time,Morning,30,26200.0,56.0,16,7.0,Medium,Active,2024
+S0359,Anthony Allen,Male,41,Pharmacy,Drug Safety Officer,Green Valley Medical,Contract,Morning,8,62300.0,20.0,0,5.0,Low,On Leave,2020
+S1233,Mark Lee,Female,62,General Ward,General Physician,City General,Contract,afternoon,9,71800.0,23.0,0,14.0,Low,Active,2023
+S1259,Donna Hernandez,Male,55,ICU,Respiratory Therapist,St. Mary Hospital,Contract,Morning,4,45700.0,25.0,0,15.0,Medium,Active,2021
+S1036,Charles Lopez,Male,30,Surgery,Scrub Nurse,Sunrise Clinic,Full-Time,Afternoon,11,52600.0,39.0,0,18.0,Low,Active,2024
+S1175,Melissa Brown,Female,61,ICU,ICU Nurse,Sunrise Clinic,Part-Time,Afternoon,3,58600.0,16.0,0,6.0,Medium,Active,2021
+S0142,Steven Hernandez,Male,26,Pharmacy,Pharmacy Technician,Sunrise Clinic,Contract,Night,22,32500.0,19.0,0,19.0,Medium,Active,2021
+S0800,Ashley Lopez,Female,37,Oncology,Oncologist,Sunrise Clinic,Contract,Night,17,124400.0,26.0,0,14.0,High,Resigned,2024
+S0951,David Jackson,Male,40,Radiology,Radiologist,Green Valley Medical,Part-Time,Afternoon,8,97400.0,32.0,0,18.0,High,Active,2019
+S0515,Kenneth Davis,Male,25,EMERGENCY,ER Doctor,City General,Contract,Night,5,87000.0,17.0,0,19.0,High,Resigned,2023
+S0725,Brian Hill,Male,28,Oncology,Oncologist,City General,Contract,Night,7,126000.0,15.0,0,5.0,Medium,Active,2019
+S0276,Andrew Harris,Male,37,Pediatrics,Pediatrician,St. Mary Hospital,Contract,Afternoon,8,85800.0,20.0,0,5.0,High,Resigned,2020
+S1275,John Anderson,Male,33,Oncology,Chemo Nurse,St. Mary Hospital,Part-Time,Night,5,53300.0,19.0,0,9.0,Medium,Active,2023
+S1108,John Allen,Male,54,Emergency,Paramedic,Metro Health Center,Full-Time,,16,40400.0,60.0,20,17.0,Low,Active,2022
+S0514,Mark Thompson,Male,48,Emergency,ER Doctor,St. Mary Hospital,Contract,Morning,7,88600.0,24.0,0,8.0,Medium,Resigned,2024
+S0627,Jennifer Wilson,Female,29,General Ward,Ward Nurse,St. Mary Hospital,Full-Time,Night,24,44700.0,40.0,0,5.0,Medium,Active,2021
+S1139,Barbara Wilson,Female,29,Oncology,Oncologist,Metro Health Center,Contract,Night,25,124500.0,19.0,0,8.0,Medium,Active,2024
+S1044,Michelle Johnson,Male,48,Surgery,Anesthesiologist,Metro Health Center,Part-Time,Afternoon,30,140700.0,31.0,0,5.0,High,Active,2022
+S0926,Thomas Rodriguez,Male,49,General Ward,Ward Nurse,St. Mary Hospital,Contract,Afternoon,22,45700.0,24.0,0,16.0,Medium,Resigned,2019
+S1007,Steven Johnson,Female,34,Pediatrics,Pediatrician,Green Valley Medical,Part-Time,Night,7,85000.0,23.0,0,14.0,Medium,Active,2022
+S0045,Paul Robinson,Male,35,Surgery,Scrub Nurse,Sunrise Clinic,Part-Time,Morning,27,54800.0,16.0,0,6.0,Low,Active,2021
+S1277,Donald Wilson,Male,52,Pediatrics,Pediatric Nurse,Sunrise Clinic,Full-Time,MORNING,18,45600.0,40.0,0,12.0,Low,On Leave,2022
+S0271,George Sanchez,Male,51,Radiology,Radiologist,Metro Health Center,Full-Time,Morning,22,111300.0,35.0,0,12.0,Medium,Active,2022
+S0406,Thomas Garcia,M,33,General Ward,Ward Nurse,City General,Full-Time,Morning,4,43400.0,40.0,0,12.0,Low,Resigned,2024
+S1090,Robert Rodriguez,Female,57,Emergency,Paramedic,City General,Full-Time,Afternoon,7,43600.0,44.0,4,1.0,Low,Active,2024
+S0116,Michael Martinez,Male,44,ICU,Respiratory Therapist,City General,Contract,Afternoon,20,46200.0,21.0,0,5.0,Low,Active,2020
+S1058,Mark Lee,Female,33,Oncology,Oncologist,Sunrise Clinic,Part-Time,Afternoon,4,119800.0,16.0,0,19.0,Medium,Active,2019
+S1001,Anthony Anderson,Male,43,General Ward,Healthcare Assistant,Green Valley Medical,Full-Time,Night,7,34400.0,40.0,0,17.0,Medium,Active,2022
+S0793,Thomas Harris,Male,61,Radiology,MRI Technician,Metro Health Center,Full-Time,Afternoon,15,50600.0,40.0,0,12.0,Low,Active,2021
+S0528,Sandra Perez,Female,60,ICU,ICU Specialist,St. Mary Hospital,Full-Time,Night,22,103200.0,45.0,5,3.0,Medium,Active,2020
+S0433,David Wright,Male,57,ICU,ICU Specialist,Green Valley Medical,Contract,Afternoon,29,109700.0,29.0,0,11.0,High,Active,2024
+S0894,Kimberly Thompson,Female,59,Emergency,Paramedic,Metro Health Center,Part-Time,Afternoon,6,41500.0,15.0,0,3.0,Low,Active,2024
+S1197,Brian Wilson,Female,55,Pediatrics,Child Therapist,Sunrise Clinic,Full-Time,Afternoon,9,46300.0,53.0,13,5.0,Medium,Active,2019
+S0079,Nancy Miller,Male,53,Pharmacy,Pharmacy Technician,Metro Health Center,Full-Time,Morning,30,39200.0,38.0,0,16.0,Low,Resigned,2023
+S1234,Mary Davis,Female,40,Surgery,Anesthesiologist,City General,Contract,Morning,16,133400.0,25.0,0,17.0,High,Active,2021
+S0216,Sandra Hill,Female,61,Emergency,ER Nurse,Sunrise Clinic,Part-Time,Afternoon,20,47200.0,24.0,0,10.0,Medium,Resigned,2021
+S0937,Mark Adams,Male,37,Pharmacy,Pharmacy Technician,Metro Health Center,Part-Time,Night,21,34000.0,28.0,0,4.0,Medium,Resigned,2024
+S1081,Deborah Young,Male,38,Surgery,Scrub Nurse,St. Mary Hospital,Part-Time,Morning,10,52000.0,23.0,0,10.0,Low,Active,2022
+S0630,Amanda Adams,Female,60,General Ward,Ward Nurse,Green Valley Medical,Full-Time,Night,5,47400.0,45.0,5,18.0,Medium,Active,2019
+S1043,Nancy Walker,Female,52,Pharmacy,Drug Safety Officer,Green Valley Medical,Part-Time,Morning,2,71100.0,27.0,0,9.0,Medium,Active,2023
+S0016,Kenneth Brown,Male,59,Radiology,Radiologist,St. Mary Hospital,Full-Time,Morning,28,102500.0,37.0,0,1.0,Medium,Active,2024
+S1118,Matthew Clark,Female,54,Radiology,MRI Technician,St. Mary Hospital,Part-Time,Morning,12,46600.0,,0,11.0,Low,Active,2019
+S1028,John Moore,Female,38,Radiology,Radiologist,Metro Health Center,Full-Time,night,2,116000.0,50.0,10,,Medium,Active,2021
+S0176,Stephanie Perez,Male,51,ICU,ICU Nurse,City General,Part-Time,Night,6,54800.0,33.0,0,6.0,Medium,Resigned,2019
+S0987,Sandra Jackson,Male,58,General Ward,Ward Nurse,Metro Health Center,Contract,Night,25,45300.0,27.0,0,10.0,Medium,Active,2023
+S1312,Barbara Miller,Male,51,General Ward,Ward Nurse,St. Mary Hospital,Part-Time,Morning,12,44800.0,26.0,0,1.0,Medium,On Leave,2020
+S0866,Emily Wilson,Female,43,Pharmacy,Pharmacist,Green Valley Medical,Part-Time,Morning,9,86500.0,30.0,0,3.0,High,Active,2023
+S0507,Thomas Rodriguez,Female,27,Emergency,ER Nurse,St. Mary Hospital,Contract,Morning,1,49600.0,23.0,0,8.0,Low,Active,2021
+S0941,Steven Wilson,Female,39,General Ward,Healthcare Assistant,Green Valley Medical,Full-Time,Morning,13,30700.0,57.0,17,16.0,Low,Resigned,2023
+S0366,Margaret White,Female,30,Pharmacy,Pharmacist,Metro Health Center,Contract,Afternoon,28,83200.0,15.0,0,7.0,High,Resigned,2019
+S0549,Sandra Moore,Male,42,Surgery,Anesthesiologist,Metro Health Center,Part-Time,Afternoon,12,133600.0,17.0,0,11.0,High,Active,2024
+S0204,Amanda Williams,Male,36,General Ward,Healthcare Assistant,St. Mary Hospital,Contract,Afternoon,13,26500.0,27.0,0,12.0,,Active,2024
+S0781,Amanda Hernandez,Female,59,ICU,ICU Specialist,Green Valley Medical,Contract,Morning,23,108900.0,19.0,0,14.0,High,Active,2022
+S1221,Sandra Lopez,Female,62,Pediatrics,Pediatric Nurse,Green Valley Medical,Part-Time,Morning,7,46500.0,33.0,0,5.0,Medium,Active,2019
+S1297,Joshua Wilson,male,53,Radiology,MRI Technician,Sunrise Clinic,Contract,Night,20,46100.0,19.0,0,2.0,Medium,Active,2022
+S1262,Linda Wilson,Male,34,surgery,Anesthesiologist,St. Mary Hospital,Full-Time,Morning,3,142200.0,59.0,19,2.0,High,Active,2021
+S0809,Kevin Taylor,Male,48,ICU,Respiratory Therapist,St. Mary Hospital,Part-Time,Morning,12,45700.0,30.0,0,,Low,Active,2020
+S0911,Steven Perez,Female,35,ICU,ICU Nurse,Metro Health Center,Part-Time,Morning,12,50900.0,,0,8.0,Medium,Active,2022
+S1388,Paul Robinson,Male,23,Radiology,MRI Technician,Green Valley Medical,Part-Time,Morning,26,41500.0,33.0,0,3.0,Medium,Active,2022
+S0185,Matthew Lewis,Female,48,GeneralWard,General Physician,Sunrise Clinic,Full-Time,Morning,3,84200.0,47.0,7,12.0,High,Active,2021
+S1465,Karen Taylor,Female,56,ICU,ICU Specialist,Green Valley Medical,Contract,Morning,15,,31.0,0,12.0,Medium,Active,2021
+S0480,Anthony Garcia,Male,41,Pediatrics,Child Therapist,St. Mary Hospital,Part-Time,Night,15,48100.0,22.0,0,11.0,Medium,Active,2021
+S0057,Donna Thomas,Male,27,Emergency,Paramedic,Sunrise Clinic,Contract,,26,42800.0,30.0,0,14.0,Low,Resigned,2022
+S1146,Deborah Hill,Male,29,ICU,Respiratory Therapist,Metro Health Center,Part-Time,Morning,12,48900.0,27.0,0,1.0,Low,Active,2024
+S0487,Patricia Miller,Female,25,Radiology,X-Ray Technician,Sunrise Clinic,Full-Time,Morning,14,41300.0,36.0,0,2.0,Low,Active,2024
+S0384,Brian Brown,Male,54,Pediatrics,Pediatrician,Metro Health Center,Part-Time,Afternoon,1,82600.0,27.0,0,20.0,Medium,Resigned,2023
+S0044,Nancy Lee,Female,26,Surgery,Scrub Nurse,City General,Part-Time,Night,5,56800.0,17.0,0,4.0,Low,Active,2021
+S0533,Richard Davis,Female,44,ICU,Respiratory Therapist,Metro Health Center,FULL TIME,Afternoon,12,50700.0,38.0,0,19.0,Medium,Active,2020
+S0756,Matthew Ramirez,Female,62,Radiology,X-Ray Technician,St. Mary Hospital,Part-Time,Night,2,39000.0,22.0,0,15.0,Low,Active,2024
+S1183,Donna Young,Female,28,Oncology,Chemo Nurse,City General,Part-Time,Morning,2,53300.0,19.0,0,16.0,Medium,Active,2019
+S0597,Margaret Anderson,Male,40,ICU,Respiratory Therapist,Green Valley Medical,Full-Time,Afternoon,4,43500.0,57.0,17,18.0,Medium,Active,2023
+S0102,Brian Davis,Female,51,Radiology,MRI Technician,Sunrise Clinic,Contract,Night,14,50700.0,32.0,0,6.0,Medium,Resigned,2019
+S0552,Donald Thompson,Male,40,Surgery,Anesthesiologist,Metro Health Center,Contract,Afternoon,1,157500.0,29.0,0,20.0,Medium,On Leave,2020
+S0579,David Wright,Male,55,ICU,ICU Specialist,City General,Contract,Morning,30,90100.0,18.0,0,6.0,High,Resigned,2021
+S0108,Matthew Clark,Male,62,Pharmacy,Pharmacist,Metro Health Center,Full-Time,Morning,12,82400.0,45.0,5,5.0,Medium,Active,2020
+S1290,Robert Moore,Male,33,Radiology,Radiologist,St. Mary Hospital,Part-Time,Morning,9,98500.0,32.0,0,17.0,High,Active,2019
+S1069,Mary Jackson,Male,61,Pediatrics,Child Therapist,Sunrise Clinic,CONTRACT,Afternoon,13,49100.0,30.0,0,7.0,Medium,Active,2022
+S0221,Amanda Adams,Male,28,Radiology,X-Ray Technician,Green Valley Medical,Contract,Morning,22,35700.0,33.0,0,20.0,Medium,On Leave,2020
+S0944,Michael Miller,Female,26,Radiology,X-Ray Technician,City General,Full-Time,,11,43200.0,56.0,16,15.0,Medium,Active,2020
+S0452,Thomas Harris,Female,37,Radiology,MRI Technician,St. Mary Hospital,Part-Time,Night,8,40500.0,32.0,0,8.0,Medium,Active,2024
+S1497,Thomas Scott,Male,57,Radiology,MRI Technician,St. Mary Hospital,FullTime,Morning,17,48000.0,54.0,14,14.0,Medium,Active,2019
+S0887,Anthony Harris,Male,53,Emergency,ER Nurse,City General,Full-Time,Night,26,50100.0,55.0,15,14.0,Low,On Leave,2024
+S0723,William Martinez,Female,42,Pharmacy,Drug Safety Officer,Metro Health Center,Full-Time,Night,26,65400.0,53.0,13,20.0,Low,Active,2019
+S0129,Karen Lewis,Male,55,General Ward,Ward Nurse,St. Mary Hospital,Part-Time,Morning,3,48400.0,19.0,0,13.0,Low,Active,2020
+S0333,Amanda Johnson,Female,50,General Ward,General Physician,Sunrise Clinic,Full-Time,Afternoon,2,71700.0,47.0,7,13.0,Medium,Active,2024
+S0298,Stephanie Walker,FEMALE,24,Pediatrics,Child Therapist,City General,Part-Time,Afternoon,11,44400.0,26.0,0,0.0,Low,Active,2019
+S1462,Deborah Martinez,Male,61,Pharmacy,Drug Safety Officer,Metro Health Center,Part-Time,Night,17,73700.0,19.0,0,10.0,Low,Active,2022
+S0705,Joseph Robinson,Male,53,ICU,ICU Nurse,City General,Full-Time,Morning,16,60200.0,41.0,1,7.0,Medium,Resigned,2024
+S0679,Michelle Thomas,Female,29,Radiology,MRI Technician,City General,Full-Time,Morning,13,48100.0,51.0,11,16.0,Low,Active,2023
+S0245,Sandra Rodriguez,Female,22,Surgery,Anesthesiologist,Green Valley Medical,Contract,Morning,13,161300.0,17.0,0,7.0,Medium,Resigned,2019
+S1079,  Margaret Williams  ,Male,50,ICU,Respiratory Therapist,St. Mary Hospital,Contract,Afternoon,21,48000.0,27.0,0,16.0,Medium,Active,2021
+S0662,Thomas Allen,Female,54,Oncology,Palliative Care Specialist,St. Mary Hospital,Contract,Morning,25,60800.0,18.0,0,1.0,Low,Active,2021
+S0845,Brian Anderson,Male,59,Surgrey,Scrub Nurse,Metro Health Center,Part-Time,Night,1,49400.0,22.0,0,11.0,Low,Resigned,2023
+S0707,Mary Gonzalez,Female,34,Pediatrics,Pediatric Nurse,Green Valley Medical,Contract,Night,8,47200.0,24.0,0,5.0,Medium,Active,2019
+S1168,Betty Jones,Female,46,Emergency,ER Doctor,Metro Health Center,Full-Time,Afternoon,20,87800.0,41.0,1,20.0,High,Active,2023
+S0232,Matthew Scott,Male,44,General Ward,Healthcare Assistant,City General,Part-Time,AM,22,33300.0,30.0,0,13.0,Low,Active,2020
+S0033,Joseph Johnson,Male,34,Emergency,ER Nurse,Green Valley Medical,Part-Time,Afternoon,9,48200.0,27.0,0,10.0,Medium,Active,2020
+S1198,Ashley Thomas,Female,58,Pediatrics,Child Therapist,Sunrise Clinic,Full-Time,Morning,11,42100.0,,19,15.0,Low,Active,2021
+S0495,Kenneth Smith,Female,25,Pharmacy,Pharmacy Technician,City General,Full-Time,Morning,15,34400.0,56.0,16,4.0,Medium,Resigned,2023
+S0599,Steven Robinson,Female,34,Oncology,Chemo Nurse,Green Valley Medical,Part-Time,Afternoon,29,61000.0,32.0,0,5.0,Low,On Leave,2023
+S1289,Emily Hill,Female,34,Oncology,Palliative Care Specialist,Sunrise Clinic,Full-Time,Afternoon,13,56800.0,50.0,10,13.0,Low,Active,2024
+S1182,Paul Lee,Male,29,Surgery,Surgeon,St. Mary Hospital,Part-Time,Morning,10,131000.0,23.0,0,12.0,High,Active,2020
+S0351,Sarah Williams,Female,50,Emergency,ER Doctor,Metro Health Center,Contract,Morning,13,90300.0,27.0,0,3.0,High,Active,2023
+S0990,Richard Smith,Male,23,ICU,ICU Specialist,Metro Health Center,Full-Time,Night,7,106000.0,35.0,0,11.0,Medium,Resigned,2023
+S1152,Lisa Allen,Male,42,Radiology,Radiologist,City General,Full-Time,Morning,10,117900.0,55.0,15,17.0,High,Active,2023
+S0965,Joshua Perez,Male,41,Pharmacy,Drug Safety Officer,Green Valley Medical,Contract,Morning,7,73600.0,23.0,0,18.0,Low,Active,2019
+S1311,Joseph Lewis,Male,41,pediatrics,Pediatric Nurse,City General,Full-Time,Afternoon,15,1000.0,50.0,10,12.0,Low,Resigned,2019
+S0412,Richard Clark,Female,60,Emergency,ER Nurse,Metro Health Center,Full-Time,Morning,8,54200.0,48.0,8,12.0,Medium,Active,2021
+S0164,Donald Taylor,Male,48,Radiology,X-Ray Technician,St. Mary Hospital,Part-Time,Night,8,45700.0,33.0,0,18.0,Medium,Active,2023
+S0904,Ashley Davis,Female,39,Radiology,X-Ray Technician,City General,Full-Time,Night,25,37100.0,45.0,5,4.0,Low,Active,2023
+S0498,Christopher Harris,Male,49,Oncology,Oncologist,Sunrise Clinic,Contract,Night Shift,18,123300.0,27.0,0,13.0,High,Active,2024
+S0307,Lisa Miller,Female,57,ICU,ICU Specialist,Metro Health Center,Contract,Night,9,105800.0,17.0,0,10.0,Medium,Active,2021
+S0434,Christopher Hill,Female,45,Radiology,X-Ray Technician,Sunrise Clinic,Contract,Afternoon,7,38900.0,33.0,0,17.0,Medium,Active,2024
+S0670,Stephanie Young,Female,25,Pediatrics,Pediatrician,City General,Part-Time,Afternoon,12,80000.0,18.0,0,17.0,Medium,Active,2020
+S0600,Kenneth Wright,Male,58,Emergency,Paramedic,Sunrise Clinic,Full-Time,Afternoon,2,42100.0,53.0,13,,Low,Active,2021
+S0372,Joseph Clark,Male,32,Surgery,Surgeon,St. Mary Hospital,Contract,Afternoon,22,141600.0,18.0,0,15.0,Medium,Active,2024
+S1422,Susan Wilson,Female,26,Pediatrics,Child Therapist,City General,Contract,Afternoon,2,44200.0,25.0,0,11.0,Low,On Leave,2019
+S1213,Christopher King,Male,35,Pharmacy,Drug Safety Officer,St. Mary Hospital,Contract,Morning,23,63200.0,30.0,0,6.0,Medium,On Leave,2022
+S1085,Barbara Nguyen,Female,52,Oncology,Chemo Nurse,Green Valley Medical,Full-Time,Night,17,64000.0,51.0,11,10.0,Low,Active,2024
+S0193,Amanda Garcia,Male,46,Pharmacy,Drug Safety Officer,City General,Part-Time,Morning,18,67400.0,26.0,0,2.0,Low,Resigned,2021
+S1111,Stephanie Ramirez,Male,58,Radiology,Radiologist,Metro Health Center,Part-Time,Afternoon,10,95700.0,27.0,0,18.0,Medium,Active,2024
+S1098,Donald Hill,Male,61,Pharmacy,Pharmacist,Green Valley Medical,Full-Time,Night,8,87900.0,48.0,8,8.0,High,Active,2023
+S0927,Jennifer Jackson,Female,31,Pediatrics,Pediatrician,Sunrise Clinic,Full-Time,Night,30,83600.0,36.0,0,15.0,Medium,Resigned,2023
+S0064,Michelle Ramirez,Male,55,Pharmacy,Drug Safety Officer,Sunrise Clinic,Part-Time,Afternoon,2,65000.0,33.0,0,19.0,Low,Resigned,2021
+S0708,Mary Lopez,Male,43,Oncology,Palliative Care Specialist,City General,Full-Time,Night,1,68800.0,43.0,3,3.0,Medium,On Leave,2020
+S1147,Mary Wilson,Male,47,General Ward,Ward Nurse,Sunrise Clinic,Contract,Night,21,49300.0,20.0,0,0.0,Medium,Active,2024
+S1204,Lisa Sanchez,Male,45,Radiology,MRI Technician,City General,FullTime,Morning,21,42400.0,38.0,0,6.0,Medium,Active,2023
+S0940,Amanda Adams,Female,22,ICU,Respiratory Therapist,St. Mary Hospital,Part-Time,Night,5,49300.0,16.0,0,11.0,Medium,Active,2024
+S0909,Amanda Miller,Male,39,Pharmacy,Pharmacist,Green Valley Medical,Full-Time,Afternoon,24,77400.0,49.0,9,3.0,Medium,Resigned,2023
+S0275,Patricia Walker,Male,42,Oncology,Oncologist,St. Mary Hospital,Full-Time,Night,8,127300.0,46.0,6,18.0,High,Resigned,2021
+S1376,John Perez,Female,52,Radiology,Radiologist,City General,Full-Time,Night,18,106700.0,50.0,10,7.0,High,Active,2021
+S0669,Lisa White,Female,24,Radiology,X-Ray Technician,St. Mary Hospital,Full-Time,Night,1,40000.0,44.0,4,15.0,Medium,Active,2021
+S1378,William Anderson,Male,28,General Ward,Ward Nurse,Sunrise Clinic,Contract,Night,4,43500.0,21.0,0,11.0,Low,Active,2024
+S0199,William Wright,Female,53,Radiology,MRI Technician,Green Valley Medical,Full-Time,Afternoon,21,48000.0,40.0,0,17.0,Low,Active,2020
+S0454,Jessica Rodriguez,Female,60,Pediatrics,Pediatric Nurse,Metro Health Center,Part-Time,Afternoon,28,53500.0,32.0,0,6.0,Low,Active,2020
+S0340,Anthony Hill,Female,43,Surgery,Scrub Nurse,City General,Part-Time,Afternoon,28,56400.0,24.0,0,17.0,Low,Resigned,2020
+S1037,Brian Lewis,Male,39,Pharmacy,Pharmacist,Green Valley Medical,Full-Time,Morning,12,79300.0,37.0,0,15.0,Medium,Resigned,2021
+S0890,George Rodriguez,Male,23,Radiology,Radiologist,City General,Full-Time,Afternoon,7,103800.0,43.0,3,15.0,High,Resigned,2019
+S0272,Barbara Williams,Female,35,Pharmacy,Pharmacist,Green Valley Medical,Part-Time,Morning,8,85100.0,34.0,0,19.0,High,Active,2022
+S0577,James Miller,Male,38,Emergency,ER Nurse,Green Valley Medical,Full-Time,Morning,19,47000.0,54.0,14,6.0,Low,Active,2024
+S0219,Kenneth Martin,Female,26,Surgery,Scrub Nurse,Sunrise Clinic,Contract,Afternoon,23,52000.0,23.0,0,4.0,Medium,Resigned,2020
+S0797,George Martin,Male,46,ICU,ICU Nurse,City General,Full-Time,Morning,4,59600.0,60.0,20,15.0,Medium,Active,2023
+S1237,Jennifer Clark,Male,37,Pediatrics,Pediatrician,Green Valley Medical,Part-Time,Morning,13,85600.0,17.0,0,15.0,Medium,Active,2021
+S0428,Susan Williams,Male,55,Radiology,Radiologist,St. Mary Hospital,Full-Time,Night,7,101600.0,38.0,0,15.0,High,Active,2020
+S0352,Mark Young,Female,23,Oncology,Palliative Care Specialist,Metro Health Center,Part-Time,,7,55700.0,24.0,0,20.0,Medium,Active,2023
+S1031,Paul Moore,Female,62,ICU,ICU Specialist,Green Valley Medical,Full-Time,Night,24,96400.0,55.0,15,19.0,High,Active,2019
+S1263,Brian Hill,Male,49,Oncology,Chemo Nurse,Sunrise Clinic,Contract,Afternoon,12,54900.0,25.0,0,12.0,Low,Active,2019
+S0325,John Jackson,Female,38,Surgery,Scrub Nurse,St. Mary Hospital,Full-Time,,14,53900.0,60.0,20,10.0,Low,Active,2020
+S0414,Kenneth Robinson,Male,26,Oncology,Chemo Nurse,Green Valley Medical,Full-Time,Morning,23,60100.0,49.0,9,8.0,Medium,Active,2019
+S1336,Emily Perez,Male,22,Radiology,X-Ray Technician,Sunrise Clinic,Part-Time,Morning,8,37400.0,16.0,0,4.0,Low,Active,2019
+S1041,David Clark,Male,42,Pharmacy,Drug Safety Officer,Green Valley Medical,full-time,Night,21,67800.0,45.0,5,10.0,Medium,Active,2019
+S0695,Sarah Miller,Female,49,ICU,ICU Specialist,Green Valley Medical,Contract,Morning,27,105500.0,22.0,0,10.0,Medium,Active,2021
+S1094,Paul Thomas,Female,54,Pediatrics,Pediatric Nurse,Green Valley Medical,Contract,Afternoon,17,49600.0,23.0,0,17.0,Low,Resigned,2021
+S1484,Deborah Wright,Female,35,Pediatrics,Pediatric Nurse,City General,Contract,Morning,27,45700.0,19.0,0,6.0,Low,Active,2020
+S1156,Mark Clark,Male,40,Surgrey,Surgeon,Metro Health Center,Full-Time,Morning,7,156500.0,52.0,12,18.0,High,Resigned,2022
+S0290,Kevin Taylor,Female,29,Oncology,Oncologist,Sunrise Clinic,Part-Time,Afternoon,6,113000.0,32.0,0,12.0,High,Active,2022
+S1170,Charles Miller,Male,61,Pediatrics,Pediatric Nurse,St. Mary Hospital,CONTRACT,Morning,17,49700.0,20.0,0,18.0,,Active,2021
+S1423,Emily Ramirez,Male,49,Pharmacy,Drug Safety Officer,Sunrise Clinic,Full-Time,Night,29,72500.0,52.0,12,20.0,Medium,Active,2024
+S1006,Robert Allen,Female,30,Pharmacy,Drug Safety Officer,St. Mary Hospital,Part-Time,Night,1,71800.0,28.0,0,0.0,Medium,Active,2019
+S1005,Brian Thomas,Male,40,General Ward,General Physician,City General,Full-Time,Afternoon,27,70600.0,43.0,3,3.0,Medium,Active,2024
+S0619,Susan Clark,Male,40,Surgery,Anesthesiologist,City General,Contract,Night,9,139600.0,15.0,0,9.0,Medium,Active,2022
+S0998,Susan Robinson,Female,50,ICU,ICU Nurse,Sunrise Clinic,Full-Time,Afternoon,12,55200.0,56.0,16,3.0,Low,Active,2019
+S0278,Joseph Johnson,Female,24,Oncology,Oncologist,City General,Full-Time,Morning,11,127200.0,50.0,10,0.0,Medium,Active,2023
+S1190,Donald Torres,Male,58,ICU,ICU Specialist,St. Mary Hospital,Full-Time,Night,13,102600.0,44.0,4,19.0,High,Resigned,2024
+S0862,Charles Sanchez,Male,29,Oncology,Chemo Nurse,St. Mary Hospital,Part-Time,Night,15,56700.0,34.0,0,4.0,Medium,Active,2021
+S0237,Joshua Wright,Male,25,Pediatrics,Pediatrician,Metro Health Center,Part-Time,Night,10,82800.0,25.0,0,9.0,High,Resigned,2021
+S0615,Charles Gonzalez,Female,30,Radiology,MRI Technician,Metro Health Center,Full-Time,afternoon,6,41400.0,48.0,8,11.0,Low,Active,2021
+S1331,Daniel Allen,Female,43,Oncology,Oncologist,Sunrise Clinic,Full-Time,Night,23,120000.0,44.0,4,20.0,High,Resigned,2022
+S1476,Kimberly Scott,Male,39,Pediatrics,Pediatric Nurse,City General,Full-Time,Afternoon,29,49700.0,47.0,7,5.0,Low,Active,2023
+S1398,Matthew Torres,Female,55,Radiology,Radiologist,City General,Contract,Afternoon,5,99000.0,22.0,0,13.0,High,Active,2022
+S1303,Donna Walker,Male,61,ICU,ICU Specialist,City General,Contract,Morning,1,103900.0,20.0,0,7.0,High,Active,2021
+S0209,Emily Anderson,Female,42,Icu,ICU Nurse,Green Valley Medical,Contract,Morning,14,55800.0,32.0,0,12.0,Medium,Active,2022
+S0381,Betty Miller,Male,46,ICU,Respiratory Therapist,Green Valley Medical,Full-Time,Night,19,44500.0,48.0,8,20.0,Medium,Active,2022
+S1248,Michael Brown,Male,41,Emergency,ER Nurse,Metro Health Center,Part-Time,Afternoon,7,51000.0,21.0,0,20.0,Medium,Active,2020
+S0939,Anthony Ramirez,Female,47,General Ward,Ward Nurse,St. Mary Hospital,Contract,Afternoon,15,42400.0,15.0,0,9.0,Medium,Active,2022
+S0059,Thomas Anderson,Female,44,Radiology,MRI Technician,Green Valley Medical,Part-Time,Night,4,42000.0,21.0,0,10.0,Low,Active,2021
+S0383,Margaret Rodriguez,Female,38,Pediatrics,Pediatric Nurse,Green Valley Medical,Contract,Afternoon,26,46000.0,22.0,0,14.0,Medium,Active,2024
+S0375,Donald Hernandez,Female,27,Emergency,Paramedic,Metro Health Center,Part-Time,Morning,5,38600.0,28.0,0,19.0,,Active,2022
+S0430,Donna Clark,Female,27,Surgery,Anesthesiologist,St. Mary Hospital,Contract,Afternoon,9,154200.0,16.0,0,19.0,High,Active,2021
+S0995,Sandra Jones,Male,55,Pediatrics,Pediatrician,City General,Contract,Night,7,,32.0,0,19.0,High,Active,2019
+S1226,Sarah Wilson,Female,26,Pediatrics,Pediatric Nurse,Green Valley Medical,Part-Time,Morning,21,49300.0,22.0,0,10.0,Medium,On Leave,2022
+S0742,John Jones,Male,26,Surgery,Scrub Nurse,Metro Health Center,Part-Time,Night,25,51600.0,28.0,0,9.0,Medium,Active,2021
+S1236,Patricia Rodriguez,Female,42,Emergency,Paramedic,St. Mary Hospital,Contract,Night,5,43100.0,17.0,0,2.0,Medium,On Leave,2023
+S0362,Christopher Ramirez,Female,59,General Ward,Ward Nurse,Metro Health Center,Contract,Morning,8,42800.0,15.0,0,10.0,Medium,Active,2021
+S1080,George Hernandez,Male,28,General Ward,Ward Nurse,Metro Health Center,Part-Time,morning,5,46000.0,28.0,0,10.0,Medium,Active,2019
+S0465,Matthew Allen,Female,62,ICU,Respiratory Therapist,Metro Health Center,Full-Time,Afternoon,13,44600.0,47.0,7,17.0,Low,Active,2024
+S0583,Melissa Young,Male,52,Pharmacy,Pharmacist,City General,Part-Time,Night,15,86000.0,18.0,0,12.0,High,Resigned,2019
+S1179,Joseph White,Male,37,ICU,ICU Nurse,City General,Part-Time,Night,5,56600.0,16.0,0,4.0,Low,Active,2022
+S0842,Barbara Harris,Male,22,Radiology,MRI Technician,City General,Contract,,4,47300.0,30.0,0,2.0,,Resigned,2021
+S1068,Lisa Jackson,Female,27,General Ward,Healthcare Assistant,Metro Health Center,Contract,Morning,1,30200.0,29.0,0,14.0,Low,Resigned,2021
+S0234,Linda Torres,Female,58,Oncology,Oncologist,Metro Health Center,Part-Time,Night,27,113700.0,23.0,0,17.0,,Resigned,2023
+S1432,Joshua Anderson,Male,41,Pediatrics,Child Therapist,City General,Contract,Night,21,45300.0,34.0,0,11.0,Low,Active,2023
+S0197,Anthony Williams,Male,52,General Ward,Ward Nurse,Green Valley Medical,Full-Time,Afternoon,1,49200.0,42.0,2,4.0,Medium,Resigned,2021
+S0665,Jennifer Garcia,Female,28,Surgery,Scrub Nurse,Sunrise Clinic,Contract,Morning,16,49000.0,28.0,0,4.0,Low,Active,2022
+S1288,James Jones,Male,38,Oncology,Palliative Care Specialist,Metro Health Center,Part-Time,Morning,15,58100.0,23.0,0,15.0,Medium,Active,2022
+S0082,David Martin,Male,49,Oncology,Oncologist,St. Mary Hospital,Contract,Morning,11,139600.0,15.0,0,1.0,Medium,Active,2022
+S1434,  Barbara Ramirez  ,Male,47,Radiology,Radiologist,Metro Health Center,Part-Time,Night,26,,23.0,0,2.0,High,Resigned,2024
+S0999,Sarah Johnson,Male,52,Pharmacy,Drug Safety Officer,Sunrise Clinic,Contract,Afternoon,7,64800.0,23.0,0,16.0,Low,Active,2024
+S1430,Charles Martinez,Male,33,Oncology,Palliative Care Specialist,City General,Full-Time,Morning,19,67700.0,48.0,8,12.0,Medium,Active,2020
+S0112,Stephanie Ramirez,Female,40,Surgery,Surgeon,St. Mary Hospital,Full-Time,Afternoon,18,131500.0,39.0,0,12.0,High,Active,2022
+S1305,Steven Allen,Male,42,Pediatrics,Pediatrician,Metro Health Center,Part-Time,Morning,5,94700.0,16.0,0,12.0,Medium,Active,2019
+S0807,Patricia Thompson,Female,54,Pharmacy,Pharmacist,Metro Health Center,Part-Time,Morning,11,75100.0,34.0,0,14.0,Medium,Active,2022
+S1014,Kimberly Davis,Female,26,ICU,ICU Specialist,St. Mary Hospital,Full-Time,Afternoon,28,95400.0,41.0,1,14.0,Medium,On Leave,2020
+S1441,Emily Lewis,Female,36,Emergency,Paramedic,Green Valley Medical,Part-Time,Night,13,42300.0,34.0,0,9.0,Medium,Resigned,2019
+S1294,Carol Hernandez,Male,37,GeneralWard,General Physician,City General,Full-Time,Afternoon,9,84600.0,40.0,0,7.0,High,Active,2022
+S0675,Michelle Lewis,Male,23,Emergency,ER Doctor,City General,Full-Time,Afternoon,20,86400.0,60.0,20,17.0,Medium,Active,2024
+S0311,Joseph Martin,M,43,Oncology,Palliative Care Specialist,City General,Full-Time,Night,12,61900.0,60.0,20,10.0,Medium,Active,2021
+S0612,Robert Thompson,Female,28,Radiology,X-Ray Technician,Green Valley Medical,Contract,Morning,24,41900.0,34.0,0,17.0,Medium,On Leave,2023
+S0923,John Nguyen,Female,59,Radiology,MRI Technician,Green Valley Medical,Part-Time,Afternoon,4,48500.0,25.0,0,19.0,Low,Active,2020
+S0918,Melissa Jackson,Male,52,emergency,ER Nurse,St. Mary Hospital,Full-Time,Morning,6,48700.0,51.0,11,16.0,Low,Active,2023
+S0846,Daniel White,Female,57,Surgery,Surgeon,St. Mary Hospital,Full-Time,Afternoon,5,129100.0,44.0,4,14.0,High,Active,2019
+S1134,Kimberly Brown,Female,55,Emergency,ER Doctor,Metro Health Center,Full-Time,Night,8,93700.0,46.0,6,17.0,High,Active,2023
+S0620,James Walker,Female,37,Surgery,Anesthesiologist,Sunrise Clinic,Contract,Afternoon,22,138700.0,25.0,0,12.0,Medium,Active,2019
+S0367,Kevin Martinez,MALE,50,Pediatrics,Child Therapist,Metro Health Center,Full-Time,Morning,8,47900.0,46.0,6,1.0,Low,Active,2023
+S0102,Brian Davis,Female,51,Radiology,MRI Technician,Sunrise Clinic,Contract,Night,14,50700.0,32.0,0,6.0,Medium,Resigned,2019
+S1243,Thomas Sanchez,Male,60,Pharmacy,Pharmacist,City General,Part-Time,Afternoon,1,77000.0,24.0,0,14.0,Medium,On Leave,2021
+S0426,Carol White,Male,62,Radiology,MRI Technician,City General,Part-Time,Night,24,50200.0,22.0,0,10.0,Medium,Active,2019
+S0882,Kenneth Taylor,Male,30,Pharmacy,Pharmacist,Metro Health Center,Full-Time,Night,11,88700.0,52.0,12,5.0,High,Active,2022
+S0830,Thomas Johnson,Male,44,Emergency,Paramedic,Green Valley Medical,Contract,Morning,24,43800.0,33.0,0,3.0,Medium,Active,2020
+S1354,Patricia Martin,Female,56,Radiology,Radiologist,St. Mary Hospital,Part-Time,,27,116800.0,19.0,0,8.0,High,Active,2019
+S1404,William White,Female,32,Oncology,Chemo Nurse,Sunrise Clinic,Full-Time,Morning,14,61800.0,58.0,18,,Low,Active,2024
+S0650,Daniel Hernandez,Male,57,Oncology,Oncologist,Green Valley Medical,Full-Time,Morning,26,115700.0,51.0,11,1.0,Medium,Active,2021
+S0589,Mark Robinson,Female,29,Emergency,ER Doctor,Green Valley Medical,Part-Time,Afternoon,18,85600.0,16.0,0,5.0,Medium,Active,2022
+S1210,Susan White,Male,23,Radiology,X-Ray Technician,City General,Full-Time,Morning,26,36100.0,39.0,0,18.0,Medium,Active,2019
+S1431,Linda Robinson,Male,57,Emergency,ER Nurse,Sunrise Clinic,Full-Time,Afternoon,15,51800.0,35.0,0,20.0,Low,Active,2024
+S0783,Susan Brown,Female,32,Pediatrics,Pediatric Nurse,Green Valley Medical,Full-Time,Morning,11,45900.0,51.0,11,,,Active,2022
+S1310,Richard Johnson,Female,41,Pharmacy,Pharmacy Technician,Green Valley Medical,Full-Time,Afternoon,25,35500.0,48.0,8,20.0,Low,Active,2022
+S0255,Daniel King,Male,30,Pediatrics,Pediatrician,City General,Full-Time,Night,6,,60.0,20,8.0,Medium,Active,2022
+S0323,John Scott,male,44,Surgery,Scrub Nurse,Green Valley Medical,Part-Time,Night,11,56100.0,21.0,0,15.0,Medium,Resigned,2020
+S1115,Linda Harris,Male,35,Pharmacy,Pharmacy Technician,City General,Full-Time,Afternoon,13,32400.0,49.0,9,6.0,Medium,Active,2022
+S0429,Patricia White,Female,53,ICU,ICU Specialist,Metro Health Center,Contract,Night,1,97200.0,34.0,0,2.0,High,Active,2021
+S0576,Donald Ramirez,Male,49,Surgery,Surgeon,St. Mary Hospital,Full-Time,Night,2,122800.0,41.0,1,3.0,Medium,Resigned,2019
+S1076,William Jackson,Male,33,Radiology,X-Ray Technician,City General,Contract,Afternoon,19,36100.0,15.0,0,6.0,Medium,Active,2021
+S0870,Anthony Walker,Female,43,Emergency,ER Doctor,City General,Full-Time,Afternoon,23,92800.0,52.0,12,5.0,High,Active,2021
+S0355,Mark Sanchez,Male,58,Pediatrics,Pediatric Nurse,Sunrise Clinic,Part-Time,Morning,13,51100.0,25.0,0,0.0,Medium,Active,2022
+S1200,Mark Walker,Female,26,Pediatrics,Pediatrician,Green Valley Medical,Contract,Afternoon,10,,20.0,0,9.0,Medium,Active,2023
+S0087,Stephanie Young,Male,58,Pharmacy,Pharmacy Technician,St. Mary Hospital,Contract,Night,26,36700.0,22.0,0,,Medium,Active,2023
+S1451,Joseph Ramirez,Female,53,Pharmacy,Pharmacist,Metro Health Center,Contract,Night,8,89200.0,22.0,0,17.0,High,Resigned,2022
+S0266,Linda Wright,male,32,ICU,ICU Specialist,Green Valley Medical,Part-Time,Afternoon,10,101700.0,21.0,0,14.0,Medium,On Leave,2022
+S0288,Margaret Torres,Female,40,Pharmacy,Drug Safety Officer,St. Mary Hospital,Full-Time,Afternoon,2,69000.0,50.0,10,4.0,Low,On Leave,2019
+S0254,Linda Robinson,Female,37,ICU,ICU Nurse,St. Mary Hospital,Full-Time,Morning,10,60000.0,54.0,14,1.0,Low,Resigned,2022
+S0439,Patricia Perez,female,24,ICU,Respiratory Therapist,Sunrise Clinic,Contract,,30,47700.0,28.0,0,13.0,Low,Active,2019
+S1425,Kimberly Rodriguez,Female,37,Surgery,Scrub Nurse,Metro Health Center,Contract,Afternoon,8,54700.0,16.0,0,6.0,Medium,Active,2024
+S1086,Matthew Smith,Female,32,Radiology,MRI Technician,City General,Part-Time,Night,8,51000.0,17.0,0,10.0,Low,Active,2022
+S0440,Kimberly Williams,Male,62,ICU,ICU Specialist,St. Mary Hospital,Part-Time,Night Shift,5,100500.0,32.0,0,18.0,High,Active,2021
+S0757,Barbara Taylor,Male,31,Radiology,X-Ray Technician,Sunrise Clinic,Contract,Afternoon,22,39100.0,,0,18.0,Low,Active,2024
+S0222,Steven King,Female,28,Pharmacy,Pharmacy Technician,Green Valley Medical,Full-Time,Morning,8,41100.0,53.0,13,18.0,Medium,Active,2020
+S0114,David Adams,Female,40,Pharmacy,Drug Safety Officer,St. Mary Hospital,Part-Time,Morning,14,67500.0,26.0,0,2.0,Low,Active,2021
+S0591,Margaret Taylor,Female,52,General Ward,Healthcare Assistant,Metro Health Center,Full-Time,Night,20,33100.0,53.0,13,12.0,Low,Active,2019
+S0602,Margaret Thomas,Female,32,Pharmacy,Pharmacy Technician,Metro Health Center,Contract,Afternoon,1,33900.0,19.0,0,6.0,Medium,Active,2020
+S0175,William Allen,Female,51,ICU,ICU Nurse,Metro Health Center,CONTRACT,Night,26,57700.0,23.0,0,6.0,Medium,Active,2022
+S0553,Michelle Perez,Male,23,Oncology,Oncologist,Green Valley Medical,Contract,Morning,19,,25.0,0,15.0,Medium,Active,2022
+S0382,Margaret Wilson,Female,58,Oncology,Chemo Nurse,Green Valley Medical,Contract,Afternoon,16,56800.0,32.0,0,17.0,Medium,Active,2024
+S1201,Carol Clark,Male,31,ICU,Respiratory Therapist,St. Mary Hospital,Part-Time,Morning,21,44600.0,32.0,0,17.0,Medium,Active,2023
+S0019,Paul Lewis,Female,43,ICU,ICU Specialist,City General,Full-Time,Morning,9,94600.0,48.0,8,5.0,High,Active,2020
+S1191,Ashley Walker,Male,53,General Ward,Healthcare Assistant,Green Valley Medical,Part-Time,Night,29,27500.0,29.0,0,17.0,Low,Resigned,2024
+S0286,Robert Scott,Male,43,Oncology,Oncologist,City General,Part-Time,,20,139400.0,17.0,0,10.0,High,Resigned,2024
+S1211,Robert Martinez,Male,22,Surgery,Surgeon,Green Valley Medical,Full-Time,Night,21,158200.0,55.0,15,14.0,,Active,2023
+S0747,Joseph Perez,Male,55,Oncology,Chemo Nurse,Green Valley Medical,Contract,Afternoon,18,55600.0,22.0,0,6.0,Medium,Active,2019
+S1222,Mary Young,Female,52,ICU,ICU Specialist,Green Valley Medical,Part-Time,Morning,27,102900.0,20.0,0,9.0,Medium,Resigned,2020
+S0032,Stephanie Thomas,Male,33,Pediatrics,Pediatric Nurse,Sunrise Clinic,Part-Time,Night,13,48400.0,20.0,0,3.0,Low,Active,2024
+S1162,  Paul Martin  ,Male,47,Pharmacy,Drug Safety Officer,Sunrise Clinic,Contract,Morning,26,65400.0,22.0,0,18.0,Low,Active,2021
+S0211,Lisa Lewis,Female,42,Pediatrics,Child Therapist,St. Mary Hospital,Full-Time,Afternoon,4,45900.0,59.0,19,8.0,Low,Resigned,2019
+S1000,Mark Ramirez,Female,38,Pharmacy,Pharmacist,Sunrise Clinic,Part-Time,Night,9,81500.0,23.0,0,1.0,High,Active,2022
+S0479,Kenneth Wright,Male,31,Radiology,MRI Technician,Green Valley Medical,Full-Time,Afternoon,13,42700.0,53.0,13,19.0,Medium,Active,2022
+S0837,Paul Moore,Female,43,general ward,General Physician,City General,Full-Time,Afternoon,1,80300.0,52.0,12,3.0,Medium,Resigned,2019
+S0798,David Lee,Female,57,Radiology,X-Ray Technician,St. Mary Hospital,Contract,Afternoon,26,41400.0,20.0,0,11.0,Low,Active,2019
+S0963,  Karen Nguyen  ,FEMALE,29,General Ward,Healthcare Assistant,St. Mary Hospital,Part-Time,Morning,2,31300.0,24.0,0,2.0,Low,Active,2021
+S0395,Emily Lopez,female,61,Emergency,ER Nurse,Metro Health Center,Part-Time,Afternoon,8,53400.0,23.0,0,12.0,Medium,On Leave,2021
+S1193,Margaret Rodriguez,Male,51,Oncology,Oncologist,Metro Health Center,Contract,Afternoon,13,137500.0,26.0,0,6.0,High,Active,2020
+S0189,Steven Jackson,Female,36,Emergency,ER Nurse,St. Mary Hospital,Full-Time,Night,11,48800.0,58.0,18,18.0,Medium,Active,2020
+S1176,Patricia Martin,Male,42,Oncology,Palliative Care Specialist,Metro Health Center,Full-Time,night,18,,41.0,1,11.0,Low,On Leave,2019
+S0967,Karen Moore,Female,51,Oncology,Oncologist,City General,Full-Time,Night,10,112800.0,42.0,2,17.0,High,Active,2019
+S0635,Charles Robinson,Male,31,General Ward,Healthcare Assistant,Metro Health Center,Contract,Afternoon,10,32200.0,17.0,0,15.0,Low,Active,2019
+S0494,Lisa Sanchez,Female,42,General Ward,General Physician,Sunrise Clinic,Full-Time,Night,22,71100.0,54.0,14,3.0,Low,Active,2020
+S1342,Paul Wright,Female,22,General Ward,General Physician,St. Mary Hospital,Full-Time,Afternoon,28,,35.0,0,16.0,Medium,Active,2021
+S0932,Patricia Sanchez,Female,30,Oncology,Oncologist,Metro Health Center,Contract,Night,15,114100.0,27.0,0,0.0,High,Active,2021
+S0084,Kenneth Taylor,Male,53,Pharmacy,Drug Safety Officer,City General,Full-Time,Night,29,67500.0,43.0,3,0.0,Medium,Active,2022
+S0694,Richard Hernandez,Male,36,ICU,Respiratory Therapist,St. Mary Hospital,Part-Time,Night,21,47400.0,24.0,0,2.0,Low,Active,2020
+S0049,Donald Johnson,Female,46,General Ward,Ward Nurse,Green Valley Medical,Part-Time,Afternoon,8,48800.0,16.0,0,11.0,Medium,Active,2019
+S1138,Richard Thomas,Female,32,Pediatrics,Pediatrician,Sunrise Clinic,Part-Time,Night,8,93700.0,26.0,0,2.0,Medium,Active,2023
+S0156,Carol Clark,Male,31,Oncology,Chemo Nurse,Green Valley Medical,Full-Time,Morning,30,54100.0,40.0,0,10.0,Medium,Active,2022
+S0427,Barbara Adams,F,34,ICU,Respiratory Therapist,Sunrise Clinic,Contract,Night,21,46600.0,25.0,0,13.0,Medium,Resigned,2023
+S1164,Amanda Young,Male,37,Pediatrics,Child Therapist,City General,Full-Time,Night,4,42000.0,45.0,5,2.0,Low,Active,2019
+S0436,Brian Moore,Male,41,Pediatrics,Pediatric Nurse,Green Valley Medical,Full-Time,Morning,19,53100.0,51.0,11,17.0,Medium,Active,2019
+S1074,Christopher Adams,Male,60,Pediatrics,Child Therapist,Sunrise Clinic,Contract,Night,21,44100.0,20.0,0,18.0,Medium,Active,2019
+S0835,Amanda Williams,Male,46,Emergency,Paramedic,St. Mary Hospital,Full-Time,Afternoon,9,37200.0,42.0,2,2.0,Medium,Resigned,2019
+S1256,Paul Clark,Female,44,Pharmacy,Pharmacy Technician,Sunrise Clinic,Full-Time,Afternoon,20,37900.0,48.0,8,2.0,Medium,Resigned,2024
+S1372,Barbara Davis,Female,46,Surgery,Anesthesiologist,Metro Health Center,Contractor,Morning,9,147500.0,26.0,0,16.0,,Active,2024
+S0536,George Lewis,Male,53,Pediatrics,Pediatrician,St. Mary Hospital,Full-Time,Night,14,89700.0,53.0,13,10.0,High,Active,2020
+S0180,Anthony Scott,Male,52,Surgery,Surgeon,Metro Health Center,Part-Time,Morning,25,150900.0,32.0,0,6.0,Medium,Active,2021
+S0544,Donald Martin,Male,44,Pharmacy,Pharmacist,St. Mary Hospital,Full-Time,Afternoon,28,77600.0,57.0,17,14.0,Low,Active,2019
+S1274,Kevin Gonzalez,Male,23,Surgery,Surgeon,Metro Health Center,Full-Time,Morning,12,149200.0,56.0,16,17.0,High,Active,2020
+S0632,Charles Martinez,Male,23,Surgrey,Scrub Nurse,Sunrise Clinic,Full-Time,Morning,26,50000.0,44.0,4,15.0,Medium,Active,2022
+S0715,Mark King,Female,57,Pediatrics,Pediatric Nurse,St. Mary Hospital,Full-Time,Morning,2,49800.0,42.0,2,18.0,Low,Resigned,2021
+S0844,Donna Young,Female,30,Pharmacy,Drug Safety Officer,Sunrise Clinic,Full-Time,Night,18,68800.0,52.0,12,15.0,Low,Active,2022
+S0364,George Jones,Male,39,ICU,ICU Specialist,City General,Contract,Morning,21,92500.0,15.0,0,16.0,High,Resigned,2021
+S1202,Michael Williams,Female,37,General Ward,Healthcare Assistant,City General,Contract,morning,13,27200.0,27.0,0,15.0,Medium,Active,2022
+S1224,Emily Wilson,Female,60,ICU,ICU Nurse,City General,Full-Time,Afternoon,10,56800.0,50.0,10,0.0,Medium,Active,2023
+S0347,Karen Scott,Male,54,ICU,ICU Specialist,St. Mary Hospital,Part-Time,Morning,19,98700.0,19.0,0,5.0,High,Active,2022
+S0819,Charles Walker,Male,22,Emergency,ER Doctor,Green Valley Medical,Contract,Morning,14,89600.0,34.0,0,3.0,High,Active,2020
+S0535,Carol Robinson,Female,40,Emergency,ER Doctor,Green Valley Medical,Part-Time,Morning,30,85700.0,18.0,0,1.0,High,Active,2021
+S0680,Donald Johnson,Male,42,ICU,ICU Nurse,Sunrise Clinic,Contract,Afternoon,9,56700.0,22.0,0,0.0,Medium,Active,2019
+S1321,Sarah Anderson,Male,59,Radiology,X-Ray Technician,Green Valley Medical,Contract,Night,9,35400.0,28.0,0,15.0,Medium,Active,2023
+S0608,Sarah Moore,Male,42,Radiology,X-Ray Technician,Sunrise Clinic,Part-Time,Night,23,37400.0,26.0,0,15.0,Low,Active,2024
+S1270,James Harris,Male,26,ICU,Respiratory Therapist,Sunrise Clinic,Part-Time,Morning,10,44900.0,27.0,0,1.0,Low,Resigned,2020
+S0942,Ashley Rodriguez,Male,44,ICU,ICU Specialist,Metro Health Center,Contract,Night,3,99100.0,24.0,0,12.0,Medium,Resigned,2021
+S0244,Michael Smith,Female,36,Emergency,ER Nurse,St. Mary Hospital,Contract,Afternoon,5,48500.0,30.0,0,2.0,Medium,Active,2024
+S1486,Deborah Scott,Male,48,Emergency,ER Doctor,City General,Part-Time,Afternoon,18,92600.0,26.0,0,0.0,High,Active,2020
+S1426,Brian Johnson,Male,25,Radiology,X-Ray Technician,Green Valley Medical,Contract,Morning,12,44900.0,16.0,0,16.0,Low,Active,2022
+S0637,Daniel Taylor,Male,51,Pharmacy,Pharmacy Technician,Metro Health Center,Contract,Night,1,,17.0,0,16.0,Low,Active,2021
+S1129,Margaret Lee,Male,31,Surgery,Surgeon,City General,Full-Time,Night,16,120800.0,53.0,13,15.0,High,Active,2020
+S1186,Matthew Martinez,Male,44,Radiology,MRI Technician,St. Mary Hospital,Full-Time,Afternoon,8,44800.0,51.0,11,2.0,Low,Resigned,2022
+S1091,Kenneth Jones,Female,51,Surgery,Surgeon,St. Mary Hospital,Contract,MORNING,15,132900.0,30.0,0,3.0,High,Active,2021
+S1450,Paul Lopez,Male,32,Pediatrics,Pediatrician,Sunrise Clinic,Full-Time,Night,9,81700.0,55.0,15,,High,Active,2023
+S0813,Barbara Thompson,Female,30,Pharmacy,Drug Safety Officer,St. Mary Hospital,Full-Time,Morning,2,68200.0,35.0,0,7.0,Medium,Active,2020
+S0309,Matthew Williams,Male,53,Pediatrics,Child Therapist,Sunrise Clinic,Part-Time,Afternoon,11,49600.0,33.0,0,6.0,Medium,Active,2022
+S0431,Michael Anderson,M,41,Emergency,Paramedic,Metro Health Center,Full-Time,Morning,7,43700.0,47.0,7,6.0,Low,Active,2019
+S1102,Donald Nguyen,Male,26,General Ward,Ward Nurse,Green Valley Medical,Full-Time,Morning,23,47700.0,36.0,0,12.0,Medium,Active,2024
+S0399,Joseph Miller,Female,33,Pharmacy,Pharmacy Technician,Metro Health Center,Full-Time,Night,18,36400.0,60.0,20,7.0,Low,Active,2024
+S0424,Paul Young,Male,53,Pediatrics,Pediatric Nurse,Metro Health Center,Part-Time,Night,18,47100.0,33.0,0,5.0,Medium,On Leave,2021
+S0371,David Anderson,F,60,Radiology,MRI Technician,City General,Contract,Morning,9,41300.0,31.0,0,20.0,Medium,Active,2022
+S0055,Sarah Robinson,Female,42,Pharmacy,Drug Safety Officer,Green Valley Medical,Full-Time,Morning,11,69300.0,54.0,14,12.0,Medium,Active,2022
+S0788,Amanda Davis,Female,26,Emergency,ER Nurse,Metro Health Center,Contract,Night,28,48400.0,18.0,0,5.0,Medium,Active,2024
+S1166,Joseph Thompson,Female,27,Pharmacy,Pharmacy Technician,Sunrise Clinic,Part-Time,Morning,25,33300.0,25.0,0,14.0,Medium,Active,2020
+S0994,Donald Martinez,Male,59,Emergency,ER Doctor,City General,Full-Time,Afternoon,10,92900.0,40.0,0,15.0,,Active,2021
+S0313,Barbara Rodriguez,Male,46,Surgery,Anesthesiologist,Sunrise Clinic,Part-Time,Night,19,143100.0,25.0,0,13.0,Medium,Active,2019
+S1341,Thomas Smith,Male,36,Oncology,Chemo Nurse,Green Valley Medical,Contract,Night,8,58700.0,22.0,0,1.0,Medium,Resigned,2022
+S0592,Betty Thompson,Female,25,Radiology,MRI Technician,St. Mary Hospital,Contract,Morning,11,49600.0,15.0,0,20.0,Low,On Leave,2020
+S0110,Jessica Allen,FEMALE,53,General Ward,Healthcare Assistant,Sunrise Clinic,Part-Time,Night,4,26900.0,26.0,0,13.0,Low,Resigned,2021
+S1089,Stephanie Lopez,Female,58,ICU,ICU Specialist,City General,Full-Time,Night,6,98000.0,42.0,2,14.0,High,Active,2021
+S0811,William Sanchez,Female,34,Pharmacy,Pharmacist,Green Valley Medical,Full-Time,Morning,29,81900.0,58.0,18,10.0,High,Active,2019
+S0101,Robert Rodriguez,Female,26,ICU,ICU Nurse,Metro Health Center,Part-Time,Morning,19,54500.0,34.0,0,20.0,,Active,2020
+S0483,Melissa Hill,Female,55,Emergency,ER Nurse,Green Valley Medical,Full-Time,Morning,29,46400.0,45.0,5,14.0,Medium,Active,2019
+S0692,Sandra Clark,Female,22,Oncology,Palliative Care Specialist,St. Mary Hospital,Contract,Afternoon,15,59500.0,18.0,0,16.0,Low,Active,2021
+S1405,Charles Harris,Female,38,Surgery,Surgeon,St. Mary Hospital,Part-Time,Morning,25,130300.0,26.0,0,11.0,High,Active,2022
+S0267,Brian Hill,Male,27,General Ward,Ward Nurse,Green Valley Medical,Contract,Morning,5,40700.0,21.0,0,10.0,Low,Active,2024
+S0701,William Martin,Female,33,Pharmacy,Pharmacy Technician,St. Mary Hospital,Full-Time,Morning,21,41600.0,48.0,8,16.0,Medium,Active,2019
+S0297,Joshua Walker,Female,48,ICU,ICU Nurse,Sunrise Clinic,Part-Time,Afternoon,13,50600.0,20.0,0,8.0,Medium,Active,2023
+S1344,Melissa Ramirez,Female,33,Pharmacy,Drug Safety Officer,City General,Contract,Night,8,61300.0,25.0,0,20.0,Medium,Active,2019
+S0975,Betty Williams,Female,52,Pharmacy,Drug Safety Officer,St. Mary Hospital,Contract,Afternoon,1,64800.0,19.0,0,18.0,Medium,Active,2020
+S0721,Brian Clark,Female,43,General Ward,Healthcare Assistant,City General,Part-Time,Morning,28,28400.0,29.0,0,14.0,Low,Active,2022
+S1205,Michelle Clark,Male,44,Radiology,MRI Technician,St. Mary Hospital,Part-Time,Night,7,42800.0,26.0,0,8.0,Low,Active,2023
+S0378,Paul Smith,Male,27,Emergency,Paramedic,City General,Contract,Afternoon,12,42100.0,31.0,0,13.0,Medium,Resigned,2023
+S0287,David Brown,Male,49,General Ward,Healthcare Assistant,Metro Health Center,Full-Time,Night,7,26700.0,45.0,5,6.0,Medium,Active,2022
+S1469,Betty Johnson,Male,54,Radiology,Radiologist,Sunrise Clinic,Contract,Morning,9,116200.0,30.0,0,16.0,Medium,Active,2021
+S0753,Donald Jones,Female,51,Pharmacy,Pharmacy Technician,Metro Health Center,Part-Time,Afternoon,7,37500.0,19.0,0,15.0,Medium,Active,2023
+S0127,Paul Thomas,Male,50,Radiology,X-Ray Technician,Sunrise Clinic,PartTime,Night,12,40100.0,30.0,0,6.0,Low,Active,2020
+S0328,Mark Lopez,Male,48,Emergency,ER Doctor,Metro Health Center,Part-Time,night,1,91200.0,26.0,0,19.0,High,Active,2024
+S0293,Margaret Williams,Female,58,Pharmacy,Drug Safety Officer,Green Valley Medical,Part-Time,Morning,26,68200.0,33.0,0,16.0,Low,Active,2019
+S0567,Susan Young,Female,29,Oncology,Palliative Care Specialist,Green Valley Medical,Contract,Night,4,69900.0,22.0,0,0.0,Medium,Active,2022
+S1396,Steven Adams,Female,55,General Ward,Ward Nurse,City General,Full-Time,Morning,16,40700.0,45.0,5,12.0,Low,On Leave,2021
+S0671,Nancy Harris,Female,52,ICU,ICU Specialist,Metro Health Center,Part-Time,Night,25,105600.0,34.0,0,4.0,High,Active,2022
+S0356,Brian Jones,Male,61,ICU,Respiratory Therapist,Metro Health Center,Contract,Morning,10,47900.0,31.0,0,3.0,Low,Active,2019
+S1246,George Harris,Male,35,Emergency,ER Nurse,City General,Part-Time,Morning,20,50400.0,29.0,0,12.0,Medium,Active,2022
+S0171,Sarah Brown,Female,30,Oncology,Palliative Care Specialist,Metro Health Center,Contract,Morning,21,66000.0,31.0,0,7.0,Medium,Active,2020
+S1392,Sandra Wright,Male,55,Surgery,Anesthesiologist,Sunrise Clinic,Contract,Morning,6,135300.0,25.0,0,14.0,Medium,Resigned,2019
+S0529,Linda Moore,Male,24,Pediatrics,Pediatric Nurse,Green Valley Medical,Full-Time,Night,6,46300.0,59.0,19,13.0,Low,Active,2019
+S0644,Deborah Ramirez,Female,25,Oncology,Palliative Care Specialist,St. Mary Hospital,Full-Time,Afternoon,20,61800.0,50.0,10,18.0,Medium,Active,2024
+S1296,Karen Wilson,Male,46,General Ward,Ward Nurse,St. Mary Hospital,Part-Time,Night,26,51000.0,30.0,0,13.0,Low,Resigned,2023
+S0210,Robert Garcia,Female,27,Pediatrics,Child Therapist,City General,Part-Time,NIGHT,23,44400.0,19.0,0,,Low,Resigned,2024
+S0621,Michael Scott,FEMALE,49,Surgery,Anesthesiologist,Green Valley Medical,Contract,Night,30,133800.0,16.0,0,10.0,Medium,Resigned,2019
+S1350,David Gonzalez,Female,49,Emergency,ER Nurse,Sunrise Clinic,Contract,Morning,24,52900.0,33.0,0,2.0,Low,Resigned,2020
+S0141,Mark Thompson,Female,60,Oncology,Chemo Nurse,City General,Part-Time,Night,20,57300.0,16.0,0,11.0,Low,Active,2024
+S1101,Donna Scott,Female,23,Oncology,Chemo Nurse,Sunrise Clinic,part-time,Afternoon,20,62100.0,21.0,0,6.0,Low,Active,2021
+S1055,Linda Lopez,Female,52,General Ward,Healthcare Assistant,Metro Health Center,Part-Time,Night,28,31900.0,32.0,0,12.0,Medium,On Leave,2021
+S1171,Ashley Scott,Female,34,Pediatrics,Pediatrician,Metro Health Center,Full-Time,Night,4,93600.0,,7,14.0,Medium,Active,2021
+S1214,Mark Lopez,Male,52,GeneralWard,Healthcare Assistant,Metro Health Center,Contract,Afternoon,6,33300.0,15.0,0,2.0,Medium,On Leave,2019
+S0818,Karen Thompson,Female,25,Emergency,Paramedic,Green Valley Medical,FULL TIME,Afternoon,29,41800.0,42.0,2,10.0,Low,Active,2021
+S1247,Carol Miller,F,57,Pediatrics,Pediatric Nurse,City General,Part-Time,Night,2,44000.0,15.0,0,,Low,Active,2019
+S0616,Joseph Garcia,Male,23,Pharmacy,Pharmacy Technician,Metro Health Center,Contract,Morning,23,39600.0,21.0,0,8.0,Low,Active,2024
+S0200,William Anderson,Male,26,EMERGENCY,Paramedic,St. Mary Hospital,Full-Time,Night,1,36100.0,57.0,17,4.0,Medium,Resigned,2022
+S1051,Jennifer Perez,Female,34,Surgery,Surgeon,Green Valley Medical,full-time,Morning,14,145200.0,,15,5.0,Medium,Active,2022
+S1241,Emily Smith,MALE,59,ICU,ICU Specialist,City General,Full-Time,Morning,19,101400.0,57.0,17,2.0,High,Resigned,2023
+S0731,Andrew Miller,Female,51,Surgery,Surgeon,City General,Contract,Afternoon,29,145800.0,16.0,0,7.0,High,Active,2024
+S0746,George Hill,Male,31,General Ward,Ward Nurse,St. Mary Hospital,Full-Time,Afternoon,5,47300.0,58.0,18,10.0,Medium,Active,2020
+S1427,Michelle Hernandez,Female,58,ICU,ICU Nurse,Sunrise Clinic,Full-Time,MORNING,23,,59.0,19,19.0,Medium,On Leave,2021
+S0011,Nancy Davis,M,29,Oncology,Palliative Care Specialist,Green Valley Medical,Contract,Night,15,59800.0,28.0,0,5.0,Low,Active,2024
+S0148,William Adams,Female,57,General Ward,General Physician,Sunrise Clinic,Part-Time,Night,10,84500.0,17.0,0,2.0,High,Active,2023
+S0744,Mark Harris,Female,26,Radiology,X-Ray Technician,Metro Health Center,Full-Time,Afternoon,17,43400.0,55.0,15,7.0,Medium,Active,2023
+S0283,Kevin Perez,Female,42,ICU,ICU Specialist,St. Mary Hospital,Contract,Morning,7,104600.0,15.0,0,8.0,High,Active,2024
+S0299,William Martin,Female,53,Oncology,Chemo Nurse,St. Mary Hospital,Contract,Night,9,62200.0,29.0,0,10.0,Low,Active,2020
+S0722,Kevin Thompson,Male,58,Emergency,ER Nurse,St. Mary Hospital,Part-Time,Morning,14,50600.0,22.0,0,13.0,Low,Active,2022
+S0292,Michelle Anderson,Male,27,Pediatrics,Child Therapist,Metro Health Center,Part-Time,NIGHT,27,49100.0,16.0,0,12.0,Medium,Active,2022
+S0527,Michael Robinson,Male,22,Surgery,Anesthesiologist,St. Mary Hospital,Contract,Morning,27,141200.0,33.0,0,2.0,Medium,Resigned,2021
+S1059,Jennifer Wright,Male,56,Radiology,X-Ray Technician,City General,Part-Time,Night,21,36500.0,19.0,0,4.0,Medium,Active,2020
+S1375,Brian Moore,Male,28,General Ward,General Physician,Sunrise Clinic,Part-Time,Night,13,79600.0,21.0,0,20.0,Low,Active,2021
+S0571,Paul Lee,Male,62,ICU,Respiratory Therapist,Metro Health Center,Full-Time,Morning,9,47200.0,56.0,16,9.0,Low,Active,2020
+S0523,Matthew Miller,Male,46,Surgery,Surgeon,Green Valley Medical,Full-Time,Night,29,143500.0,50.0,10,2.0,Medium,Active,2024
+S0130,  Betty Thomas  ,Female,23,Surgery,Scrub Nurse,Sunrise Clinic,Full-Time,afternoon,8,54300.0,37.0,0,11.0,Medium,Active,2023
+S0598,Daniel Jones,Male,58,Radiology,MRI Technician,Sunrise Clinic,Part-Time,Night,26,50700.0,24.0,0,16.0,Medium,Resigned,2020
+S0332,Matthew Sanchez,Female,25,SURGERY,Scrub Nurse,Metro Health Center,Full-Time,Night,15,51800.0,37.0,0,14.0,Low,Active,2024
+S0324,Jennifer Allen,Male,27,Surgery,Surgeon,Sunrise Clinic,contract,Morning,21,124900.0,18.0,0,8.0,High,Active,2020
+S1454,David Lopez,Male,46,Emergency,ER Nurse,St. Mary Hospital,Full-Time,Night,11,48700.0,55.0,15,11.0,Low,Active,2024
+S1019,Joshua Hernandez,Female,43,ICU,Respiratory Therapist,Metro Health Center,Full-Time,Morning,18,43100.0,46.0,6,20.0,Medium,Active,2022
+S0652,Michael Brown,Female,31,Emergency,Paramedic,Metro Health Center,Contract,Night,4,42200.0,29.0,0,3.0,Medium,Active,2024
+S0136,Daniel Wright,Male,59,Surgery,Anesthesiologist,City General,Part-Time,Night,23,152200.0,20.0,0,14.0,Medium,Resigned,2019
+S0545,Kenneth Robinson,Female,30,Emergency,ER Nurse,City General,Part-Time,night,29,45000.0,17.0,0,12.0,Low,Active,2021
+S0947,Richard Hernandez,Female,53,SURGERY,Surgeon,Green Valley Medical,Contract,Afternoon,3,148400.0,31.0,0,6.0,Medium,Active,2020
+S0681,Kenneth Allen,Male,41,icu,ICU Specialist,Sunrise Clinic,Part-Time,Night,18,96700.0,19.0,0,11.0,Medium,Active,2019
+S0712,Carol Jones,Female,35,Oncology,Oncologist,Sunrise Clinic,Full-Time,Night,25,115500.0,51.0,11,12.0,High,Active,2024
+S0159,John Sanchez,Male,38,ICU,ICU Nurse,Sunrise Clinic,Part-Time,Night,7,50800.0,33.0,0,17.0,Medium,Active,2021
+S0853,  Sandra Gonzalez  ,Female,46,Radiology,X-Ray Technician,Green Valley Medical,Full-Time,Morning,3,39400.0,38.0,0,3.0,Medium,Active,2024
+S1493,David Sanchez,Female,51,Pharmacy,Pharmacist,Sunrise Clinic,Contract,Night,19,79700.0,22.0,0,0.0,Medium,On Leave,2020
+S0196,Daniel Martin,Female,40,Surgery,Anesthesiologist,Metro Health Center,Part-Time,Afternoon,29,147100.0,26.0,0,16.0,Medium,Active,2024
+S1487,Susan Thompson,Female,55,Pediatrics,Pediatric Nurse,Sunrise Clinic,Full-Time,Night,9,51900.0,49.0,9,10.0,Low,Active,2020
+S0530,  Michael Adams  ,Male,50,Radiology,X-Ray Technician,St. Mary Hospital,Contract,AM,29,41200.0,20.0,0,0.0,Medium,Active,2020
+S0411,Paul Smith,Male,55,Oncology,Oncologist,Green Valley Medical,Part-Time,Morning,10,132500.0,30.0,0,15.0,Medium,Active,2022
+S0097,Joseph Perez,Male,26,Pediatrics,Child Therapist,Metro Health Center,Full-Time,Night,1,42400.0,60.0,20,19.0,Low,Active,2020
+S0603,John Gonzalez,Female,53,Surgery,Scrub Nurse,Sunrise Clinic,Part-Time,Night,1,50600.0,23.0,0,4.0,Medium,Resigned,2024
+S0157,Emily Johnson,Male,53,Radiology,Radiologist,Sunrise Clinic,Part-Time,Night,15,98000.0,27.0,0,16.0,High,On Leave,2021
+S0420,Kenneth Ramirez,Female,25,Oncology,Oncologist,St. Mary Hospital,Full-Time,Night,26,120600.0,35.0,0,5.0,High,Active,2020
+S0661,Mary Wright,Female,55,ICU,Respiratory Therapist,City General,Contract,Afternoon,27,51700.0,23.0,0,7.0,,Active,2019
+S0478,Melissa Lee,Female,25,Radiology,MRI Technician,Metro Health Center,part-time,Night,7,49100.0,32.0,0,0.0,,Active,2024
+S0629,Christopher Martinez,Female,29,Radiology,Radiologist,Metro Health Center,Part-Time,Afternoon,27,95900.0,17.0,0,14.0,High,Active,2019
+S0880,David Torres,Female,55,Emergency,ER Doctor,Green Valley Medical,Contract,Night,13,92000.0,22.0,0,17.0,High,Active,2021
+S0966,Donna Harris,Female,49,Emergency,ER Nurse,St. Mary Hospital,Contract,Night,14,49700.0,32.0,0,14.0,Medium,Active,2019
+S0448,Thomas Hernandez,Male,46,Pediatrics,Child Therapist,Metro Health Center,Contract,Night,26,41000.0,24.0,0,6.0,Low,Active,2019
+S0179,Lisa Davis,Female,32,ICU,ICU Nurse,Metro Health Center,Contract,Afternoon,20,60500.0,24.0,0,11.0,Medium,Active,2024
+S0391,Kenneth Anderson,Male,52,General Ward,Healthcare Assistant,St. Mary Hospital,Part-Time,Morning,12,28800.0,25.0,0,13.0,Low,Active,2022
+S1318,Richard Clark,Female,22,Emergency,ER Doctor,Sunrise Clinic,Full-Time,Morning,19,87500.0,48.0,8,17.0,Medium,Active,2023
+S1145,Kimberly Harris,Female,57,Oncology,Oncologist,Sunrise Clinic,Contract,Night,19,111400.0,34.0,0,3.0,High,Active,2023
+S1269,David Williams,Male,55,Emergency,ER Nurse,Sunrise Clinic,Full-Time,Afternoon,14,49800.0,54.0,14,10.0,Low,Active,2021
+S1079,Margaret Williams,Male,50,ICU,Respiratory Therapist,St. Mary Hospital,Contract,Afternoon,21,48000.0,27.0,0,16.0,Medium,Active,2021
+S1421,Margaret Hill,Male,25,Emergency,ER Doctor,Green Valley Medical,Full-Time,Night,13,86400.0,59.0,19,0.0,Low,Resigned,2022
+S0888,Joshua Williams,Female,22,Pediatrics,Pediatrician,Metro Health Center,Contract,Morning,16,81900.0,25.0,0,11.0,Medium,Active,2024
+S0933,Joshua Miller,MALE,25,General Ward,General Physician,St. Mary Hospital,Contract,Afternoon,16,83500.0,24.0,0,18.0,Medium,On Leave,2021
+S0814,Jennifer Ramirez,Male,49,Radiology,MRI Technician,Green Valley Medical,Part-Time,Afternoon,24,44100.0,34.0,0,4.0,Medium,Active,2022
+S0768,Anthony Gonzalez,Female,61,Surgery,Scrub Nurse,Sunrise Clinic,Contract,Night,21,48100.0,25.0,0,0.0,Medium,Active,2023
+S0812,Emily Scott,Male,52,Emergency,ER Doctor,St. Mary Hospital,Part-Time,Night,25,93100.0,19.0,0,10.0,High,On Leave,2022
+S0295,Donna Sanchez,Female,42,Pediatrics,Child Therapist,St. Mary Hospital,Full-Time,Night,17,49000.0,45.0,5,8.0,Medium,Active,2022
+S0562,Charles Thompson,Male,49,Radiology,MRI Technician,Green Valley Medical,Part-Time,Afternoon,28,45800.0,24.0,0,14.0,Low,Resigned,2019
+S0900,Michael Clark,Male,43,Pharmacy,Pharmacist,St. Mary Hospital,Full-Time,Night,11,86800.0,44.0,4,,High,Active,2022
+S0089,Richard Rodriguez,Male,27,Radiology,X-Ray Technician,Sunrise Clinic,Part-Time,Afternoon,17,43800.0,26.0,0,16.0,Low,Active,2020
+S1008,Anthony Scott,Female,46,ICU,ICU Nurse,St. Mary Hospital,Part-Time,Afternoon,30,54600.0,30.0,0,9.0,Medium,Active,2020
+S1232,Charles Johnson,Female,22,Surgery,Scrub Nurse,City General,Part-Time,Afternoon,12,48500.0,28.0,0,2.0,Low,Active,2020
+S1490,Amanda Nguyen,Male,34,ICU,ICU Nurse,City General,Contract,Afternoon,6,53000.0,15.0,0,10.0,Low,On Leave,2023
+S0716,Betty Young,Female,49,General Ward,Healthcare Assistant,Sunrise Clinic,Part-Time,Afternoon,1,30200.0,23.0,0,12.0,Medium,Active,2022
+S1417,Nancy Johnson,Female,36,ICU,Respiratory Therapist,Metro Health Center,Part-Time,Morning,7,51600.0,19.0,0,13.0,Medium,Active,2022
+S0719,Daniel Sanchez,Male,56,Oncology,Oncologist,Green Valley Medical,Full-Time,Afternoon,1,123300.0,53.0,13,20.0,High,Active,2021
+S0974,Barbara Johnson,Female,48,Surgery,Scrub Nurse,Sunrise Clinic,Contract,Morning,11,53400.0,34.0,0,11.0,Medium,Active,2021
+S0291,Ashley Taylor,Female,33,Radiology,MRI Technician,Green Valley Medical,Full-Time,Afternoon,2,43700.0,43.0,3,18.0,Medium,On Leave,2022
+S1448,Sandra Moore,Male,47,Radiology,Radiologist,St. Mary Hospital,Contract,Afternoon,15,104300.0,16.0,0,7.0,High,Resigned,2019
+S0614,Amanda Rodriguez,Male,29,Oncology,Chemo Nurse,Metro Health Center,full-time,Morning,26,63900.0,54.0,14,13.0,Medium,Active,2024
+S0349,Susan King,Female,26,Oncology,Chemo Nurse,Metro Health Center,Part-Time,Night,14,51100.0,31.0,0,5.0,Medium,Active,2020
+S0586,Michael Davis,Female,53,Radiology,MRI Technician,City General,Part-Time,Night,8,44100.0,30.0,0,15.0,Low,On Leave,2022
+S1442,William Hill,Female,30,Pediatrics,Pediatrician,Sunrise Clinic,Part-Time,Night,18,82200.0,26.0,0,0.0,High,Active,2024
+S0713,Brian Walker,Female,33,Radiology,MRI Technician,Green Valley Medical,Contract,Afternoon,9,51700.0,30.0,0,15.0,Low,On Leave,2023
+S0856,Steven Gonzalez,Male,41,Emergency,ER Nurse,Green Valley Medical,Part-Time,Morning,5,50200.0,27.0,0,11.0,Medium,Active,2022
+S0618,Karen Jackson,Female,29,Pharmacy,Pharmacy Technician,City General,Contract,Morning,14,40100.0,27.0,0,4.0,Low,Active,2020
+S0459,Robert Lopez,Female,36,Emergency,ER Nurse,City General,Contract,Night,23,52200.0,34.0,0,,Medium,On Leave,2020
+S0376,Joshua Nguyen,Female,32,Pediatrics,Child Therapist,Green Valley Medical,Contract,Night,13,41100.0,22.0,0,12.0,Medium,On Leave,2022
+S0334,Betty Brown,Female,54,Emergency,ER Doctor,Sunrise Clinic,Full-Time,Night,18,88700.0,49.0,9,10.0,High,Active,2021
+S0782,Amanda Smith,Male,35,General Ward,Ward Nurse,City General,Contract,Morning,22,45900.0,33.0,0,3.0,Low,Active,2024
+S1352,Stephanie Smith,Female,23,Emergency,Paramedic,Green Valley Medical,Part-Time,Night,5,40200.0,29.0,0,2.0,Medium,Active,2022
+S1410,Michael Garcia,Female,29,Oncology,Palliative Care Specialist,City General,Contract,Afternoon,17,56500.0,34.0,0,14.0,Medium,Active,2020
+S1419,Kimberly Wright,Male,38,Pharmacy,Pharmacist,Green Valley Medical,Contract,Morning,21,81700.0,16.0,0,11.0,Medium,Active,2020
+S0585,Deborah Nguyen,Female,29,surgery,Anesthesiologist,Sunrise Clinic,Part-Time,Morning,13,168900.0,23.0,0,20.0,High,Active,2021
+S0329,Thomas Lee,Female,29,Pediatrics,Pediatric Nurse,St. Mary Hospital,Part-Time,Afternoon,24,44200.0,31.0,0,18.0,Medium,Active,2019
+S0319,David Davis,Male,35,Surgery,Surgeon,Metro Health Center,Full-Time,Night,26,144000.0,57.0,17,20.0,High,Active,2023
+S1178,Andrew Adams,Female,26,Surgery,Anesthesiologist,Sunrise Clinic,Full-Time,Night,7,131000.0,36.0,0,12.0,Medium,Active,2020
+S0983,Sandra Thompson,Male,26,Pharmacy,Pharmacist,Metro Health Center,Contract,AM,8,77100.0,27.0,0,17.0,,Active,2022
+S0013,Betty Martin,Male,60,Pediatrics,Child Therapist,St. Mary Hospital,Part-Time,Afternoon,29,43900.0,16.0,0,7.0,Medium,Resigned,2019
+S0172,Melissa Rodriguez,Male,48,Surgery,Surgeon,Sunrise Clinic,Contract,Afternoon,14,120300.0,,0,5.0,High,Active,2019
+S0261,Emily Gonzalez,Female,61,Surgery,Scrub Nurse,Green Valley Medical,Part-Time,Morning,1,57000.0,22.0,0,4.0,Medium,Active,2023
+S0848,Mary Martinez,Male,59,Emergency,Paramedic,Metro Health Center,Part-Time,Morning,8,41000.0,19.0,0,2.0,Medium,Active,2020
+S0889,Mary King,Female,29,Emergency,ER Doctor,St. Mary Hospital,Contract,Morning,28,93400.0,19.0,0,6.0,Medium,Active,2023
+S1142,Jennifer Hill,Male,53,Pharmacy,Drug Safety Officer,Metro Health Center,Full-Time,Afternoon,28,69800.0,46.0,6,7.0,Medium,Active,2019
+S0139,Nancy Lopez,Female,49,Oncology,Oncologist,Sunrise Clinic,Contract,Afternoon,30,,30.0,0,11.0,Medium,Active,2022
+S0550,Mark Adams,Male,52,General Ward,Ward Nurse,Metro Health Center,Contract,Night,29,46000.0,17.0,0,6.0,Low,Active,2021
+S1358,John Martin,Female,57,ICU,Respiratory Therapist,St. Mary Hospital,Part-Time,Night,9,48900.0,17.0,0,10.0,Medium,Active,2022
+S0874,Brian Young,Female,23,Emergency,ER Nurse,Metro Health Center,Part-Time,Afternoon,12,52500.0,28.0,0,13.0,Medium,Active,2019
+S0959,William Hill,Male,42,Pediatrics,Pediatric Nurse,City General,Contract,Afternoon,22,50500.0,30.0,0,3.0,Low,Active,2021
+S0559,William Scott,Female,43,Pediatrics,Child Therapist,Sunrise Clinic,Full-Time,Night,13,41900.0,44.0,4,0.0,Medium,Resigned,2019
+S0140,Charles Lee,Female,27,Oncology,Oncologist,City General,Contract,afternoon,22,,17.0,0,10.0,Medium,Resigned,2023
+S0015,Kimberly Lewis,Male,41,Pharmacy,Pharmacist,Green Valley Medical,Contract,Afternoon,3,77000.0,22.0,0,7.0,Medium,Active,2022
+S0902,Michael Lee,Male,23,ICU,ICU Nurse,St. Mary Hospital,full-time,Morning,8,61300.0,58.0,18,13.0,Medium,Active,2020
+S0225,Nancy Miller,Male,41,General Ward,Ward Nurse,St. Mary Hospital,Contract,Morning,17,51100.0,20.0,0,7.0,Medium,Active,2019
+S0606,Michelle Harris,Male,37,Oncology,Chemo Nurse,Green Valley Medical,Full-Time,Night,30,63200.0,58.0,18,7.0,Medium,Active,2021
+S0410,Mark Martin,Female,44,Pharmacy,Drug Safety Officer,City General,Contract,Afternoon,5,66000.0,28.0,0,8.0,Medium,Active,2019
+S0326,Daniel Lewis,Male,22,ICU,ICU Specialist,City General,Contract,Morning,27,98800.0,17.0,0,11.0,High,Active,2021
+S0300,Emily King,Male,34,Pharmacy,Drug Safety Officer,Sunrise Clinic,Full-Time,Afternoon,17,74200.0,46.0,6,1.0,Medium,Active,2024
+S0915,George Smith,female,62,Pediatrics,Pediatrician,Metro Health Center,Contract,Afternoon,30,81500.0,20.0,0,16.0,Medium,Active,2021
+S1054,Patricia Martin,Female,22,Pharmacy,Drug Safety Officer,Sunrise Clinic,Contract,Afternoon,4,67000.0,23.0,0,20.0,Low,On Leave,2022
+S1047,James Walker,Male,37,Surgery,Scrub Nurse,Metro Health Center,CONTRACT,Morning,16,50600.0,26.0,0,3.0,Medium,Active,2021
+S1420,John King,Male,53,Emergency,ER Nurse,Sunrise Clinic,Part-Time,Afternoon,14,46600.0,18.0,0,4.0,Low,Active,2024
+S0977,Kenneth Scott,Male,26,Pediatrics,Pediatric Nurse,Metro Health Center,Contract,Morning,28,50800.0,32.0,0,3.0,Medium,Active,2023
+S0901,Margaret Martin,Male,57,Radiology,MRI Technician,Metro Health Center,Part-Time,Afternoon,28,51400.0,29.0,0,15.0,Low,Active,2019
+S0574,Betty Rodriguez,Male,23,ICU,ICU Specialist,Green Valley Medical,Part-Time,Afternoon,25,104500.0,34.0,0,16.0,Medium,Active,2024
+S0504,Kenneth Wright,Female,62,ICU,ICU Specialist,St. Mary Hospital,Contract,Night,2,109000.0,24.0,0,19.0,Medium,Resigned,2024
+S1245,Amanda Anderson,Male,59,Oncology,Palliative Care Specialist,Sunrise Clinic,Part-Time,Afternoon,17,64300.0,23.0,0,6.0,Medium,Active,2019
+S0004,Matthew Garcia,Female,24,Radiology,X-Ray Technician,Metro Health Center,Part-Time,Night,20,44000.0,24.0,0,20.0,Medium,Resigned,2019
+S0786,Andrew Walker,Female,54,ICU,ICU Specialist,Metro Health Center,Full-Time,Morning,26,999999.0,57.0,17,3.0,High,Active,2023
+S0468,Anthony Lewis,Female,37,Emergency,Paramedic,Sunrise Clinic,Contract,Morning,1,36300.0,34.0,0,19.0,Medium,Active,2022
+S0322,Charles Davis,Male,48,Oncology,Palliative Care Specialist,Metro Health Center,Contract,Morning,7,67900.0,18.0,0,15.0,Medium,Active,2019
+S0006,Melissa Jones,Female,44,Radiology,Radiologist,Green Valley Medical,Contract,Morning,24,115000.0,20.0,0,17.0,High,On Leave,2024
+S1151,Deborah Young,Female,62,Pharmacy,Pharmacy Technician,City General,Part-Time,Morning,29,37700.0,25.0,0,14.0,Low,Active,2021
+S0548,Sarah Wright,Male,57,Radiology,Radiologist,City General,Full-Time,Night,24,98700.0,55.0,15,15.0,High,Active,2021
+S0773,Nancy Harris,Female,36,General Ward,General Physician,St. Mary Hospital,Contract,Night,21,84900.0,27.0,0,20.0,Medium,Active,2024
+S0040,John Thomas,Male,41,Radiology,Radiologist,City General,Full-Time,Morning,15,110600.0,54.0,14,2.0,High,Active,2019
+S0543,Sarah Garcia,Female,52,Emergency,ER Nurse,Sunrise Clinic,Full-Time,Night,23,54200.0,59.0,19,0.0,Medium,Active,2022
+S0243,Betty Taylor,Male,41,surgery,Anesthesiologist,St. Mary Hospital,Part-Time,Morning,6,135400.0,26.0,0,20.0,High,On Leave,2024
+S0137,Charles Gonzalez,Male,30,General Ward,Healthcare Assistant,Sunrise Clinic,Contract,Morning,11,25700.0,21.0,0,1.0,Low,On Leave,2019
+S1212,Stephanie Garcia,Male,61,Radiology,X-Ray Technician,City General,Full-Time,Morning,1,38000.0,37.0,0,2.0,Low,Active,2020
+S0622,Thomas Allen,Female,60,Surgery,Scrub Nurse,St. Mary Hospital,Contract,Night,22,54200.0,24.0,0,12.0,Low,Resigned,2019
+S0799,Barbara Rodriguez,Male,38,Pharmacy,Pharmacy Technician,Metro Health Center,Contract,Morning,24,34300.0,27.0,0,18.0,Medium,Active,2024
+S1480,Joseph Nguyen,Male,24,Pediatrics,Pediatrician,Green Valley Medical,Part-Time,Morning,8,90600.0,22.0,0,2.0,High,Resigned,2024
+S1088,Kenneth Miller,Male,34,Emergency,Paramedic,St. Mary Hospital,Contract,Afternoon,9,40400.0,31.0,0,2.0,Medium,Resigned,2022
+S1474,Barbara Miller,Female,42,Surgery,Scrub Nurse,Metro Health Center,Full-Time,Morning,2,52600.0,59.0,19,2.0,Medium,Active,2021
+S1395,David Garcia,Male,54,Radiology,MRI Technician,Green Valley Medical,Part-Time,Night,22,48900.0,19.0,0,19.0,Low,On Leave,2021
+S0582,Mark Anderson,Female,40,General Ward,General Physician,Green Valley Medical,Contract,Afternoon,28,79100.0,28.0,0,9.0,Medium,Active,2024
+S1422,Susan Wilson,Female,26,Pediatrics,Child Therapist,City General,Contract,Afternoon,2,44200.0,25.0,0,11.0,Low,On Leave,2019
+S0850,Susan Allen,Male,31,Emergency,ER Nurse,St. Mary Hospital,Contract,Morning,27,,15.0,0,,Low,Active,2023
+S1418,Robert Thomas,Male,35,Pediatrics,Child Therapist,Metro Health Center,Contract,Night,11,47400.0,23.0,0,10.0,Medium,On Leave,2020
+S0377,Joshua Miller,Male,34,Pediatrics,Pediatrician,Sunrise Clinic,Contract,Night,20,82900.0,30.0,0,19.0,Medium,Active,2020
+S0315,Carol Ramirez,Male,58,Oncology,Oncologist,St. Mary Hospital,Part-Time,Morning,14,130800.0,28.0,0,12.0,High,Active,2020
+S0443,Emily Sanchez,Female,30,Pharmacy,Drug Safety Officer,Metro Health Center,Part-Time,Morning,18,70700.0,33.0,0,6.0,,Active,2020
+S0320,Kevin Miller,Female,56,Emergency,ER Nurse,Metro Health Center,Full-Time,Night,14,45300.0,36.0,0,3.0,Medium,Active,2019
+S0968,Kevin Taylor,Female,24,Radiology,X-Ray Technician,Green Valley Medical,Part-Time,Night,4,45700.0,34.0,0,0.0,Low,Resigned,2021
+S0820,Kevin Smith,Female,45,Pediatrics,Pediatric Nurse,St. Mary Hospital,Part-Time,PM,12,53000.0,19.0,0,10.0,Low,On Leave,2019
+S1444,William Lee,Male,34,Oncology,Oncologist,City General,Part-Time,Morning,12,121700.0,20.0,0,6.0,High,Active,2019
+S0425,Kimberly Martinez,female,39,Radiology,MRI Technician,City General,Contract,Night,18,47400.0,24.0,0,8.0,Medium,Active,2019
+S0554,Joseph Walker,Female,58,General Ward,Ward Nurse,City General,Part-Time,Morning,5,46100.0,24.0,0,1.0,Medium,Resigned,2021
+S0595,Andrew Harris,Male,52,Pharmacy,Pharmacy Technician,Green Valley Medical,Full-Time,Night,26,37300.0,53.0,13,3.0,Medium,Active,2022
+S0924,Barbara Robinson,Female,40,Pharmacy,Pharmacy Technician,Sunrise Clinic,Full-Time,Morning,20,34500.0,51.0,11,9.0,Medium,Active,2024
+S0673,Deborah Johnson,Male,50,Pharmacy,Pharmacy Technician,St. Mary Hospital,Part-Time,Night,21,41400.0,24.0,0,17.0,Low,Active,2020
+S1365,Jessica Moore,Male,24,Emergency,ER Doctor,Sunrise Clinic,Full-Time,Night,21,86800.0,53.0,13,0.0,High,Active,2020
+S1244,Michael Wilson,Female,35,General Ward,Healthcare Assistant,St. Mary Hospital,Full-Time,Morning,24,28300.0,59.0,19,18.0,Medium,Resigned,2022
+S1366,Mark Martinez,Male,22,Surgery,Anesthesiologist,Green Valley Medical,FULL TIME,Afternoon,26,,58.0,18,20.0,Medium,Active,2020
+S0228,Kenneth Lee,Male,51,Radiology,MRI Technician,Sunrise Clinic,Part-Time,Morning,13,49800.0,27.0,0,19.0,Medium,Active,2023
+S0737,Paul Wilson,Female,44,Oncology,Oncologist,St. Mary Hospital,Full-Time,Morning,27,124500.0,57.0,17,1.0,Medium,Active,2024
+S1252,Kevin Jones,Female,48,General Ward,Ward Nurse,Metro Health Center,Full-Time,Morning,24,44600.0,57.0,17,9.0,Medium,On Leave,2019
+S1010,Lisa Perez,Female,45,Pharmacy,Pharmacist,St. Mary Hospital,Contract,Afternoon,18,77400.0,17.0,0,,Medium,Active,2024
+S0711,Charles Martinez,Male,24,Pharmacy,Drug Safety Officer,City General,Contract,Night,21,65400.0,22.0,0,1.0,Medium,Active,2023
+S0067,Barbara Moore,Male,49,Oncology,Palliative Care Specialist,City General,Contract,Morning,2,68500.0,19.0,0,2.0,Medium,Active,2024
+S0394,Michael Davis,Male,34,Oncology,Oncologist,Green Valley Medical,Contract,Morning,1,112600.0,30.0,0,19.0,High,Active,2020
+S0580,Matthew Ramirez,Male,50,General Ward,Ward Nurse,City General,Full-Time,Night,14,500000.0,51.0,11,7.0,Low,Active,2021
+S1230,Barbara Moore,Male,42,Surgery,Anesthesiologist,Sunrise Clinic,Contract,Afternoon,20,151000.0,30.0,0,10.0,High,Active,2023
+S0212,Anthony Miller,Male,49,Pediatrics,Pediatrician,Metro Health Center,Contract,Afternoon,18,80400.0,17.0,0,11.0,High,Active,2023
+S1363,Linda Clark,F,59,Pharmacy,Drug Safety Officer,City General,Part-Time,,1,64200.0,34.0,0,15.0,Medium,Active,2023
+S0808,Daniel Smith,Male,22,Oncology,Chemo Nurse,City General,Contract,Afternoon,7,51700.0,28.0,0,15.0,Medium,Active,2022
+S0537,Sarah Clark,Female,36,Surgery,Anesthesiologist,City General,Part-Time,Morning,3,143100.0,27.0,0,7.0,High,Active,2019
+S1049,Margaret Wright,Female,40,Pediatrics,Pediatric Nurse,Sunrise Clinic,Contract,Night,22,45200.0,26.0,0,15.0,Medium,Active,2023
+S1349,Paul Gonzalez,Male,31,ICU,ICU Specialist,Metro Health Center,Full-Time,Afternoon,12,105700.0,59.0,19,20.0,Medium,Active,2024
+S0086,  Daniel Torres  ,female,52,Oncology,Oncologist,Sunrise Clinic,Full-Time,Morning,1,119700.0,57.0,17,9.0,Medium,Active,2023
+S1379,Michelle Lewis,Male,59,Emergency,ER Nurse,Green Valley Medical,Full-Time,Afternoon,30,48400.0,37.0,0,10.0,Medium,Resigned,2024
+S0273,Matthew Rodriguez,Female,57,Oncology,Chemo Nurse,St. Mary Hospital,Full-Time,Afternoon,29,56900.0,41.0,1,20.0,Low,Active,2021
+S0980,Andrew Rodriguez,Female,60,ICU,ICU Nurse,Sunrise Clinic,Part-Time,Morning,22,58800.0,22.0,0,13.0,Low,Resigned,2020
+S0683,Steven Jackson,Female,46,General Ward,Ward Nurse,City General,Contract,Afternoon,19,40700.0,20.0,0,17.0,Low,Active,2023
+S1380,Kenneth Thomas,MALE,27,Surgery,Anesthesiologist,Metro Health Center,Contract,Afternoon,18,132900.0,30.0,0,8.0,Medium,Active,2024
+S0631,Joshua Harris,Female,42,Surgery,Surgeon,St. Mary Hospital,Contract,Morning,6,126100.0,27.0,0,8.0,High,Resigned,2023
+S1050,James Adams,Male,37,Emergency,ER Doctor,Green Valley Medical,Part-Time,Afternoon,21,94800.0,27.0,0,2.0,Medium,Active,2023
+S1429,Andrew Miller,Female,62,Radiology,X-Ray Technician,City General,Full-Time,Night,29,39800.0,35.0,0,16.0,Medium,Active,2021
+S0506,David Torres,Female,58,Pediatrics,Pediatrician,Sunrise Clinic,Full-Time,Afternoon,26,80800.0,56.0,16,9.0,High,On Leave,2023
+S0274,Emily Thompson,Male,46,Surgery,Anesthesiologist,Sunrise Clinic,Part-Time,Night,13,167100.0,31.0,0,10.0,High,Active,2023
+S0745,Sandra Thomas,Male,61,Emergency,ER Doctor,City General,Part-Time,Morning,12,86300.0,16.0,0,4.0,High,Active,2024
+S0363,Ashley Lewis,Female,39,Surgery,Anesthesiologist,Green Valley Medical,Full-Time,Afternoon,16,153500.0,59.0,19,9.0,High,Resigned,2022
+S0623,Emily Perez,Male,59,Radiology,Radiologist,City General,PartTime,Morning,11,110300.0,19.0,0,2.0,Medium,Active,2023
+S0003,Nancy Miller,Male,49,Oncology,Oncologist,City General,Part-Time,Afternoon,12,113000.0,27.0,0,3.0,High,Active,2020
+S0007,Melissa Lee,Female,46,Surgery,Surgeon,Metro Health Center,Contract,Afternoon,26,,22.0,0,1.0,Medium,Active,2020
+S0312,Michelle Nguyen,Female,51,Oncology,Palliative Care Specialist,St. Mary Hospital,Part-Time,Morning,29,65200.0,17.0,0,15.0,Medium,Active,2024
+S1109,  Jennifer Scott  ,Female,62,Oncology,Palliative Care Specialist,St. Mary Hospital,Contract,Morning,6,67800.0,18.0,0,17.0,Low,Active,2023
+S0666,Donna King,Male,45,Surgery,Scrub Nurse,Sunrise Clinic,Contract,Night,16,54500.0,23.0,0,18.0,Medium,Active,2023
+S0969,Mark Smith,Female,38,Oncology,Palliative Care Specialist,Sunrise Clinic,Part-Time,Morning,16,62600.0,16.0,0,11.0,Medium,Resigned,2019
+S1437,Joseph Smith,Female,62,Oncology,Palliative Care Specialist,City General,Full-Time,Morning,14,55100.0,56.0,16,16.0,Low,Active,2022
+S0216,Sandra Hill,Female,61,Emergency,ER Nurse,Sunrise Clinic,Part-Time,Afternoon,20,47200.0,24.0,0,10.0,Medium,Resigned,2021
+S0706,James Jones,Female,35,Radiology,X-Ray Technician,St. Mary Hospital,Full-Time,Afternoon,4,40900.0,35.0,0,17.0,Medium,Active,2021
+S0028,Emily Taylor,female,35,Surgery,Anesthesiologist,Green Valley Medical,Contract,Night,14,133300.0,17.0,0,20.0,High,On Leave,2023
+S1114,Christopher Anderson,Male,30,Emergency,Paramedic,St. Mary Hospital,Part-Time,Night,6,,21.0,0,9.0,Medium,Active,2021
+S1165,Nancy Lopez,Female,48,Pharmacy,Drug Safety Officer,Sunrise Clinic,Contract,Afternoon,6,61600.0,24.0,0,11.0,,Active,2020
+S1035,James Wilson,Male,33,ICU,ICU Specialist,St. Mary Hospital,Contract,Afternoon,29,102300.0,29.0,0,2.0,High,Active,2020
+S0639,Stephanie Hill,Female,43,General Ward,Healthcare Assistant,City General,Full-Time,Morning,14,29200.0,56.0,16,3.0,Medium,On Leave,2019
+S0775,James Martin,Female,30,ICU,Respiratory Therapist,Metro Health Center,Part-Time,Afternoon,7,43000.0,33.0,0,17.0,Medium,Active,2024
+S1334,David Sanchez,Female,35,Pharmacy,Pharmacist,St. Mary Hospital,Contract,Afternoon,2,78100.0,26.0,0,2.0,Medium,Active,2021
+S0625,Donna Lewis,Female,49,Oncology,Palliative Care Specialist,Sunrise Clinic,Part-Time,Morning,2,55900.0,21.0,0,4.0,Low,Active,2020
+S1261,Robert Martin,Male,22,General Ward,General Physician,Sunrise Clinic,Full-Time,Night,10,74000.0,59.0,19,12.0,Low,Active,2020
+S0257,David Taylor,Female,25,General Ward,Ward Nurse,City General,Contract,PM,8,41700.0,33.0,0,3.0,Low,Resigned,2021
+S0026,Charles Hernandez,Female,30,Surgery,Anesthesiologist,City General,Full-Time,Afternoon,20,158700.0,52.0,12,9.0,Medium,Resigned,2021
+S0337,John Nguyen,Female,34,Pharmacy,Pharmacist,St. Mary Hospital,Part-Time,Night,22,77000.0,29.0,0,14.0,Medium,Active,2022
+S0573,Deborah Scott,Male,34,Surgery,Surgeon,Metro Health Center,Contract,Night,30,127500.0,28.0,0,14.0,High,Resigned,2023
+S0048,Susan Brown,Male,27,Emergency,ER Nurse,City General,Part-Time,Night,7,49300.0,27.0,0,10.0,Low,Active,2022
+S0107,Daniel Smith,Female,23,Emergency,Paramedic,Green Valley Medical,Part-Time,Morning,22,38000.0,19.0,0,18.0,Low,Active,2021
+S0350,Betty Jackson,Female,36,Pharmacy,Pharmacist,Green Valley Medical,Contract,Morning,16,78600.0,34.0,0,16.0,Medium,Active,2021
+S0056,Nancy Moore,Female,33,Emergency,ER Nurse,Green Valley Medical,Full-Time,Afternoon,18,54800.0,57.0,17,8.0,Medium,Active,2021
+S1327,Brian Martinez,Male,31,ICU,Respiratory Therapist,Sunrise Clinic,Part-Time,Night,6,42800.0,15.0,0,15.0,Medium,Active,2019
+S0214,Robert Hernandez,Male,39,Pharmacy,Pharmacist,Sunrise Clinic,Part-Time,Afternoon,10,82100.0,23.0,0,13.0,High,Resigned,2020
+S0121,David White,Male,50,PEDIATRICS,Pediatrician,Metro Health Center,Contract,Afternoon,14,86100.0,24.0,0,12.0,Medium,On Leave,2023
+S0899,Amanda Torres,Female,37,Radiology,X-Ray Technician,Green Valley Medical,Full-Time,Night,5,35100.0,49.0,9,9.0,Low,Active,2019
+S0758,Deborah Nguyen,Male,27,Pediatrics,Pediatrician,Sunrise Clinic,Contract,Night,30,94800.0,17.0,0,16.0,High,Active,2022
+S0073,Jessica Moore,Female,61,Surgery,Anesthesiologist,Sunrise Clinic,Contract,Afternoon,15,166000.0,19.0,0,9.0,High,Active,2019
+S1490,Amanda Nguyen,Male,34,ICU,ICU Nurse,City General,Contract,Afternoon,6,53000.0,15.0,0,10.0,Low,On Leave,2023
+S1385,Paul Lopez,Female,46,ICU,ICU Specialist,Green Valley Medical,Full-Time,Morning,25,103800.0,38.0,0,2.0,High,Active,2019
+S0046,Lisa Harris,Male,58,Pharmacy,Pharmacy Technician,St. Mary Hospital,PART TIME,PM,26,38900.0,32.0,0,17.0,Medium,Active,2021
+S1343,Donna Jackson,Male,53,Oncology,Palliative Care Specialist,Metro Health Center,Full-Time,Night,30,67800.0,38.0,0,7.0,Medium,Active,2024
+S0524,Michelle Thomas,Male,30,General Ward,Healthcare Assistant,St. Mary Hospital,Full-Time,Morning,26,33000.0,47.0,7,,Medium,Active,2024
+S1471,Patricia Gonzalez,Male,29,ICU,Respiratory Therapist,Sunrise Clinic,Contract,Afternoon,8,50500.0,25.0,0,18.0,Medium,Active,2020
+S0817,Kenneth Anderson,Male,46,surgery,Surgeon,Green Valley Medical,Contract,Afternoon,16,134500.0,25.0,0,13.0,Medium,Resigned,2024
+S0893,Daniel White,Male,60,Oncology,Chemo Nurse,City General,Part-Time,afternoon,6,64700.0,17.0,0,14.0,Low,Resigned,2023
+S0821,Matthew Garcia,Female,37,Radiology,X-Ray Technician,City General,Part-Time,Night,24,36700.0,19.0,0,20.0,Medium,Resigned,2023
+S0534,Melissa Walker,Male,39,Surgery,Scrub Nurse,St. Mary Hospital,Full-Time,Morning,22,56200.0,40.0,0,5.0,Medium,Active,2020
+S1160,Mary Scott,Female,53,Emergency,ER Nurse,St. Mary Hospital,Part-Time,Night,2,52300.0,32.0,0,20.0,Medium,Active,2020
+S0604,Jennifer Lee,Male,24,Oncology,Chemo Nurse,St. Mary Hospital,Part-Time,Night,29,59900.0,24.0,0,2.0,Low,Active,2019
+S0466,Susan Brown,Female,58,Emergency,ER Doctor,City General,Full-Time,Night,24,91900.0,44.0,4,9.0,High,Resigned,2020
+S1112,Barbara Taylor,Female,23,Emergency,Paramedic,Green Valley Medical,Full-Time,AM,18,38700.0,53.0,13,10.0,Medium,Active,2022
+S1306,Andrew Moore,Female,31,Pediatrics,Pediatrician,Metro Health Center,Full-Time,Morning,6,87600.0,42.0,2,14.0,Medium,Active,2021
+S0803,Steven Wright,Female,54,General Ward,General Physician,Sunrise Clinic,Full-Time,Night,1,81400.0,38.0,0,12.0,High,Active,2022
+S1048,Sarah Miller,male,52,Pharmacy,Drug Safety Officer,Sunrise Clinic,Part-Time,Night,25,66400.0,19.0,0,10.0,Medium,Resigned,2024
+S0061,John Brown,Female,22,Radiology,Radiologist,City General,Contract,Night,21,113100.0,24.0,0,4.0,Medium,Resigned,2021
+S0916,Susan Perez,Female,37,General Ward,Healthcare Assistant,St. Mary Hospital,Part-Time,Morning,22,,19.0,0,0.0,Low,Active,2020
+S0093,Michael Thomas,Male,24,Pharmacy,Pharmacist,Sunrise Clinic,Part-Time,Morning,13,89500.0,32.0,0,4.0,High,Active,2019
+S0667,Emily Robinson,Female,48,Pharmacy,Pharmacy Technician,Metro Health Center,Full-Time,Morning,28,34100.0,57.0,17,16.0,Medium,On Leave,2020
+S0728,Michelle Gonzalez,Female,52,Surgery,Scrub Nurse,Metro Health Center,Contract,Morning,7,56200.0,29.0,0,8.0,Medium,On Leave,2021
+S0195,Donald Thomas,Female,22,Surgery,Scrub Nurse,St. Mary Hospital,Full-Time,Morning,13,57900.0,,17,6.0,Low,Resigned,2024
+S0281,Lisa Jackson,Female,36,Radiology,Radiologist,City General,Contract,Night,23,99200.0,20.0,0,0.0,Medium,Active,2022
+S0696,Kenneth Lewis,Male,26,Emergency,ER Nurse,Sunrise Clinic,Contract,Night,2,54500.0,18.0,0,2.0,Medium,Active,2019
+S0360,Ashley Scott,Male,33,Oncology,Oncologist,St. Mary Hospital,Contract,Night,9,112400.0,24.0,0,2.0,High,Active,2023
+S0520,Brian Perez,Male,24,General Ward,General Physician,Green Valley Medical,Part-Time,Night,1,84800.0,27.0,0,18.0,High,Active,2020
+S0840,Barbara Lopez,F,29,ICU,Respiratory Therapist,St. Mary Hospital,Full-Time,Afternoon,20,49000.0,51.0,11,10.0,Medium,Active,2023
+S0794,George Moore,Female,31,ICU,ICU Nurse,St. Mary Hospital,Full-Time,Night,7,60400.0,57.0,17,20.0,Low,Active,2024
+S0183,Donna Robinson,Male,54,Emergency,ER Nurse,Metro Health Center,Part-Time,,9,50000.0,15.0,0,12.0,Low,Active,2019
+S0041,Amanda Smith,Male,46,Pharmacy,Drug Safety Officer,City General,Part-Time,Afternoon,8,,18.0,0,13.0,Low,Active,2020
+S0111,Margaret Hill,Female,55,Oncology,Palliative Care Specialist,St. Mary Hospital,Part-Time,Night,10,55900.0,15.0,0,6.0,Low,Active,2020
+S0043,Thomas Thomas,Female,57,General Ward,Healthcare Assistant,Sunrise Clinic,Full-Time,Afternoon,16,29500.0,59.0,19,16.0,Medium,Active,2022
+S0945,Robert Brown,Male,28,Surgery,Anesthesiologist,Sunrise Clinic,Contract,Morning,28,146400.0,18.0,0,1.0,Medium,On Leave,2022
+S0205,Nancy Torres,Male,32,General Ward,General Physician,Sunrise Clinic,Part-Time,Morning,30,84100.0,18.0,0,16.0,Medium,Active,2024
+S1075,Matthew Scott,Male,45,General Ward,Healthcare Assistant,Metro Health Center,Contract,Morning,15,33400.0,21.0,0,5.0,Medium,Resigned,2024
+S0053,Steven Perez,Male,44,ICU,Respiratory Therapist,Green Valley Medical,PART TIME,Night,4,42200.0,28.0,0,15.0,Low,Active,2019
+S0546,Andrew Wilson,Male,40,Radiology,X-Ray Technician,Metro Health Center,Part-Time,Afternoon,29,46200.0,17.0,0,19.0,,Active,2023
+S1023,James Lee,Male,61,Surgery,Surgeon,City General,Full-Time,Morning,17,125100.0,36.0,0,4.0,Medium,Active,2022
+S0925,John Wilson,Female,40,Paediatrics,Pediatric Nurse,St. Mary Hospital,part-time,Morning,2,48600.0,33.0,0,3.0,Low,Active,2022
+S1024,Donna Sanchez,F,42,General Ward,Ward Nurse,St. Mary Hospital,Contractor,Afternoon,12,46200.0,27.0,0,15.0,Medium,Active,2020
+S0778,Jessica Young,Male,39,Oncology,Palliative Care Specialist,Sunrise Clinic,Contract,Night,26,59800.0,27.0,0,1.0,Medium,Active,2024
+S0184,Brian Jones,Male,59,Emergency,Paramedic,Sunrise Clinic,Full-Time,Morning,30,43900.0,36.0,0,2.0,Low,On Leave,2021
+S0138,Richard Jackson,Female,56,Oncology,Palliative Care Specialist,St. Mary Hospital,Part-Time,,11,60800.0,16.0,0,20.0,Medium,Active,2024
+S1002,Mary Harris,Female,30,icu,Respiratory Therapist,St. Mary Hospital,Contract,Night,25,43500.0,25.0,0,11.0,Low,Active,2024
+S0081,John Adams,Female,42,ICU,ICU Nurse,Sunrise Clinic,Contract,Night,22,51100.0,22.0,0,20.0,Medium,Active,2023
+S1281,Donna Garcia,Male,49,Oncology,Chemo Nurse,Sunrise Clinic,Full-Time,Night,25,61500.0,59.0,19,4.0,Low,Active,2019
+S0106,Linda Moore,Female,36,Surgery,Surgeon,Metro Health Center,Part-Time,Morning,28,157600.0,22.0,0,13.0,High,Active,2021
+S0542,Andrew Smith,Female,49,Surgery,Surgeon,Metro Health Center,Full-Time,Night,16,147400.0,36.0,0,1.0,High,Resigned,2020
+S1092,Emily Martin,Male,28,ICU,ICU Nurse,City General,Contract,Night,14,59300.0,15.0,0,18.0,Medium,Active,2023
+S0481,Jennifer Lewis,Female,33,Oncology,Oncologist,St. Mary Hospital,Part-Time,Morning,29,126600.0,15.0,0,15.0,High,Active,2020
+S0166,Steven Adams,Female,48,Emergency,ER Nurse,City General,Part-Time,Morning,17,52700.0,16.0,0,4.0,Medium,Resigned,2022
+S0249,Joshua Allen,Female,23,ICU,ICU Specialist,City General,Part-Time,Night,21,96200.0,27.0,0,9.0,High,Active,2023
+S0308,Patricia Hill,Female,41,Radiology,MRI Technician,Metro Health Center,Full-Time,Morning,22,46600.0,56.0,16,10.0,Low,On Leave,2020
+S0447,Jessica Wright,Male,43,General Ward,Ward Nurse,Metro Health Center,Contract,Morning,16,48600.0,23.0,0,17.0,Low,Active,2020
+S0213,Jennifer Scott,Female,46,ICU,Respiratory Therapist,Sunrise Clinic,Part-Time,Morning,6,46000.0,33.0,0,16.0,Medium,Active,2022
+S0335,Nancy Thompson,Female,50,General Ward,Healthcare Assistant,City General,Full-Time,Morning,12,29800.0,52.0,12,16.0,Medium,Active,2019
+S0098,Mary Rodriguez,Male,56,Oncology,Oncologist,St. Mary Hospital,Full-Time,Afternoon,19,110500.0,46.0,6,7.0,High,Active,2024
+S1192,Thomas Hernandez,Male,40,Radiology,Radiologist,City General,Contract,Night,26,107100.0,15.0,0,13.0,Medium,Active,2022
+S0738,Matthew Gonzalez,Female,50,ICU,ICU Nurse,St. Mary Hospital,Contract,Morning,7,54100.0,26.0,0,7.0,Medium,Active,2019
+S0907,Michael Perez,Male,35,EMERGENCY,ER Doctor,City General,Part-Time,Afternoon,17,88400.0,33.0,0,16.0,High,Active,2022
+S0865,Michael Garcia,Male,44,Pharmacy,Pharmacy Technician,Metro Health Center,Part-Time,Afternoon,25,35000.0,18.0,0,12.0,Low,Active,2022
+S1356,Kimberly Hill,F,42,Emergency,ER Doctor,St. Mary Hospital,Contract,Morning,4,94800.0,18.0,0,11.0,Medium,Active,2020
+S0103,Michael Lee,Female,43,General Ward,General Physician,Sunrise Clinic,Part-Time,Afternoon,12,77000.0,25.0,0,8.0,Low,Active,2024
+S0435,George Williams,Female,45,Pharmacy,Drug Safety Officer,Sunrise Clinic,Part-Time,Afternoon,17,64700.0,34.0,0,0.0,Low,On Leave,2019
+S0075,Deborah Moore,Male,31,ICU,ICU Nurse,Green Valley Medical,Contract,Afternoon,8,56800.0,30.0,0,15.0,Medium,Active,2023
+S1473,Jessica Clark,Male,35,Radiology,Radiologist,Green Valley Medical,Full-Time,Night,4,110600.0,58.0,18,16.0,Medium,Active,2023
+S0906,Amanda Wilson,Female,27,ICU,ICU Nurse,City General,Contract,Afternoon,16,61400.0,17.0,0,2.0,Low,Resigned,2024
+S1389,Amanda Nguyen,Male,56,Pediatrics,Pediatrician,Sunrise Clinic,Contract,Morning,17,91700.0,19.0,0,1.0,High,Active,2022
+S0303,Michelle Scott,Female,53,Emergency,ER Doctor,City General,Part-Time,Night,27,90700.0,26.0,0,5.0,High,Active,2022
+S1322,Lisa Taylor,Female,53,Radiology,X-Ray Technician,St. Mary Hospital,Part-Time,Night,8,36700.0,19.0,0,17.0,Low,Active,2023
+S1291,James Davis,Female,35,Pediatrics,Pediatrician,Metro Health Center,Contract,morning,10,85500.0,34.0,0,8.0,High,Resigned,2019
+S1250,George Thomas,Male,52,Surgery,Surgeon,St. Mary Hospital,Full-Time,Morning,9,149800.0,53.0,13,17.0,Medium,Active,2019
+S0763,David Garcia,Female,50,Surgery,Scrub Nurse,St. Mary Hospital,Contract,Night,4,52800.0,17.0,0,12.0,Medium,Active,2024
+S0734,Thomas Davis,Female,47,General Ward,Ward Nurse,St. Mary Hospital,Part-Time,Morning,22,51600.0,19.0,0,10.0,Low,Active,2019
+S0389,Steven Miller,Female,58,Surgery,Scrub Nurse,City General,Part-Time,Morning,10,57200.0,17.0,0,16.0,Medium,Active,2022
+S0236,Daniel Adams,FEMALE,29,Radiology,Radiologist,Metro Health Center,Full-Time,Morning,20,115700.0,48.0,8,5.0,High,On Leave,2024
+S1273,Jennifer Taylor,Female,57,Emergency,ER Nurse,St. Mary Hospital,Part-Time,Night,17,50900.0,30.0,0,12.0,Medium,Active,2019
+S0268,Lisa Taylor,Male,44,ICU,Respiratory Therapist,St. Mary Hospital,Contract,Afternoon,28,44800.0,15.0,0,12.0,Low,On Leave,2024
+S0306,Jessica Robinson,Female,49,Oncology,Palliative Care Specialist,Sunrise Clinic,Part-Time,Afternoon,13,60000.0,31.0,0,19.0,Medium,Resigned,2021
+S1229,Deborah Martinez,Female,26,General Ward,Healthcare Assistant,City General,Part-Time,Afternoon,8,31000.0,16.0,0,15.0,Medium,Active,2021
+S0118,Michelle Brown,Female,26,Radiology,Radiologist,Green Valley Medical,Part-Time,Afternoon,10,106500.0,31.0,0,2.0,High,Active,2021
+S1238,Jessica Lewis,Female,47,Emergency,Paramedic,Metro Health Center,Full-Time,Night,8,37600.0,38.0,0,8.0,Medium,Resigned,2019
+S0674,Andrew King,Male,34,ICU,Respiratory Therapist,Metro Health Center,Contract,Night,29,45100.0,30.0,0,16.0,Medium,Active,2019
+S0250,Joshua Jones,Female,46,Emergency,ER Doctor,Sunrise Clinic,Full-Time,Morning,30,93700.0,35.0,0,11.0,Medium,On Leave,2024
+S1113,Richard Martinez,Male,58,General Ward,Healthcare Assistant,Metro Health Center,Contract,Afternoon,4,28400.0,24.0,0,5.0,Medium,Active,2020
+S1097,Andrew Martinez,Female,28,Oncology,Chemo Nurse,Metro Health Center,Part-Time,Night,25,55300.0,20.0,0,6.0,Low,Active,2020
+S0072,Steven Smith,Male,42,Emergency,ER Nurse,St. Mary Hospital,Part-Time,Afternoon,2,53900.0,29.0,0,13.0,Medium,Active,2022
+S0095,Michael White,Female,35,Emergency,Paramedic,City General,Part-Time,Afternoon,13,43900.0,26.0,0,1.0,Medium,Active,2021
+S0953,Patricia Thomas,Male,30,Surgery,Scrub Nurse,Green Valley Medical,Contract,Morning,29,56100.0,17.0,0,18.0,Low,Active,2024
+S0034,Mary Davis,Female,54,ICU,ICU Nurse,Metro Health Center,Contract,Afternoon,9,54300.0,20.0,0,18.0,Medium,Resigned,2021
+S1121,Susan Lopez,Female,45,Surgery,Anesthesiologist,City General,Part-Time,Night,12,164000.0,19.0,0,5.0,Medium,Active,2022
+S0449,Kevin White,Female,22,Oncology,Oncologist,Green Valley Medical,Part-Time,Morning,10,138300.0,18.0,0,0.0,High,Resigned,2024
+S0446,Barbara Jackson,Male,29,Radiology,Radiologist,City General,Full-Time,Night,10,95400.0,45.0,5,3.0,Medium,Resigned,2023
+S0772,Joseph Taylor,Female,23,ICU,ICU Specialist,Sunrise Clinic,Part-Time,Morning,30,105600.0,18.0,0,4.0,High,Active,2021
+S0717,Charles Allen,Male,38,Pediatrics,Pediatric Nurse,Green Valley Medical,Full-Time,Night,3,52400.0,52.0,12,20.0,Medium,Active,2019
+S0917,Melissa Smith,Female,23,General Ward,Ward Nurse,St. Mary Hospital,Part-Time,Morning,19,49700.0,26.0,0,15.0,Medium,Active,2020
+S1304,Linda Robinson,Male,26,Surgery,Anesthesiologist,City General,Part-Time,Morning,5,166300.0,26.0,0,5.0,High,Active,2023
+S0931,Mary Clark,Female,48,Radiology,MRI Technician,St. Mary Hospital,Part-Time,Afternoon,30,41400.0,19.0,0,19.0,Low,Active,2023
+S1470,Charles Taylor,Female,23,Pharmacy,Drug Safety Officer,Sunrise Clinic,Part-Time,Night,10,63700.0,15.0,0,6.0,Low,Active,2024
+S0078,Joseph Clark,Female,34,Pharmacy,Pharmacy Technician,Metro Health Center,Full-Time,Night,23,32700.0,45.0,5,,Low,Active,2022
+S0085,Kenneth Ramirez,Male,26,General Ward,Ward Nurse,Metro Health Center,Part-Time,AFTERNOON,28,51300.0,23.0,0,14.0,Medium,Active,2021
+S0863,Mark Taylor,Female,45,Radiology,X-Ray Technician,Sunrise Clinic,Contract,Morning,21,46200.0,16.0,0,19.0,Low,Active,2023
+S0083,Anthony Torres,Female,45,Emergency,ER Nurse,City General,Full-Time,Afternoon,3,48000.0,40.0,0,5.0,Medium,Resigned,2023
+S0458,William Hernandez,Female,45,General Ward,General Physician,Sunrise Clinic,Part-Time,Morning,14,73200.0,22.0,0,1.0,Medium,Active,2022
+S0949,Carol Scott,Male,58,General Ward,General Physician,Green Valley Medical,Contract,Afternoon,15,84000.0,19.0,0,,Medium,Active,2021
+S0677,Thomas Garcia,Male,56,ICU,ICU Specialist,City General,Part-Time,Morning,22,,24.0,0,13.0,High,Active,2020
+S1282,Paul Hill,Female,47,Emergency,ER Nurse,Green Valley Medical,PART TIME,Afternoon,17,50400.0,24.0,0,15.0,Medium,Active,2021
+S1095,Steven Walker,Female,29,Oncology,Palliative Care Specialist,St. Mary Hospital,Part-Time,AM,3,63100.0,20.0,0,5.0,Low,Active,2021
+S0437,Betty Nguyen,Male,51,Pediatrics,Pediatrician,City General,Full-Time,Afternoon,26,84100.0,42.0,2,8.0,Medium,Active,2021
+S0771,Donald Wright,Female,57,General Ward,General Physician,Sunrise Clinic,Full-Time,Afternoon,6,0.0,42.0,2,6.0,Low,Active,2019
+S0645,Carol Young,Female,47,Oncology,Oncologist,Metro Health Center,Contract,Afternoon,1,117600.0,16.0,0,16.0,High,Active,2024
+S1459,Jennifer Jackson,Female,61,Oncology,Palliative Care Specialist,St. Mary Hospital,Contract,Night,18,60700.0,29.0,0,20.0,Low,Resigned,2024
+S1141,John Harris,Female,31,ICU,Respiratory Therapist,Green Valley Medical,Contract,Morning,15,46200.0,18.0,0,20.0,Medium,Active,2021
+S1372,Barbara Davis,Female,46,Surgery,Anesthesiologist,Metro Health Center,Contract,Morning,9,147500.0,26.0,0,16.0,,Active,2024
+S0405,Amanda Sanchez,Female,42,Radiology,Radiologist,Green Valley Medical,Part-Time,Night,24,103900.0,29.0,0,11.0,High,Active,2023
+S1332,Ashley Martinez,Male,41,Pharmacy,Pharmacy Technician,City General,Part-Time,Night,2,34500.0,16.0,0,2.0,Medium,Active,2020
+S0964,John Anderson,Female,53,Oncology,Palliative Care Specialist,Sunrise Clinic,Part-Time,Morning,22,58400.0,27.0,0,5.0,Medium,Active,2022
+S1062,Thomas Martin,Female,27,Emergency,ER Doctor,City General,Full-Time,Afternoon,23,93400.0,52.0,12,7.0,Medium,Active,2023
+S0105,Patricia Jackson,Male,48,Radiology,X-Ray Technician,Sunrise Clinic,Contract,,4,44800.0,24.0,0,11.0,Medium,Active,2024
+S0610,Margaret Taylor,Male,56,Radiology,X-Ray Technician,Sunrise Clinic,Part-Time,Morning,10,39900.0,17.0,0,,Low,Active,2019
+S0860,Jennifer Young,Female,28,ICU,ICU Specialist,Green Valley Medical,Full-Time,Morning,6,93100.0,49.0,9,10.0,Medium,Active,2023
+S0689,Emily White,Male,61,Radiology,Radiologist,City General,Part-Time,Night,29,96200.0,23.0,0,15.0,High,Active,2020
+S0979,George Clark,F,42,Radiology,Radiologist,City General,Full-Time,Night,18,106900.0,37.0,0,11.0,Medium,Active,2022
+S0827,David Anderson,Male,40,Oncology,Chemo Nurse,Metro Health Center,Part-Time,Night,10,50700.0,32.0,0,7.0,Medium,Active,2019
+S1377,Andrew Rodriguez,Male,49,Radiology,MRI Technician,St. Mary Hospital,Full-Time,Night,7,43800.0,48.0,8,1.0,Medium,Active,2019
+S0063,Barbara Torres,Female,26,Icu,ICU Nurse,St. Mary Hospital,CONTRACT,Night,4,55000.0,17.0,0,7.0,Medium,Active,2020
+S0282,Kenneth Torres,Male,33,Pharmacy,Drug Safety Officer,Metro Health Center,Part-Time,night,11,61700.0,30.0,0,4.0,Medium,Active,2020
+S0779,Emily Sanchez,M,36,Radiology,Radiologist,St. Mary Hospital,Contractor,Night,18,104800.0,20.0,0,0.0,Medium,Active,2020
+S1034,Andrew Garcia,Female,57,Emergency,ER Nurse,Green Valley Medical,Full-Time,Afternoon,4,54300.0,,9,2.0,Medium,Active,2022
+S0239,Anthony Harris,Female,53,Surgery,Anesthesiologist,Green Valley Medical,Contract,Morning,26,,17.0,0,20.0,High,Active,2024
+S0224,Kimberly Walker,Male,44,ICU,ICU Specialist,Sunrise Clinic,Part-Time,Afternoon,15,101400.0,30.0,0,3.0,Medium,Resigned,2020
+S0146,Mark Garcia,Male,30,General Ward,General Physician,City General,Part-Time,Morning,23,83300.0,25.0,0,11.0,High,Active,2024
+S1428,Stephanie Robinson,Female,40,Pharmacy,Drug Safety Officer,Metro Health Center,Contract,Night,5,61500.0,31.0,0,9.0,Medium,Active,2023
+S0374,Susan King,Male,58,Pediatrics,Child Therapist,City General,Full-Time,Morning,21,46600.0,54.0,14,18.0,Medium,Active,2021
+S1362,Matthew Gonzalez,Male,25,Surgery,Scrub Nurse,Metro Health Center,Full-Time,Afternoon,5,56600.0,44.0,4,11.0,Low,Active,2024
+S0119,Jennifer Adams,Male,25,General Ward,Ward Nurse,St. Mary Hospital,Part-Time,Afternoon,15,49700.0,31.0,0,12.0,Medium,Active,2024
+S1150,Joseph Lee,Male,43,Pediatrics,Pediatric Nurse,Metro Health Center,Contract,Afternoon,21,49000.0,18.0,0,2.0,Medium,Active,2024
+S0251,Susan Walker,Female,58,Radiology,Radiologist,Metro Health Center,Part-Time,Afternoon,3,97400.0,15.0,0,18.0,Medium,Active,2024
+S1475,Michelle King,Female,46,Radiology,Radiologist,St. Mary Hospital,Contract,Night,20,110500.0,32.0,0,1.0,High,On Leave,2024
+S1235,Christopher Sanchez,Female,46,Radiology,Radiologist,Sunrise Clinic,Full-Time,Night,27,100800.0,45.0,5,,High,Active,2024
+S0922,Kenneth Wright,Male,34,Surgery,Anesthesiologist,St. Mary Hospital,Contract,Afternoon,9,159400.0,31.0,0,5.0,High,Active,2021
+S0010,Robert Harris,Male,62,Emergency,ER Doctor,Sunrise Clinic,Contract,Morning,17,91300.0,34.0,0,14.0,High,Active,2023
+S0450,Joshua Wright,Female,54,Pharmacy,Pharmacist,Green Valley Medical,Full-Time,Night,17,76400.0,40.0,0,6.0,Medium,Active,2022
+S0989,Thomas Hill,Female,53,ICU,ICU Nurse,City General,Full-Time,Afternoon,5,51700.0,42.0,2,8.0,Medium,Active,2021
+S0709,Betty White,Male,43,Pediatrics,Pediatric Nurse,Sunrise Clinic,Part-Time,Morning,29,46800.0,31.0,0,19.0,Medium,Active,2020
+S0256,Kimberly Jones,Female,29,Radiology,Radiologist,Sunrise Clinic,Part-Time,Morning,3,103600.0,33.0,0,20.0,Medium,Active,2021
+S0594,Paul Lee,Male,41,ICU,Respiratory Therapist,City General,PART TIME,Morning,19,42600.0,29.0,0,13.0,Low,Active,2019
+S0390,Andrew Walker,Female,56,Radiology,Radiologist,Sunrise Clinic,Part-Time,Night,22,103000.0,25.0,0,14.0,Medium,Active,2022
+S0988,Carol Lee,Male,35,Pediatrics,Pediatrician,Green Valley Medical,Contract,Afternoon,6,81600.0,26.0,0,9.0,High,On Leave,2023
+S1227,Christopher Torres,Female,58,General Ward,Ward Nurse,City General,Contract,Afternoon,8,43800.0,33.0,0,19.0,Medium,Active,2020
+S0558,Nancy Jackson,Female,31,Pediatrics,Pediatric Nurse,Metro Health Center,Contract,Morning,22,51800.0,24.0,0,18.0,Medium,Active,2023
+S1316,Stephanie Torres,Female,49,ICU,ICU Nurse,Metro Health Center,Full-Time,Night,30,58300.0,37.0,0,4.0,Low,Active,2024
+S0868,Sandra Moore,Female,35,Radiology,MRI Technician,St. Mary Hospital,Full-Time,Morning,3,44100.0,55.0,15,5.0,Medium,Resigned,2024
+S0461,Paul Sanchez,Male,50,Emergency,Paramedic,City General,Full-Time,Afternoon,17,35600.0,52.0,12,12.0,Low,Active,2023
+S0724,Donald Miller,Male,47,Pharmacy,Pharmacy Technician,Sunrise Clinic,Contract,Morning,21,37400.0,33.0,0,14.0,Low,Resigned,2020
+S1411,Michelle Garcia,Male,56,General Ward,Healthcare Assistant,City General,Contract,Morning,5,28200.0,30.0,0,6.0,,Active,2020
+S0145,Thomas Taylor,Male,53,Emergency,Paramedic,Metro Health Center,PART TIME,Night,10,42300.0,21.0,0,19.0,Medium,Active,2019
+S0502,Paul Torres,Female,37,Emergency,Paramedic,Green Valley Medical,Contract,Night,19,41000.0,16.0,0,1.0,Low,Active,2022
+S1119,Amanda Harris,Female,41,Oncology,Oncologist,St. Mary Hospital,Contract,Morning,9,138700.0,30.0,0,0.0,Medium,Active,2024
+S0740,Kenneth Gonzalez,Female,54,pediatrics,Pediatrician,Green Valley Medical,Part-Time,Morning,13,90200.0,21.0,0,17.0,Medium,Active,2023
+S1457,Mary Hernandez,Female,61,Oncology,Oncologist,Green Valley Medical,Contract,Night,26,114200.0,16.0,0,10.0,Medium,On Leave,2023
+S0732,Anthony Scott,Female,26,Pediatrics,Pediatric Nurse,City General,Contract,Night,25,46000.0,26.0,0,2.0,Medium,Active,2022
+S0540,David Adams,Female,32,General Ward,Ward Nurse,Green Valley Medical,Full-Time,Afternoon,28,42800.0,53.0,13,17.0,Medium,On Leave,2023
+S0178,Andrew Smith,Female,39,Pharmacy,Pharmacist,Metro Health Center,Part-Time,Afternoon,2,79300.0,26.0,0,7.0,Medium,Active,2024
+S1477,Anthony Lewis,Female,48,Pediatrics,Pediatric Nurse,Metro Health Center,Part-Time,Morning,10,52800.0,29.0,0,8.0,Low,Active,2023
+S0698,Anthony Anderson,Male,40,Emergency,Paramedic,St. Mary Hospital,Part-Time,Afternoon,15,44800.0,34.0,0,0.0,Medium,Resigned,2023
+S0971,Carol Brown,Female,30,Oncology,Chemo Nurse,City General,Contract,Morning,2,53800.0,18.0,0,20.0,Medium,Active,2020
+S1066,Nancy Perez,Female,56,Pharmacy,Drug Safety Officer,Metro Health Center,Part-Time,Afternoon,5,65200.0,26.0,0,14.0,Medium,Active,2019
+S0905,Donald Young,Female,29,Pharmacy,Drug Safety Officer,City General,Contract,Night,8,64600.0,25.0,0,15.0,Medium,Active,2023
+S1301,Jennifer Hernandez,Male,24,Pediatrics,Pediatrician,St. Mary Hospital,Part-Time,Afternoon,2,81500.0,34.0,0,17.0,Medium,Active,2020
+S0306,Jessica Robinson,Female,49,Oncology,Palliative Care Specialist,Sunrise Clinic,Part-Time,Afternoon,13,60000.0,31.0,0,19.0,Medium,Resigned,2021
+S0008,Amanda Young,Female,26,Radiology,MRI Technician,Green Valley Medical,Contract,Morning,9,46500.0,29.0,0,4.0,Medium,Active,2020
+S1387,Mark Ramirez,Male,60,Radiology,MRI Technician,Metro Health Center,Contract,Night,9,42800.0,34.0,0,14.0,Low,Active,2020
+S0668,Betty Davis,Male,51,ICU,Respiratory Therapist,City General,Full-Time,Afternoon,4,51900.0,48.0,8,3.0,Low,Active,2023
+S1203,Andrew Lopez,Male,59,General Ward,General Physician,Sunrise Clinic,Part-Time,Night,22,77300.0,15.0,0,15.0,Low,Active,2023
+S0358,Donna Scott,Female,62,Pharmacy,Drug Safety Officer,Green Valley Medical,Part-Time,Morning,1,62300.0,18.0,0,1.0,Medium,On Leave,2019
+S0784,Emily Martin,F,37,Pharmacy,Pharmacist,City General,Full-Time,Morning,21,86300.0,54.0,14,5.0,Medium,Active,2022
+S0736,Margaret Hernandez,Male,33,Emergency,Paramedic,Metro Health Center,Full-Time,Afternoon,22,36300.0,56.0,16,0.0,Medium,Active,2024
+S0330,Sandra Thomas,Female,55,Surgery,Anesthesiologist,Metro Health Center,contract,Night,13,161600.0,26.0,0,20.0,Medium,Active,2019
+S1407,Andrew King,FEMALE,41,ICU,ICU Nurse,Green Valley Medical,Part-Time,Afternoon,24,58300.0,15.0,0,7.0,Low,Active,2023
+S1173,Paul King,Male,42,ICU,Respiratory Therapist,Metro Health Center,Contract,Night,7,48500.0,32.0,0,20.0,Low,Active,2024
+S1325,Emily Sanchez,Female,45,General Ward,General Physician,City General,Part-Time,Morning,14,79600.0,21.0,0,,Medium,Active,2022
+S0259,Andrew White,Male,48,Surgery,Scrub Nurse,Green Valley Medical,Part-Time,Night,6,50000.0,31.0,0,1.0,Medium,Resigned,2019
+S0910,Kevin King,Male,51,ICU,ICU Specialist,St. Mary Hospital,Part-Time,Morning,4,104800.0,26.0,0,8.0,Medium,Active,2022
+S1200,Mark Walker,Female,26,Pediatrics,Pediatrician,Green Valley Medical,Contract,Afternoon,10,,20.0,0,9.0,Medium,Active,2023
+S0373,Sarah Williams,Male,59,General Ward,Ward Nurse,Sunrise Clinic,Contract,Morning,6,42100.0,33.0,0,18.0,Medium,Resigned,2019
+S1125,Paul White,Female,52,Emergency,ER Nurse,Green Valley Medical,Full-Time,Afternoon,24,46600.0,50.0,10,15.0,Medium,Active,2024
+S1467,Margaret Hernandez,Male,34,Oncology,Chemo Nurse,St. Mary Hospital,Contract,Night,6,54300.0,17.0,0,10.0,Medium,Active,2021
+S0143,Matthew Torres,Male,26,General Ward,General Physician,Green Valley Medical,Contract,Morning,22,70500.0,34.0,0,4.0,Medium,Active,2021
+S0526,Barbara Young,Male,59,General Ward,Healthcare Assistant,St. Mary Hospital,Full-Time,Morning,2,25300.0,50.0,10,19.0,Low,Active,2024
+S1161,Karen Torres,Male,26,Radiology,MRI Technician,St. Mary Hospital,Part-Time,Night,16,44100.0,15.0,0,19.0,Low,Active,2024
+S0233,Joseph Jackson,Female,53,General Ward,Ward Nurse,Metro Health Center,Full-Time,Morning,18,40500.0,43.0,3,7.0,Low,Active,2019
+S1272,Kimberly White,Female,45,Emergency,ER Nurse,St. Mary Hospital,Part-Time,Night,16,53900.0,18.0,0,13.0,Low,Active,2024
+S1453,Emily Thomas,Male,51,Pharmacy,Pharmacy Technician,St. Mary Hospital,Contract,Afternoon,28,38600.0,31.0,0,4.0,Medium,Active,2022
+S0441,Joshua Torres,Male,31,Radiology,X-Ray Technician,Sunrise Clinic,Contract,Morning,14,43300.0,17.0,0,7.0,Medium,Active,2022
+S0532,John Hill,Female,48,Oncology,Palliative Care Specialist,Metro Health Center,FULL TIME,Morning,20,57900.0,,17,15.0,Low,Active,2024
+S1228,Barbara Adams,Female,23,Surgery,Scrub Nurse,St. Mary Hospital,Contract,Afternoon,16,53300.0,17.0,0,16.0,Medium,Active,2022
+S0227,Karen Jones,Female,46,SURGERY,Scrub Nurse,City General,Contract,Morning,6,57500.0,18.0,0,17.0,Medium,On Leave,2020
+S1053,Margaret Smith,Male,44,ICU,ICU Nurse,St. Mary Hospital,Contract,Night,19,52600.0,25.0,0,4.0,Low,Active,2024
+S0229,Michelle Garcia,Female,51,ICU,ICU Nurse,Green Valley Medical,Full-Time,Night,4,61000.0,39.0,0,10.0,Medium,Active,2023
+S1308,Ashley King,Female,57,General Ward,Healthcare Assistant,Sunrise Clinic,Contract,Night,23,30800.0,34.0,0,18.0,Medium,Active,2023
+S1326,Christopher Nguyen,Male,61,Surgery,Scrub Nurse,City General,Part-Time,Morning,3,54200.0,17.0,0,3.0,Medium,Active,2023
+S0213,Jennifer Scott,Female,46,ICU,Respiratory Therapist,Sunrise Clinic,Part-Time,Morning,6,46000.0,33.0,0,16.0,Medium,Active,2022
+S0886,Emily White,Male,40,ICU,ICU Specialist,St. Mary Hospital,Full-Time,Afternoon,16,96800.0,47.0,7,3.0,High,Resigned,2019
+S0080,Thomas Perez,Male,48,general ward,General Physician,St. Mary Hospital,Full-Time,Night,21,80200.0,57.0,17,12.0,High,Active,2022
+S0149,William Lee,Female,55,Pharmacy,Drug Safety Officer,Metro Health Center,Part-Time,Afternoon,15,70500.0,17.0,0,14.0,Low,Active,2019
+S0815,Sandra Gonzalez,Female,29,Pediatrics,Pediatrician,City General,Contract,Afternoon,20,87800.0,18.0,0,16.0,High,Active,2024
+S0934,Jessica King,Male,59,Radiology,Radiologist,St. Mary Hospital,Contract,Night,5,99700.0,32.0,0,15.0,High,Active,2024
+S0943,Steven King,female,60,General Ward,Ward Nurse,Metro Health Center,Full-Time,Night,19,44200.0,39.0,0,10.0,Medium,Active,2024
+S0672,Christopher Garcia,Female,50,Pediatrics,Child Therapist,City General,Part-Time,Night,29,46700.0,27.0,0,7.0,Low,Active,2024
+S1180,Amanda Moore,Female,49,Surgery,Anesthesiologist,Green Valley Medical,Contract,NIGHT,27,156800.0,15.0,0,13.0,High,Active,2020
+S0556,Betty Lopez,Male,42,Surgery,Surgeon,Sunrise Clinic,Full-Time,Night,22,133400.0,52.0,12,1.0,Medium,Active,2021
+S0938,Donald Walker,Male,37,Emergency,ER Doctor,Metro Health Center,Contract,Morning,19,89800.0,24.0,0,3.0,Medium,Active,2020
+S0134,  Sarah Torres  ,Male,40,Surgery,Anesthesiologist,Metro Health Center,Full-Time,Afternoon,17,157300.0,40.0,0,,Medium,Active,2021
+S1266,Jennifer Thomas,Female,27,Pharmacy,Pharmacist,Metro Health Center,Part-Time,Afternoon,13,86900.0,18.0,0,14.0,Medium,Resigned,2019
+S0824,  David Hill  ,Male,52,ICU,ICU Nurse,Metro Health Center,Contract,Afternoon,2,54500.0,19.0,0,9.0,Medium,Resigned,2019
+S0409,William Wright,Female,51,Radiology,MRI Technician,Metro Health Center,Part-Time,Night,15,42900.0,33.0,0,19.0,Medium,Active,2022
+S0369,Kimberly Moore,Male,24,General Ward,Ward Nurse,St. Mary Hospital,part-time,Night,19,44300.0,33.0,0,17.0,Medium,Resigned,2024
+S0508,Susan Taylor,Male,59,ICU,Respiratory Therapist,Sunrise Clinic,Full-Time,Night,26,45900.0,50.0,10,5.0,Low,On Leave,2021
+S1207,Carol Smith,Female,27,Emergency,ER Nurse,St. Mary Hospital,Contract,Afternoon,13,,15.0,0,9.0,Medium,Active,2020
+S0505,George Perez,Male,52,Radiology,X-Ray Technician,Sunrise Clinic,Contract,Afternoon,10,41900.0,26.0,0,9.0,Medium,Active,2023
+S1361,Anthony Smith,Male,32,Surgery,Anesthesiologist,Metro Health Center,Contract,Night,26,164300.0,23.0,0,18.0,Medium,Resigned,2020
+S0348,Christopher Hill,Female,51,Oncology,Oncologist,St. Mary Hospital,Full-Time,Night,20,111700.0,59.0,19,20.0,High,Active,2020
+S0387,Jennifer Moore,Male,24,Surgery,Anesthesiologist,St. Mary Hospital,FullTime,Afternoon,13,156200.0,46.0,6,12.0,High,Active,2020
+S0001,Stephanie Wright,Female,37,ICU,ICU Specialist,St. Mary Hospital,Full-Time,morning,2,92800.0,53.0,13,13.0,High,On Leave,2024
+S0361,Charles Adams,Female,43,ICU,ICU Specialist,City General,Full-Time,Afternoon,16,92300.0,41.0,1,10.0,Medium,Active,2019
+S0895,Betty White,Male,44,Radiology,MRI Technician,City General,Full-Time,Morning,4,42400.0,59.0,19,10.0,,Active,2024
+S0829,George Rodriguez,Female,42,Radiology,X-Ray Technician,Metro Health Center,Contract,Morning,11,41700.0,34.0,0,9.0,Medium,Active,2021
+S1445,David Miller,Female,56,Pharmacy,Pharmacist,St. Mary Hospital,Part-Time,Morning,1,76300.0,34.0,0,5.0,Low,Resigned,2020
+S0476,James Davis,Male,41,Oncology,Chemo Nurse,Metro Health Center,Contract,Afternoon,13,61200.0,25.0,0,10.0,Low,Active,2021
+S1309,Jessica Jones,Female,32,Pharmacy,Pharmacy Technician,City General,Part-Time,Night,4,41800.0,26.0,0,,Medium,Active,2019
+S0058,Kevin Nguyen,Female,36,Emergency,ER Doctor,City General,Contract,Afternoon,17,91000.0,30.0,0,17.0,Medium,Resigned,2021
+S0638,Anthony Martin,Female,33,ICU,Respiratory Therapist,St. Mary Hospital,Part-Time,Morning,25,47100.0,33.0,0,14.0,Medium,Active,2019
+S1335,Christopher Lewis,Female,33,Emergency,ER Nurse,Sunrise Clinic,Part-Time,Afternoon,22,47200.0,25.0,0,13.0,Low,Active,2024
+S1220,Mark Martinez,Female,51,Radiology,MRI Technician,Sunrise Clinic,PartTime,Afternoon,1,42300.0,,0,13.0,Medium,Active,2022
+S0984,George Williams,Female,43,Oncology,Oncologist,Metro Health Center,Contract,Night,30,112400.0,26.0,0,14.0,High,Active,2019
+S0173,Amanda Torres,Male,40,General ward,Ward Nurse,St. Mary Hospital,PartTime,Afternoon,30,43800.0,32.0,0,1.0,Medium,Active,2019
+S0451,Emily Sanchez,Male,24,General Ward,Healthcare Assistant,Green Valley Medical,Contract,Morning,22,27600.0,15.0,0,11.0,Medium,Active,2021
+S0126,David Lopez,Female,61,Emergency,Paramedic,Sunrise Clinic,Contract,Morning,14,37700.0,29.0,0,1.0,Medium,Active,2020
+S1011,Carol Walker,Female,59,Pediatrics,Pediatrician,City General,Full-Time,Morning,25,88600.0,58.0,18,18.0,Medium,Active,2022
+S0531,Anthony Walker,Male,22,General Ward,General Physician,Metro Health Center,Full-Time,Morning,5,81300.0,39.0,0,6.0,Medium,On Leave,2021
+S0858,Melissa Martinez,Female,27,Pediatrics,Pediatrician,City General,FullTime,Night,17,92600.0,57.0,17,5.0,High,On Leave,2020
+S0714,Margaret Wilson,Male,35,Pharmacy,Drug Safety Officer,Sunrise Clinic,Full-Time,Morning,19,65000.0,48.0,8,12.0,Medium,On Leave,2020
+S0091,Betty Taylor,Female,22,Radiology,Radiologist,St. Mary Hospital,Contract,Afternoon,12,114200.0,27.0,0,20.0,High,Active,2022
+S1481,Christopher Perez,M,42,Pediatrics,Child Therapist,City General,Full-Time,Afternoon,7,47900.0,36.0,0,16.0,Medium,Active,2019
+S0182,Michelle Young,Female,55,Pediatrics,Pediatrician,City General,Full-Time,Afternoon,26,81500.0,51.0,11,14.0,High,Active,2024
+S0876,Jennifer Miller,Female,49,Pharmacy,Pharmacy Technician,Metro Health Center,Part-Time,Night,30,33500.0,15.0,0,19.0,Medium,Active,2019
+S1032,James Sanchez,Female,32,Emergency,ER Nurse,Green Valley Medical,Contractor,Night,7,51800.0,16.0,0,2.0,Low,Active,2023
+S0787,Christopher Jones,Female,49,Pediatrics,Pediatric Nurse,City General,Contract,Afternoon,27,52800.0,20.0,0,12.0,Low,Resigned,2019
+S0415,Susan Miller,Female,23,General Ward,General Physician,Metro Health Center,Full-Time,Morning,23,74600.0,43.0,3,4.0,Low,Active,2019
+S0252,Kenneth Allen,Male,24,emergency,ER Nurse,Metro Health Center,Part-Time,Morning,3,51800.0,28.0,0,12.0,Medium,Resigned,2021
+S0070,Susan Nguyen,Male,33,Oncology,Palliative Care Specialist,Sunrise Clinic,Contract,Afternoon,16,62100.0,30.0,0,2.0,Medium,On Leave,2021
+S0804,Stephanie King,Male,49,Surgery,Anesthesiologist,Green Valley Medical,Contract,Night,15,169900.0,16.0,0,19.0,High,Resigned,2020
+S0132,Sandra Davis,Female,35,ICU,ICU Specialist,Metro Health Center,Contract,Morning,4,99400.0,22.0,0,9.0,High,Active,2023
+S0301,Mary Lopez,Female,54,Pediatrics,Pediatrician,Metro Health Center,Full-Time,Afternoon,8,83200.0,,1,1.0,High,Active,2023
+S1042,Mary Lewis,Female,41,icu,ICU Specialist,Metro Health Center,Part-Time,Morning,23,105000.0,33.0,0,18.0,High,On Leave,2020
+S0327,Brian Walker,Male,47,Radiology,Radiologist,Green Valley Medical,Part-Time,Afternoon,5,108800.0,20.0,0,3.0,High,Active,2022
+S1495,Joshua Robinson,Male,32,Pediatrics,Pediatric Nurse,City General,Part-Time,Morning,7,52600.0,30.0,0,3.0,Low,Resigned,2024
+S1135,Deborah Martinez,Male,28,Paediatrics,Pediatric Nurse,Metro Health Center,Full-Time,Night,28,52900.0,54.0,14,13.0,Medium,Active,2020
+S0500,Jennifer Rodriguez,Male,31,Emergency,ER Doctor,Sunrise Clinic,Part-Time,Night,30,91800.0,29.0,0,19.0,Medium,Active,2020
+S0342,Kevin Clark,Male,44,Radiology,X-Ray Technician,Metro Health Center,Part-Time,Night,29,46000.0,32.0,0,9.0,Medium,Active,2023
+S0833,Charles Johnson,Male,58,Pediatrics,Pediatrician,City General,Contract,afternoon,27,85100.0,20.0,0,5.0,Medium,Resigned,2024
+S0365,Paul Wright,Female,59,Emergency,Paramedic,Metro Health Center,Full-Time,Morning,12,42700.0,55.0,15,4.0,Medium,Active,2021
+S0496,Andrew Martin,Female,34,Oncology,Chemo Nurse,Green Valley Medical,Contract,Morning,19,57100.0,26.0,0,2.0,Low,Active,2021
+S1424,Sarah Martin,Male,55,Pediatrics,Child Therapist,St. Mary Hospital,Part-Time,Afternoon,15,49100.0,15.0,0,16.0,Low,Active,2019
+S0339,Christopher Allen,Male,28,Pediatrics,Child Therapist,Metro Health Center,Contract,,30,46300.0,28.0,0,19.0,Medium,Active,2023
+S0422,Kenneth Brown,Male,53,ICU,ICU Specialist,Metro Health Center,Contract,Morning,5,92000.0,26.0,0,20.0,High,On Leave,2021
+S0165,Barbara Thomas,Female,32,Emergency,Paramedic,Metro Health Center,Contract,Night,7,35500.0,33.0,0,3.0,Medium,Active,2022
+S0029,Stephanie Lewis,Male,43,Oncology,Oncologist,Green Valley Medical,Contract,Morning,1,128100.0,28.0,0,17.0,High,Active,2020
+S0517,Matthew Harris,Female,38,Pharmacy,Drug Safety Officer,Green Valley Medical,Full-Time,Morning,27,,36.0,0,8.0,Medium,Active,2019
+S0194,Robert Gonzalez,Female,46,Surgery,Surgeon,Metro Health Center,Contract,Night,16,158500.0,32.0,0,6.0,High,Active,2019
+S1157,Betty Taylor,Female,62,Pharmacy,Pharmacist,Green Valley Medical,Part-Time,Night,29,82100.0,26.0,0,11.0,High,Active,2024
+S1468,David Sanchez,Female,33,Radiology,X-Ray Technician,City General,Part-Time,Afternoon,11,44700.0,22.0,0,7.0,Low,Active,2023
+S0946,Michael Lewis,Female,60,Icu,ICU Nurse,City General,Full-Time,Night,19,56200.0,39.0,0,20.0,Medium,Active,2021
+S1390,Paul Jones,Male,30,Pediatrics,Child Therapist,Metro Health Center,Full-Time,Morning,3,44000.0,52.0,12,17.0,Medium,Active,2023
+S0170,Mark Taylor,M,40,Pharmacy,Pharmacy Technician,St. Mary Hospital,Part-Time,Morning,27,39800.0,21.0,0,6.0,Medium,Active,2021
+S0168,Joseph Martin,Female,34,Oncology,Palliative Care Specialist,Metro Health Center,Part-Time,Morning,23,67600.0,24.0,0,6.0,Medium,Active,2021
+S0653,Betty Hernandez,Male,54,ICU,Respiratory Therapist,St. Mary Hospital,Full-Time,Morning,25,46800.0,57.0,17,14.0,Low,Resigned,2020
+S0174,Charles Williams,Male,24,Pediatrics,Pediatric Nurse,City General,Part-Time,Afternoon,20,44200.0,24.0,0,18.0,Low,Active,2024
+S0519,Robert Jones,Male,50,Pharmacy,Pharmacist,St. Mary Hospital,Part-Time,Night,1,84400.0,23.0,0,14.0,High,Active,2019
+S1240,Steven Jackson,Female,42,Pediatrics,Child Therapist,Sunrise Clinic,Contract,Afternoon,18,48100.0,15.0,0,13.0,Medium,Resigned,2019
+S1206,Sarah Martin,Male,53,Oncology,Palliative Care Specialist,St. Mary Hospital,Full-Time,Afternoon,11,,49.0,9,13.0,Low,Active,2024
+S0913,John Torres,Male,37,Pharmacy,Pharmacist,St. Mary Hospital,Full-Time,Morning,18,79400.0,42.0,2,2.0,Low,Active,2019
+S0492,Sarah Scott,Female,47,Oncology,Palliative Care Specialist,City General,Part-Time,Night,3,57600.0,30.0,0,12.0,Medium,Active,2023
+S0954,Donna Walker,Male,48,Emergency,ER Nurse,Metro Health Center,Contract,Night,4,47100.0,23.0,0,1.0,Low,Active,2019
+S0074,Donna Smith,Male,62,General Ward,General Physician,City General,Full-Time,Night,8,79000.0,48.0,8,2.0,Low,Active,2021
+S1281,Donna Garcia,Male,49,Oncology,Chemo Nurse,Sunrise Clinic,Full-Time,Night,25,61500.0,59.0,19,4.0,Low,Active,2019
+S0588,Steven Taylor,Female,51,ICU,ICU Specialist,Sunrise Clinic,Part-Time,Morning,18,107800.0,25.0,0,17.0,,Active,2022
+S0751,Donald Lewis,Female,27,surgery,Scrub Nurse,Sunrise Clinic,Part-Time,Afternoon,24,54900.0,31.0,0,19.0,Medium,Active,2020
+S0658,George Lee,Female,48,Emergency,Paramedic,Metro Health Center,Contract,Afternoon,29,40600.0,15.0,0,8.0,Medium,Active,2021
+S0843,Matthew Thompson,Female,31,Pharmacy,Drug Safety Officer,City General,Part-Time,Morning,16,65200.0,30.0,0,13.0,Medium,Resigned,2020
+S0235,Stephanie Thomas,Male,50,Radiology,X-Ray Technician,Sunrise Clinic,Full-Time,Night,9,39900.0,36.0,0,14.0,Medium,On Leave,2019
+S0733,Steven Williams,Female,48,ICU,Respiratory Therapist,Green Valley Medical,Full-Time,Afternoon,21,49600.0,35.0,0,2.0,Low,Active,2020
+S0215,Carol Gonzalez,FEMALE,38,General Ward,General Physician,Sunrise Clinic,Contract,Morning,10,77500.0,18.0,0,4.0,Medium,Active,2023
+S0163,Emily Torres,Female,59,Pharmacy,Drug Safety Officer,Metro Health Center,Contract,Afternoon,12,64900.0,30.0,0,0.0,Low,Active,2023
+S0133,Emily Hill,Female,62,Emergancy,ER Doctor,St. Mary Hospital,Part-Time,Night,17,93800.0,15.0,0,20.0,Medium,Active,2019
+S1126,Jennifer Miller,Male,54,Surgery,Surgeon,City General,Full-Time,Morning,4,146500.0,44.0,4,19.0,High,On Leave,2024
+S0223,Daniel Johnson,Female,51,General Ward,Ward Nurse,Metro Health Center,Contract,Night,14,47900.0,18.0,0,9.0,Low,On Leave,2020
+S1254,Betty Garcia,female,36,Pharmacy,Drug Safety Officer,St. Mary Hospital,Contract,Night,27,69800.0,26.0,0,14.0,Low,Active,2021
+S0935,Carol Gonzalez,Male,41,Surgery,Anesthesiologist,St. Mary Hospital,Part-Time,Night,5,137500.0,17.0,0,0.0,High,Active,2022
+S0186,William Anderson,Female,29,Pediatrics,Child Therapist,Sunrise Clinic,Contract,Morning,15,40100.0,15.0,0,9.0,Medium,Active,2023
+S0042,William Robinson,Female,25,Pediatrics,Child Therapist,St. Mary Hospital,Full-Time,Night,11,48700.0,52.0,12,19.0,Medium,Active,2022
+S0693,Mark Lee,Male,36,General Ward,Ward Nurse,Sunrise Clinic,Part-Time,AM,11,40100.0,27.0,0,6.0,Low,Active,2023
+S0109,David Adams,Female,58,Oncology,Palliative Care Specialist,St. Mary Hospital,Full-Time,Night,9,55800.0,56.0,16,2.0,Medium,Active,2020
+S0039,Stephanie Hernandez,Female,50,Radiology,MRI Technician,Metro Health Center,Full-Time,Night,17,50800.0,37.0,0,9.0,Low,Active,2022
+S0569,Thomas Hernandez,Male,45,General Ward,Healthcare Assistant,Metro Health Center,Contract,Night,11,34500.0,16.0,0,4.0,Low,Active,2019
+S1025,Kenneth Moore,Female,55,Oncology,Palliative Care Specialist,City General,Contract,Morning,18,66700.0,19.0,0,13.0,Medium,Active,2020
+S1446,Ashley Young,Male,49,Pharmacy,Pharmacist,Green Valley Medical,Contract,Morning,13,83900.0,33.0,0,11.0,High,Active,2020
+S1472,Christopher Jackson,Male,45,Oncology,Oncologist,Green Valley Medical,Part-Time,Morning,27,124900.0,18.0,0,10.0,High,Active,2019
+S0484,Richard Gonzalez,Female,23,Emergency,ER Doctor,City General,Part-Time,Night,11,,23.0,0,17.0,Medium,Active,2021
+S0469,Susan Martinez,Female,61,Surgery,Anesthesiologist,City General,Contract,Night,5,133600.0,26.0,0,1.0,High,On Leave,2019
+S0891,Margaret Gonzalez,Female,51,ICU,ICU Nurse,Sunrise Clinic,Part-Time,Night,22,54100.0,20.0,0,6.0,Medium,On Leave,2023
+S0948,Anthony Torres,Male,35,Emergency,Paramedic,St. Mary Hospital,Full-Time,Morning,6,44000.0,37.0,0,10.0,Medium,Active,2021
+S0025,Ashley Adams,Male,41,Oncology,Chemo Nurse,St. Mary Hospital,Part-Time,Afternoon,18,59200.0,18.0,0,2.0,Medium,Active,2019
+S1033,Joshua Gonzalez,Female,27,Pediatrics,Child Therapist,St. Mary Hospital,Part-Time,Morning,21,48300.0,28.0,0,5.0,Medium,Resigned,2021
+S1218,  Robert Torres  ,Male,42,General Ward,General Physician,Metro Health Center,Part-Time,Night,12,74300.0,25.0,0,14.0,Low,Active,2024
+S0069,Mary Garcia,Male,49,ICU,Respiratory Therapist,Metro Health Center,Part-Time,Night,1,45800.0,33.0,0,18.0,Medium,Active,2021
+S0885,Barbara Johnson,Female,38,Surgery,Anesthesiologist,Green Valley Medical,Full-Time,Night,15,168000.0,38.0,0,3.0,High,Active,2019
+S1293,David Garcia,Male,46,Radiology,Radiologist,Metro Health Center,Contract,Morning,26,,34.0,0,8.0,High,Active,2019
+S0851,Lisa Anderson,Female,57,Pharmacy,Drug Safety Officer,Metro Health Center,Part-Time,Night,3,66900.0,20.0,0,8.0,Low,Active,2023
+S0735,Mark Rodriguez,Female,26,General Ward,Ward Nurse,City General,Contract,Morning,6,47700.0,23.0,0,5.0,Low,Resigned,2024
+S0718,Richard Perez,Male,29,Oncology,Oncologist,St. Mary Hospital,Part-Time,Morning,10,116400.0,25.0,0,8.0,High,Active,2023
+S0455,Christopher Jones,Male,49,Paediatrics,Pediatric Nurse,Metro Health Center,Contract,morning,6,53100.0,32.0,0,3.0,Medium,Active,2020
+S0265,Mark Moore,Female,47,Oncology,Chemo Nurse,Green Valley Medical,Contract,Night,5,53800.0,17.0,0,6.0,Medium,Resigned,2021
+S0076,William Jones,Male,46,General Ward,Healthcare Assistant,Metro Health Center,Contract,Morning,30,29500.0,28.0,0,10.0,Low,Active,2024
+S0445,Carol Martinez,Male,41,Radiology,MRI Technician,Metro Health Center,Part-Time,Morning,7,47200.0,16.0,0,7.0,Medium,Active,2022
+S0396,Margaret Lopez,Female,52,Pediatrics,Pediatrician,Metro Health Center,Full-Time,Night,15,87500.0,38.0,0,16.0,High,Active,2021
+S0177,William Walker,Female,27,Pharmacy,Pharmacy Technician,St. Mary Hospital,Contract,Afternoon,9,37300.0,22.0,0,0.0,Low,Active,2020
+S1339,Paul Robinson,M,51,Surgery,Scrub Nurse,Metro Health Center,Contract,Night,1,48700.0,24.0,0,10.0,Medium,Active,2021
+S1313,Donna Walker,Female,26,General Ward,Ward Nurse,Green Valley Medical,Part-Time,Night,12,40700.0,30.0,0,2.0,Medium,On Leave,2023
+S1056,Steven Adams,Male,43,ICU,ICU Specialist,Green Valley Medical,Contract,,15,104900.0,28.0,0,1.0,,Active,2020
+S0596,Carol Martin,Male,43,General Ward,General Physician,Green Valley Medical,Contract,Afternoon,16,76000.0,28.0,0,6.0,Medium,Active,2020
+S0062,Nancy Lopez,Male,58,General Ward,General Physician,Sunrise Clinic,Part-Time,Afternoon,4,70800.0,23.0,0,15.0,Medium,Active,2022
+S0873,Joshua Harris,Male,34,ICU,ICU Specialist,Metro Health Center,Contract,Afternoon,7,97100.0,26.0,0,6.0,High,Active,2020
+S1143,George Moore,Female,48,General Ward,Healthcare Assistant,St. Mary Hospital,Contract,Morning,14,29100.0,31.0,0,10.0,Medium,Active,2021
+S1436,Karen Sanchez,Female,58,Pediatrics,Pediatrician,Green Valley Medical,Full-Time,Afternoon,19,88900.0,39.0,0,7.0,Medium,On Leave,2020
+S0279,Michelle Martinez,FEMALE,33,Surgery,Surgeon,St. Mary Hospital,Full-Time,Afternoon,3,127300.0,51.0,11,11.0,High,Active,2020
+S0037,Margaret Jackson,Female,54,ICU,Respiratory Therapist,Sunrise Clinic,Contract,Afternoon,14,51100.0,19.0,0,6.0,Medium,Resigned,2021
+S0663,Sarah Nguyen,Female,58,ICU,ICU Nurse,Sunrise Clinic,Full-Time,Night,22,59300.0,57.0,17,20.0,Medium,Active,2021
+S1381,Jennifer Allen,Male,53,Pediatrics,Child Therapist,Green Valley Medical,Part-Time,Morning,9,49500.0,22.0,0,18.0,Medium,Active,2019
+S1107,Linda Clark,Female,38,Surgery,Anesthesiologist,St. Mary Hospital,contract,Night,26,158000.0,27.0,0,15.0,High,On Leave,2020
+S0978,Richard Torres,Female,55,Emergency,Paramedic,Green Valley Medical,Part-Time,Night,8,39800.0,22.0,0,10.0,Low,On Leave,2021
+S0739,Kevin Jones,Female,23,ICU,ICU Specialist,City General,Part-Time,Morning,24,97200.0,18.0,0,5.0,Medium,Resigned,2024
+S0192,Lisa Martinez,Female,33,Pediatrics,Pediatric Nurse,City General,PART TIME,Night,14,51600.0,16.0,0,17.0,Low,Resigned,2020
+S0920,Kevin Hill,Male,44,Radiology,MRI Technician,Green Valley Medical,Contract,Afternoon,22,47900.0,18.0,0,8.0,Low,Active,2023
+S0457,Joseph Anderson,Female,60,Pediatrics,Pediatrician,City General,Contract,Night,3,91300.0,15.0,0,11.0,Medium,Active,2023
+S0676,Anthony Johnson,Male,53,Radiology,MRI Technician,Sunrise Clinic,Part-Time,Morning,9,48600.0,25.0,0,12.0,Low,Active,2020
+S0761,Sandra Hernandez,Female,55,ICU,ICU Specialist,Green Valley Medical,Contract,Afternoon,23,95800.0,26.0,0,5.0,High,On Leave,2024
+S1382,Stephanie Miller,Female,44,Emergency,ER Nurse,City General,contract,Afternoon,7,54400.0,15.0,0,8.0,Low,Active,2019
+S0729,Nancy Torres,Female,26,Emergency,ER Doctor,City General,Contract,afternoon,19,93000.0,29.0,0,14.0,Medium,Active,2023
+S0413,Kenneth Thomas,Female,46,Pediatrics,Child Therapist,St. Mary Hospital,Part-Time,Morning,10,48500.0,34.0,0,8.0,Medium,On Leave,2022
+S0826,Jessica Nguyen,Female,35,Pharmacy,Pharmacy Technician,City General,FULL TIME,Morning,15,,60.0,20,16.0,Medium,Active,2023
+S0617,Jennifer White,Female,61,Pediatrics,Pediatrician,Green Valley Medical,Contract,Afternoon,1,82800.0,33.0,0,3.0,High,Active,2020
+S0115,Lisa Perez,Female,59,ICU,ICU Specialist,St. Mary Hospital,Contract,Afternoon,3,97300.0,25.0,0,5.0,Medium,Active,2022
+S0418,Sarah Williams,Male,29,Oncology,Chemo Nurse,Sunrise Clinic,Full-Time,Night,17,53300.0,49.0,9,3.0,Medium,Active,2022
+S1458,Brian Taylor,Male,56,Emergency,Paramedic,Metro Health Center,Contract,,5,43300.0,24.0,0,20.0,Medium,Active,2024
+S0970,Christopher Jones,Male,59,Surgery,Scrub Nurse,Metro Health Center,PART TIME,Morning,25,55200.0,20.0,0,8.0,Medium,Active,2023
+S0605,Andrew Allen,Male,47,Pharmacy,Pharmacy Technician,City General,Full-Time,Night,25,34000.0,51.0,11,18.0,Medium,On Leave,2019
+S1464,Melissa Robinson,Female,46,Oncology,Oncologist,Metro Health Center,Contract,Afternoon,22,128700.0,16.0,0,0.0,Medium,On Leave,2021
+S0090,Ashley Jones,Female,52,Oncology,Oncologist,Green Valley Medical,Contract,Afternoon,28,114600.0,22.0,0,12.0,Medium,Active,2019
+S0849,Kimberly Martin,Female,31,ICU,ICU Specialist,City General,Part-Time,Morning,15,105400.0,28.0,0,10.0,High,Active,2024
+S1169,Betty Torres,Male,44,General Ward,General Physician,City General,Contract,Morning,17,72900.0,29.0,0,5.0,Medium,Active,2023
+S1463,Margaret Lopez,Male,56,Surgery,Scrub Nurse,Metro Health Center,Contract,Afternoon,23,51900.0,26.0,0,1.0,Medium,On Leave,2019
+S0754,Margaret Clark,Male,22,Pediatrics,Pediatrician,Green Valley Medical,Contract,Night,16,86500.0,26.0,0,12.0,High,Active,2022
+S0499,Betty Clark,Male,52,Surgery,Anesthesiologist,Metro Health Center,Full-Time,Morning,5,140100.0,44.0,4,4.0,Medium,Active,2022
+S0012,Lisa Allen,Female,54,Emergency,Paramedic,St. Mary Hospital,Contract,Morning,12,45000.0,21.0,0,4.0,Medium,Active,2024
+S0397,Michael Lee,Male,22,Radiology,X-Ray Technician,Sunrise Clinic,Full-Time,Night,6,40900.0,54.0,14,8.0,Medium,Active,2023
+S0285,Mark Jones,Female,28,Pharmacy,Pharmacy Technician,City General,Contract,Afternoon,11,32500.0,24.0,0,0.0,Low,Active,2020
+S1067,Matthew Taylor,Female,35,General Ward,Healthcare Assistant,City General,Contract,Night,3,31600.0,16.0,0,18.0,Medium,Active,2024
+S0691,Kimberly Moore,M,26,Pediatrics,Pediatrician,Metro Health Center,Part-Time,Morning,20,83100.0,15.0,0,17.0,High,Active,2020
+S1280,Carol Allen,Female,60,Radiology,MRI Technician,City General,Contract,Morning,20,46700.0,20.0,0,7.0,Medium,Active,2022
+S1433,Anthony Davis,Male,57,Surgery,Anesthesiologist,St. Mary Hospital,Part-Time,Morning,14,139300.0,33.0,0,19.0,High,Active,2021
+S0690,Steven Young,Male,62,Surgery,Surgeon,Green Valley Medical,Full-Time,Afternoon,22,131200.0,52.0,12,6.0,High,Active,2023
+S0852,Susan Scott,male,47,Pharmacy,Pharmacist,City General,Full-Time,Night,16,84900.0,37.0,0,14.0,High,Active,2022
+S0160,Karen Adams,Female,26,Radiology,X-Ray Technician,Sunrise Clinic,Contract,Afternoon,5,46100.0,34.0,0,3.0,Medium,Active,2023
+S0896,Joseph Scott,Male,43,Emergency,ER Nurse,Metro Health Center,Part-Time,Morning,20,46100.0,27.0,0,9.0,Medium,Active,2021
+S1215,Robert Gonzalez,Male,56,Surgery,Scrub Nurse,St. Mary Hospital,Full-Time,Night,6,51100.0,45.0,5,7.0,Medium,Resigned,2024
+S0258,Barbara Lopez,Male,37,Emergency,ER Doctor,Green Valley Medical,Part-Time,Morning,14,85600.0,32.0,0,20.0,High,Active,2022
+S0336,Thomas Adams,Male,53,ICU,ICU Specialist,Sunrise Clinic,Contract,Morning,30,96400.0,21.0,0,3.0,High,Resigned,2019
+S1437,Joseph Smith,Female,62,Oncology,Palliative Care Specialist,City General,Full-Time,Morning,14,55100.0,56.0,16,16.0,Low,Active,2022
+S1040,William Robinson,Female,24,Surgery,Scrub Nurse,City General,Contract,Morning,19,57600.0,25.0,0,11.0,Low,Resigned,2022
+S0516,Ashley Jones,Male,29,Pharmacy,Drug Safety Officer,Green Valley Medical,Full-Time,Night,25,70500.0,49.0,9,8.0,Medium,Active,2021
+S1016,Andrew Hernandez,Female,39,ICU,ICU Nurse,Metro Health Center,Part-Time,Night,22,52300.0,24.0,0,16.0,Medium,Active,2021
+S0769,Stephanie Adams,Female,50,Radiology,Radiologist,Sunrise Clinic,Contract,Morning,30,97700.0,26.0,0,13.0,High,Active,2022
+S1345,Kevin Jackson,Male,30,General Ward,General Physician,Green Valley Medical,Contract,Night,6,81000.0,23.0,0,13.0,High,Active,2020
+S0762,Jessica Lopez,Female,33,pediatrics,Pediatrician,Sunrise Clinic,Full-Time,Night,26,83300.0,36.0,0,5.0,High,Active,2023
+S1014,Kimberly Davis,Female,26,ICU,ICU Specialist,St. Mary Hospital,Full-Time,Afternoon,28,95400.0,41.0,1,14.0,Medium,On Leave,2020
+S0522,Paul Perez,Female,47,Radiology,MRI Technician,St. Mary Hospital,Contract,Morning,21,41300.0,29.0,0,9.0,Medium,Active,2021
+S0023,Joshua Jones,Male,25,General Ward,Healthcare Assistant,City General,Full-Time,Night,29,28900.0,47.0,7,3.0,Medium,Active,2019
+S0357,Mary Walker,Male,40,Oncology,Palliative Care Specialist,Sunrise Clinic,Part-Time,Afternoon,5,57600.0,32.0,0,7.0,,Active,2024
+S1300,Joseph Moore,Female,49,Pharmacy,Drug Safety Officer,Green Valley Medical,Part-Time,Morning,6,66000.0,23.0,0,15.0,Medium,Active,2021
+S0341,Daniel Rodriguez,Male,34,Radiology,X-Ray Technician,Green Valley Medical,Contract,Morning,18,46600.0,20.0,0,16.0,Low,Active,2024
+S0432,Michael Torres,Male,57,Surgery,Anesthesiologist,Sunrise Clinic,Contract,Night,29,153500.0,29.0,0,13.0,,Active,2024
+S0474,Charles Gonzalez,Female,53,General Ward,Healthcare Assistant,City General,Contract,Morning,15,25000.0,18.0,0,0.0,Medium,On Leave,2024
+S0218,Susan Scott,Female,29,Oncology,Chemo Nurse,Metro Health Center,Full-Time,Night,23,50400.0,58.0,18,14.0,Medium,Active,2023
+S0912,Susan Hill,Female,49,ICU,ICU Specialist,City General,Part-Time,AM,16,99000.0,31.0,0,19.0,Medium,Resigned,2022
+S1231,Patricia Gonzalez,Male,60,Surgery,Anesthesiologist,Green Valley Medical,Full-Time,Night,10,164300.0,60.0,20,16.0,Medium,Resigned,2024
+S1012,John Lee,Female,38,Surgery,Surgeon,Green Valley Medical,Part-Time,Afternoon,28,157000.0,34.0,0,13.0,Medium,Active,2020
+S1489,Deborah Lewis,Male,28,GeneralWard,Ward Nurse,Metro Health Center,Full-Time,Afternoon,6,42000.0,55.0,15,15.0,Low,Active,2020
+S0094,Amanda Miller,Female,59,General Ward,Ward Nurse,City General,Contract,Night,9,48000.0,34.0,0,13.0,Low,Active,2022
+S1009,Deborah Miller,Male,53,Surgery,Scrub Nurse,Green Valley Medical,Part-Time,Night,1,55400.0,22.0,0,18.0,Medium,Resigned,2023
+S1071,Kenneth Miller,Male,48,Pharmacy,Pharmacy Technician,Green Valley Medical,Part-Time,Night,18,37200.0,31.0,0,17.0,Low,Active,2021
+S1093,James Taylor,Female,34,ICU,Respiratory Therapist,Metro Health Center,Contract,Night,16,48700.0,34.0,0,8.0,Low,On Leave,2022
+S0697,Lisa Adams,Female,26,Emergency,ER Nurse,Sunrise Clinic,Full-Time,Morning,22,52100.0,37.0,0,3.0,Medium,Active,2019
+S1371,Joseph Lewis,Female,52,General Ward,General Physician,City General,Part-Time,Afternoon,25,84800.0,19.0,0,0.0,High,Active,2022
+S0997,Daniel Wright,Female,53,Oncology,Oncologist,Sunrise Clinic,Contract,Afternoon,8,125800.0,24.0,0,3.0,Medium,Active,2023
+S0154,Anthony Walker,Female,26,Pharmacy,Pharmacy Technician,City General,Full-Time,Night,20,39600.0,41.0,1,10.0,Medium,Active,2022
+S1100,William Robinson,Male,47,Pharmacy,Pharmacy Technician,Green Valley Medical,Part-Time,Morning,7,36500.0,15.0,0,6.0,Medium,Active,2024
+S1328,Andrew Garcia,Female,45,Emergency,ER Doctor,Green Valley Medical,Contractor,Night,11,85700.0,20.0,0,,Medium,Active,2024
+S0398,Emily Ramirez,Female,52,Oncology,Oncologist,Green Valley Medical,Part-Time,Night,12,116900.0,28.0,0,11.0,High,Resigned,2020
+S0790,Sandra Smith,Male,54,Emergency,ER Doctor,Metro Health Center,Part-Time,Afternoon,17,89100.0,24.0,0,1.0,Medium,Active,2020
+S0581,Betty Jackson,Male,51,ICU,ICU Nurse,City General,Contract,Morning,11,59100.0,16.0,0,2.0,Low,Active,2022
+S0704,Andrew Perez,Female,51,Surgery,Anesthesiologist,Green Valley Medical,Contract,Night,6,149600.0,28.0,0,10.0,Medium,Resigned,2023
+S1287,Karen Torres,Female,45,Radiology,Radiologist,Sunrise Clinic,Part-Time,Morning,5,110000.0,32.0,0,10.0,High,Active,2024
+S0488,Deborah Wright,Female,61,Pharmacy,Pharmacist,Green Valley Medical,Part-Time,Afternoon,5,76300.0,29.0,0,18.0,Medium,Active,2020
+S0560,Richard Nguyen,Female,27,Surgery,Scrub Nurse,Metro Health Center,Full-Time,Afternoon,7,56600.0,42.0,2,8.0,Medium,Active,2024
+S1120,  Kimberly Martinez  ,Male,37,Radiology,Radiologist,St. Mary Hospital,CONTRACT,MORNING,2,500000.0,30.0,0,1.0,High,Active,2020
+S0802,Andrew Brown,Male,26,ICU,Respiratory Therapist,St. Mary Hospital,Full-Time,Night,18,43400.0,58.0,18,9.0,Low,Active,2020
+S0513,Brian Lopez,Male,59,Pharmacy,Pharmacy Technician,Green Valley Medical,Contract,Morning,22,37100.0,32.0,0,0.0,Low,Active,2024
+S0634,Sandra Ramirez,Female,27,Oncology,Palliative Care Specialist,Metro Health Center,Part-Time,Afternoon,11,56500.0,16.0,0,16.0,Medium,Active,2020
+S1132,Ashley Davis,Female,23,ICU,ICU Nurse,St. Mary Hospital,Full-Time,Night,5,52000.0,52.0,12,9.0,Low,Active,2020
+S1367,Karen Lewis,Female,48,ICU,ICU Nurse,Metro Health Center,Contract,Afternoon,5,60900.0,21.0,0,20.0,Medium,On Leave,2024
+S0791,Daniel Hill,Female,30,Oncology,Palliative Care Specialist,Green Valley Medical,Part-Time,NIGHT,23,63800.0,31.0,0,6.0,Medium,Active,2023
+S0117,Michelle Lewis,MALE,33,Pediatrics,Child Therapist,Sunrise Clinic,Part-Time,Night,28,49200.0,34.0,0,10.0,Medium,Active,2023
+S0741,James Sanchez,Male,35,Pharmacy,Pharmacist,Green Valley Medical,Part-Time,Morning,13,85700.0,25.0,0,0.0,Medium,Active,2020
+S1082,William Martinez,Female,38,General Ward,Ward Nurse,Metro Health Center,Part-Time,Night,8,48500.0,24.0,0,0.0,Medium,Resigned,2019
+S0831,Mark Anderson,Female,62,Pharmacy,Drug Safety Officer,Metro Health Center,Contract,Night,19,65300.0,23.0,0,6.0,Low,Active,2020
+S0120,Patricia Lewis,Male,42,Emergency,ER Nurse,Metro Health Center,Part-Time,Night,17,46700.0,25.0,0,2.0,Low,Active,2020
+S0657,Sandra Brown,Male,27,Emergency,Paramedic,Sunrise Clinic,Part-Time,Afternoon,5,41400.0,16.0,0,20.0,Medium,Resigned,2020
+S1455,Michael Taylor,Female,45,pediatrics,Pediatrician,Metro Health Center,Part-Time,Morning,24,86600.0,33.0,0,4.0,High,Active,2022
+S0636,Patricia Scott,Female,37,Pediatrics,Pediatrician,Green Valley Medical,Part-Time,Night,4,81300.0,16.0,0,16.0,Medium,Resigned,2023
+S0370,Thomas Harris,Female,45,Pediatrics,Pediatric Nurse,St. Mary Hospital,Contract,Night,12,47700.0,31.0,0,12.0,Medium,Active,2023
+S0269,James Brown,Male,28,General Ward,Healthcare Assistant,City General,Full-Time,Afternoon,27,28600.0,39.0,0,6.0,Low,Active,2019
+S0656,Melissa White,Male,49,Pharmacy,Pharmacist,Sunrise Clinic,PART TIME,Afternoon,25,75500.0,29.0,0,4.0,Medium,Resigned,2023
+S0936,Steven Lewis,Male,37,ICU,Respiratory Therapist,Sunrise Clinic,Full-Time,Morning,10,48400.0,36.0,0,3.0,Low,Active,2019
+S0823,Deborah Taylor,Male,24,Surgery,Anesthesiologist,Sunrise Clinic,Full-Time,Morning,15,166700.0,46.0,6,11.0,High,Resigned,2023
+S0867,Andrew Williams,Male,52,GeneralWard,General Physician,City General,Contract,Morning,30,79800.0,27.0,0,1.0,Medium,Active,2021
+S0047,Nancy Sanchez,Male,39,Surgery,Scrub Nurse,St. Mary Hospital,Part-Time,Afternoon,20,50700.0,29.0,0,4.0,Low,Active,2022
+S1319,Donald Jones,Male,26,Oncology,Oncologist,Green Valley Medical,Full-Time,Morning,30,117200.0,49.0,9,5.0,Medium,Resigned,2024
+S0992,  Robert Lee  ,Female,29,ICU,ICU Specialist,City General,Full-Time,Afternoon,9,95100.0,51.0,11,10.0,High,Active,2024
+S0877,Michelle Williams,Female,61,Pharmacy,Pharmacist,Sunrise Clinic,Full-Time,Night,7,85900.0,44.0,4,13.0,High,Active,2023
+S0774,Jennifer Perez,Male,38,Pharmacy,Pharmacist,St. Mary Hospital,Part-Time,Morning,24,87100.0,33.0,0,6.0,Medium,Active,2019
+S0977,Kenneth Scott,Male,26,Pediatrics,Pediatric Nurse,Metro Health Center,Contract,Morning,28,50800.0,32.0,0,3.0,Medium,Active,2023
+S0005,Jennifer Anderson,Male,26,Radiology,X-Ray Technician,City General,Contract,Morning,15,36700.0,27.0,0,8.0,Low,Active,2021
+S1004,John Johnson,Female,48,Pediatrics,Pediatric Nurse,City General,Contract,Morning,13,52600.0,18.0,0,16.0,Medium,Resigned,2019
+S1330,David Allen,Female,30,ICU,Respiratory Therapist,Metro Health Center,Part-Time,Morning,8,43600.0,30.0,0,19.0,Medium,Active,2021
+S0264,Michelle Torres,Male,54,ICU,Respiratory Therapist,Sunrise Clinic,Contract,Morning,8,43000.0,28.0,0,4.0,Medium,Active,2019
+S1209,Karen Garcia,Female,38,Radiology,Radiologist,Sunrise Clinic,Full-Time,Night,26,109700.0,56.0,16,,High,Active,2021
+S1399,Lisa Hernandez,Male,42,Oncology,Palliative Care Specialist,St. Mary Hospital,Contract,Afternoon,24,67900.0,33.0,0,12.0,Medium,Active,2021
+S0444,Linda Clark,Male,39,Surgery,Surgeon,Metro Health Center,Part-Time,Afternoon,7,147800.0,26.0,0,11.0,Medium,Active,2019
+S1003,David Wright,Male,55,ICU,Respiratory Therapist,Metro Health Center,Part-Time,Morning,26,48500.0,22.0,0,9.0,Medium,Resigned,2020
+S1078,Donald Harris,Male,22,General Ward,Healthcare Assistant,Sunrise Clinic,Full-Time,Night,9,26200.0,60.0,20,13.0,Medium,Active,2023
+S0838,Joseph Johnson,Female,28,Emergency,ER Doctor,City General,Part-Time,Night,5,88700.0,28.0,0,12.0,Medium,Active,2019
+S1369,Charles Wilson,Male,25,Pharmacy,Pharmacy Technician,Sunrise Clinic,Contractor,Morning,5,38800.0,18.0,0,9.0,Low,Active,2023
+S0305,William Lopez,Female,54,Surgery,Scrub Nurse,St. Mary Hospital,Contract,Morning,9,57800.0,15.0,0,7.0,,Active,2022
+S1199,Nancy Garcia,Male,26,Emergency,Paramedic,St. Mary Hospital,Full-Time,Morning,24,40100.0,46.0,6,6.0,Medium,Active,2019
+S0314,Susan Lee,Female,33,General Ward,General Physician,Green Valley Medical,Part-Time,MORNING,15,80400.0,16.0,0,0.0,High,Active,2024
+S0150,Kimberly Martinez,Male,30,Radiology,Radiologist,St. Mary Hospital,Contract,Afternoon,11,105000.0,20.0,0,5.0,Medium,Active,2019
+S1149,Donna Lee,Female,62,Emergency,ER Nurse,City General,Full-Time,afternoon,25,51600.0,59.0,19,11.0,Medium,Active,2023
+S0575,Brian Martinez,Female,23,Radiology,Radiologist,City General,Full-Time,Night,5,117500.0,42.0,2,9.0,Medium,Resigned,2020
+S0051,Deborah Davis,Female,45,Surgery,Scrub Nurse,Metro Health Center,Contract,Morning,19,50700.0,24.0,0,3.0,Medium,Active,2024
+S1223,Sandra Hernandez,Male,53,Oncology,Oncologist,Sunrise Clinic,Contract,Night,4,126000.0,16.0,0,11.0,High,Active,2022
+S0727,Donald Jones,Female,32,Radiology,MRI Technician,Metro Health Center,Full-Time,Morning,28,46400.0,41.0,1,4.0,Low,Active,2022
+S0834,Ashley Sanchez,Male,26,Pharmacy,Drug Safety Officer,Sunrise Clinic,Full-Time,Morning,5,61600.0,58.0,18,16.0,Medium,On Leave,2020
+S1116,Linda Garcia,Female,47,Emergency,ER Nurse,Sunrise Clinic,Full-Time,Morning,24,47900.0,51.0,11,18.0,Low,Active,2023
+S1167,Melissa White,Female,23,ICU,Respiratory Therapist,Metro Health Center,Full-Time,Night,17,43600.0,40.0,0,0.0,Low,Active,2019
+S0471,Matthew Jones,Female,24,pediatrics,Pediatric Nurse,Green Valley Medical,Part-Time,Morning,10,51000.0,32.0,0,2.0,Medium,Active,2021
+S0972,Joseph Brown,Female,59,Pediatrics,Child Therapist,Metro Health Center,FullTime,Afternoon,22,44200.0,43.0,3,0.0,Low,Active,2024
+S0654,Linda Gonzalez,Male,31,General Ward,Healthcare Assistant,Green Valley Medical,Part-Time,Night,8,32200.0,28.0,0,0.0,Low,Resigned,2020
+S0400,Susan Clark,Male,31,Pharmacy,Pharmacy Technician,Sunrise Clinic,Full-Time,Night,17,40200.0,39.0,0,20.0,Low,On Leave,2019
+S0512,Karen Moore,Female,49,emergency,ER Doctor,Green Valley Medical,Contract,Night,19,86600.0,23.0,0,20.0,Medium,On Leave,2021
+S0321,Brian Smith,Male,57,General Ward,Ward Nurse,City General,Part-Time,Afternoon,22,44900.0,28.0,0,3.0,Medium,Active,2020
+S0020,Paul Smith,Male,50,General Ward,General Physician,St. Mary Hospital,Full-Time,Night,6,71500.0,59.0,19,7.0,Low,Active,2024
+S0685,Sarah Lee,Female,62,Radiology,X-Ray Technician,Sunrise Clinic,Contract,Afternoon,20,40600.0,21.0,0,14.0,Medium,Active,2021
+S0036,Sandra Jones,Female,22,Emergency,Paramedic,City General,Contract,Night,22,40400.0,34.0,0,10.0,Low,Active,2021
+S0903,John Davis,Male,45,Pediatrics,Pediatrician,St. Mary Hospital,Full-Time,Night,9,80800.0,44.0,4,2.0,High,Resigned,2021
+S0828,Sarah Wilson,Male,39,Emergency,Paramedic,St. Mary Hospital,Part-Time,Morning,21,43800.0,18.0,0,0.0,Medium,On Leave,2024
+S1374,Brian Scott,Female,55,Pediatrics,Child Therapist,St. Mary Hospital,Full-Time,Morning,1,46900.0,53.0,13,10.0,Medium,Active,2021
+S0408,William Rodriguez,male,37,Pharmacy,Pharmacy Technician,Sunrise Clinic,Part-Time,Night,2,40600.0,20.0,0,0.0,Low,Active,2024
+S0921,Mary Thomas,Female,36,Emergancy,ER Doctor,Green Valley Medical,Full-Time,Night,12,94500.0,58.0,18,13.0,Low,Active,2022
+S0538,Ashley Lopez,Female,25,General Ward,Healthcare Assistant,City General,Full-Time,Afternoon,15,,46.0,6,4.0,Low,Active,2023
+S0759,Paul Harris,Male,49,Surgery,Scrub Nurse,Green Valley Medical,Contract,Afternoon,25,57600.0,24.0,0,13.0,Low,Resigned,2023
+S1063,Steven Williams,Female,35,Emergency,ER Nurse,City General,Part-Time,Afternoon,22,54900.0,27.0,0,5.0,Low,Active,2021
+S0246,Matthew Rodriguez,Male,28,ICU,Respiratory Therapist,Green Valley Medical,Part-Time,Afternoon,19,44300.0,17.0,0,16.0,Medium,Active,2020
+S1128,Stephanie Williams,Female,49,Oncology,Oncologist,City General,Contract,Afternoon,2,134500.0,27.0,0,20.0,Medium,Active,2023
+S0785,Amanda Lewis,Male,51,Pharmacy,Drug Safety Officer,Green Valley Medical,Part-Time,Night,4,66000.0,15.0,0,3.0,Low,Active,2024
+S0490,Robert Walker,Male,43,Radiology,MRI Technician,Sunrise Clinic,Part-Time,Afternoon,15,41800.0,26.0,0,15.0,Medium,Active,2019
+S0155,Donna Miller,Female,44,Pediatrics,Pediatric Nurse,Green Valley Medical,Full-Time,Afternoon,4,49200.0,42.0,2,14.0,Low,Active,2023
+S0962,Linda White,Male,55,ICU,ICU Specialist,Metro Health Center,Part-Time,Morning,23,94700.0,16.0,0,7.0,Medium,Active,2020
+S0854,Michael Jones,Female,23,Radiology,X-Ray Technician,City General,Part-Time,Morning,25,38500.0,34.0,0,0.0,Low,Active,2023
+S0626,Linda Young,Male,52,Surgery,Surgeon,Sunrise Clinic,Full-Time,Afternoon,23,122700.0,49.0,9,11.0,Medium,Active,2022
+S0686,Melissa Lopez,Male,22,Radiology,Radiologist,St. Mary Hospital,Part-Time,Night,25,108500.0,32.0,0,15.0,Medium,Active,2019
+S0570,Anthony Thompson,Male,44,General Ward,Healthcare Assistant,Green Valley Medical,Full-Time,Morning,17,25800.0,44.0,4,9.0,Medium,Active,2021
+S1456,Margaret Robinson,Male,26,ICU,Respiratory Therapist,Green Valley Medical,Full-Time,Night,19,51700.0,36.0,0,17.0,Medium,Active,2023
+S0018,Sandra Clark,Male,28,General Ward,Ward Nurse,Sunrise Clinic,Contract,Morning,21,47700.0,16.0,0,20.0,Low,Resigned,2021
+S0128,Richard Hill,Female,46,General Ward,Ward Nurse,Sunrise Clinic,Contract,Night,21,42300.0,23.0,0,1.0,Medium,Active,2020
+S1242,Kenneth Adams,Male,47,Radiology,X-Ray Technician,Metro Health Center,Full-Time,Morning,12,39600.0,43.0,3,,Low,Active,2019
+S0928,Joshua Martin,Female,49,Radiology,Radiologist,Green Valley Medical,Full-Time,Afternoon,22,100700.0,53.0,13,13.0,Medium,Active,2021
+S0981,Anthony Clark,Female,40,Pediatrics,Child Therapist,St. Mary Hospital,Part-Time,Afternoon,16,48300.0,19.0,0,18.0,Medium,Active,2019
+S1500,George Nguyen,Male,23,Pediatrics,Pediatrician,Metro Health Center,Contract,Morning,3,92300.0,26.0,0,0.0,High,Resigned,2020
+S0191,Kevin Harris,female,57,Pediatrics,Child Therapist,Green Valley Medical,Full-Time,Afternoon,14,48600.0,45.0,5,13.0,Medium,Active,2024
+S1140,Joshua Walker,Male,55,Radiology,Radiologist,St. Mary Hospital,Contract,Afternoon,27,102600.0,29.0,0,,Medium,Active,2024
+S0993,Kimberly Lee,Male,42,General Ward,Healthcare Assistant,St. Mary Hospital,Part-Time,Morning,2,28100.0,32.0,0,20.0,Medium,Active,2024
+S1494,  Mark Hill  ,Female,58,Radiology,MRI Technician,St. Mary Hospital,Contract,Afternoon,6,49500.0,29.0,0,0.0,Medium,Active,2020
+S1279,John Lee,Female,36,Pharmacy,Drug Safety Officer,St. Mary Hospital,Part-Time,Afternoon,7,72800.0,27.0,0,0.0,Medium,Active,2022
+S0607,Anthony Taylor,Male,28,Pharmacy,Pharmacist,Green Valley Medical,Full-Time,Morning,16,89100.0,53.0,13,1.0,High,Resigned,2022
+S0181,Andrew Davis,Male,55,Surgery,Anesthesiologist,Green Valley Medical,Contract,Afternoon,7,134000.0,32.0,0,16.0,High,Active,2019
+S0302,Ashley Allen,Male,45,Emergency,ER Nurse,Green Valley Medical,Full-Time,Night,22,51500.0,55.0,15,3.0,Medium,Active,2021
+S0497,Patricia Smith,Female,30,Emergency,Paramedic,Green Valley Medical,Full-Time,Afternoon,28,44200.0,46.0,6,3.0,Medium,Active,2023
+S1320,Thomas Torres,Male,51,General Ward,General Physician,Green Valley Medical,Contract,Afternoon,21,79200.0,32.0,0,10.0,Low,Active,2022
+S1284,Sarah Torres,Female,60,Oncology,Chemo Nurse,Green Valley Medical,Full-Time,Night,7,,46.0,6,9.0,Medium,Active,2021
+S1264,John Young,Female,61,Surgery,Scrub Nurse,Metro Health Center,Part-Time,Night,12,48500.0,30.0,0,10.0,Medium,On Leave,2023
+S0518,Susan Young,Female,26,Oncology,Oncologist,Metro Health Center,Full-Time,Afternoon,25,113600.0,39.0,0,17.0,High,Active,2022
+S1070,Andrew Jackson,Male,28,Pediatrics,Pediatric Nurse,City General,Full-Time,Afternoon,18,46900.0,40.0,0,12.0,Medium,Resigned,2019
+S0477,John Rodriguez,Male,43,Emergency,ER Doctor,Sunrise Clinic,Contract,Afternoon,15,92900.0,19.0,0,20.0,High,On Leave,2022
+S0158,Amanda Walker,Female,25,Surgery,Surgeon,Sunrise Clinic,Part-Time,Morning,28,138700.0,32.0,0,0.0,Medium,Active,2023
+S1196,Carol Clark,Male,52,Surgery,Scrub Nurse,Sunrise Clinic,Contract,Morning,11,48800.0,21.0,0,6.0,Medium,Active,2021
+S0017,William Torres,Male,39,Radiology,Radiologist,City General,Part-Time,Night,26,113900.0,30.0,0,7.0,High,On Leave,2023
+S1073,Anthony Gonzalez,Male,28,Radiology,MRI Technician,Sunrise Clinic,Contract,Afternoon,8,50400.0,15.0,0,19.0,Medium,Resigned,2022
+S0733,Steven Williams,Female,48,ICU,Respiratory Therapist,Green Valley Medical,Full-Time,Afternoon,21,49600.0,35.0,0,2.0,Low,Active,2020
+S0547,Matthew White,Male,54,Radiology,X-Ray Technician,St. Mary Hospital,Part-Time,Night,12,42600.0,34.0,0,1.0,Low,Active,2019
+S0659,Carol Lewis,Female,50,Pediatrics,Child Therapist,Metro Health Center,Full-Time,Night,13,45700.0,60.0,20,20.0,Medium,Active,2023
+S1253,Brian Lewis,Female,23,General Ward,General Physician,City General,Part-Time,Night,2,83300.0,15.0,0,20.0,High,Active,2020
+S1020,George Martin,Male,34,Surgery,Scrub Nurse,Sunrise Clinic,Part-Time,Afternoon,30,54000.0,34.0,0,12.0,Medium,Active,2023
+S1285,Kevin Gonzalez,Female,39,Radiology,X-Ray Technician,Sunrise Clinic,Contract,Afternoon,7,45000.0,19.0,0,9.0,Low,On Leave,2024
+S0960,Mark Martin,Female,56,ICU,ICU Specialist,Green Valley Medical,Part-Time,Morning,28,102000.0,32.0,0,9.0,High,Active,2020
+S1439,Karen Garcia,Male,46,Emergency,ER Doctor,Metro Health Center,Full-Time,Night,3,89800.0,55.0,15,19.0,High,Active,2024
+S0284,Matthew Lewis,Male,44,Surgery,Anesthesiologist,St. Mary Hospital,FULL TIME,Afternoon,16,157500.0,40.0,0,13.0,High,Active,2019
+S0798,David Lee,Female,57,Radiology,X-Ray Technician,St. Mary Hospital,Contract,Afternoon,26,41400.0,20.0,0,11.0,Low,Active,2019
+S0226,Margaret Lopez,Male,43,Pediatrics,Child Therapist,Sunrise Clinic,Part-Time,Night,1,43100.0,28.0,0,12.0,Low,Active,2020
+S0027,Stephanie Scott,Female,28,EMERGENCY,Paramedic,St. Mary Hospital,Part-Time,Morning,20,37500.0,23.0,0,9.0,Low,Resigned,2019
+S0438,Christopher Walker,Female,58,Oncology,Oncologist,St. Mary Hospital,Contract,Morning,27,115700.0,30.0,0,18.0,High,Active,2024
+S1488,John Lee,Female,52,Radiology,X-Ray Technician,City General,Part-Time,Morning,17,37300.0,34.0,0,2.0,Medium,Active,2023
+S0230,Matthew Clark,Male,33,Surgery,Scrub Nurse,City General,Contract,Afternoon,13,57800.0,,0,18.0,Medium,Active,2023
+S0038,James Martin,Male,61,Pharmacy,Drug Safety Officer,Sunrise Clinic,Part-Time,Night,26,64700.0,21.0,0,13.0,Low,Active,2023
+S0750,Sarah Martin,Male,34,General Ward,Ward Nurse,City General,Part-Time,Morning,21,44700.0,33.0,0,14.0,Medium,Resigned,2023
+S1046,Susan Martin,Female,32,Radiology,MRI Technician,City General,Full-Time,Afternoon,8,45000.0,37.0,0,5.0,Low,On Leave,2020
+S0470,Susan Hernandez,Female,43,emergency,Paramedic,St. Mary Hospital,Full-Time,Morning,19,39700.0,54.0,14,19.0,Medium,Active,2022
+S1359,John Walker,Male,28,Emergency,ER Doctor,St. Mary Hospital,Full-Time,Night,4,90900.0,47.0,7,17.0,Medium,On Leave,2022
+S1399,Lisa Hernandez,Male,42,Oncology,Palliative Care Specialist,St. Mary Hospital,Contract,Afternoon,24,67900.0,33.0,0,12.0,Medium,Active,2021
+S0688,James Anderson,Male,29,Pharmacy,Pharmacist,City General,Part-Time,Afternoon,22,87200.0,15.0,0,8.0,High,Resigned,2022
+S1408,Karen Perez,Male,57,ICU,ICU Nurse,Metro Health Center,Contract,Night,20,61900.0,19.0,0,14.0,Medium,Resigned,2020
+S0640,Brian Sanchez,Female,29,Emergency,ER Doctor,Sunrise Clinic,Full-Time,Morning,10,94900.0,58.0,18,15.0,High,Active,2022
+S1323,Betty Clark,Female,31,Surgery,Surgeon,Metro Health Center,Contract,Morning,11,146200.0,28.0,0,18.0,High,Active,2023
+S1219,Richard Anderson,Female,41,General Ward,Ward Nurse,Metro Health Center,Part-Time,Afternoon,23,49600.0,20.0,0,1.0,,Active,2024
+S1159,Brian Scott,Female,28,General Ward,Healthcare Assistant,Green Valley Medical,Full-Time,Night,19,28700.0,49.0,9,8.0,Medium,Active,2024
+S1278,Robert Torres,Male,54,ICU,ICU Specialist,Sunrise Clinic,Full-Time,Morning,25,95400.0,42.0,2,20.0,High,On Leave,2023
+S1393,Mary Garcia,Male,24,Oncology,Chemo Nurse,St. Mary Hospital,Full-Time,Morning,19,55300.0,40.0,0,20.0,Low,Active,2024
+S0801,Jennifer Martin,Female,55,Oncology,Chemo Nurse,Green Valley Medical,Full-Time,Night,28,56700.0,59.0,19,10.0,Medium,Active,2024
+S0161,Joshua Allen,Female,43,ICU,ICU Nurse,City General,Part-Time,Night,2,56600.0,31.0,0,1.0,Medium,Active,2020
+S0957,Nancy Ramirez,Female,29,Pediatrics,Pediatrician,Green Valley Medical,Part-Time,,3,80900.0,22.0,0,7.0,Medium,Active,2020
+S1187,Mark Jones,Male,43,Pediatrics,Child Therapist,Sunrise Clinic,Contract,Night,10,44000.0,34.0,0,16.0,Low,Active,2019
+S0822,Paul Adams,Male,34,ICU,ICU Specialist,St. Mary Hospital,Part-Time,Night,25,101200.0,24.0,0,15.0,High,Active,2019
+S1299,Andrew Thompson,Male,26,General Ward,General Physician,St. Mary Hospital,Contract,Afternoon,16,75900.0,27.0,0,0.0,Medium,Active,2022
+S0878,Ashley Clark,Female,29,Surgery,Scrub Nurse,St. Mary Hospital,Part-Time,Morning,26,54500.0,15.0,0,11.0,Low,Resigned,2021
+S0914,Margaret Miller,Male,61,ICU,ICU Nurse,Sunrise Clinic,Contract,Night,7,53600.0,23.0,0,15.0,,On Leave,2022
+S0153,Kenneth Wright,Male,58,Oncology,Palliative Care Specialist,St. Mary Hospital,Contract,Afternoon,8,59700.0,24.0,0,15.0,Low,On Leave,2022
+S1403,Brian Sanchez,Female,37,ICU,ICU Nurse,St. Mary Hospital,Contract,Morning,17,60100.0,24.0,0,5.0,Medium,On Leave,2020
+S0510,David Robinson,female,25,Surgery,Anesthesiologist,St. Mary Hospital,Part-Time,Night,16,999999.0,30.0,0,9.0,Medium,Active,2019
+S1136,Donald Robinson,Male,47,Surgery,Scrub Nurse,Metro Health Center,Part-Time,Afternoon,1,53300.0,19.0,0,9.0,Medium,Active,2022
+S1251,Robert Sanchez,Female,26,Oncology,Oncologist,City General,Contract,Night,2,132200.0,27.0,0,,,Resigned,2020
+S1286,Linda Jackson,Female,35,Radiology,X-Ray Technician,Metro Health Center,Contract,Afternoon,20,45500.0,,0,6.0,Medium,On Leave,2020
+S0104,Michael White,Female,26,Pediatrics,Child Therapist,St. Mary Hospital,Full-Time,Morning,19,,52.0,12,1.0,Medium,Active,2022
+S0587,Matthew Hill,Male,25,Pediatrics,Pediatrician,St. Mary Hospital,Part-Time,Morning,10,91100.0,25.0,0,4.0,Medium,Active,2020
+S1357,Michelle Garcia,Female,42,ICU,ICU Nurse,Metro Health Center,Full-Time,Morning,10,53800.0,36.0,0,8.0,Medium,Active,2020
+S1144,Michelle Young,Male,22,Oncology,Chemo Nurse,Sunrise Clinic,Contract,Morning,22,53600.0,33.0,0,13.0,Low,Active,2020
+S0054,Karen Adams,Female,31,Pharmacy,Pharmacy Technician,Metro Health Center,Full-Time,,15,40800.0,59.0,19,15.0,Medium,Resigned,2024
+S0152,Andrew Williams,Male,32,Pediatrics,Child Therapist,Metro Health Center,Contract,NIGHT,21,40500.0,17.0,0,1.0,Medium,Active,2021
+S0404,Carol Torres,Male,32,General Ward,Healthcare Assistant,Sunrise Clinic,Part-Time,Night,6,31600.0,17.0,0,2.0,Low,On Leave,2024
+S1485,Lisa Adams,Male,60,ICU,ICU Specialist,St. Mary Hospital,Contract,Morning,24,93000.0,16.0,0,12.0,Medium,Active,2024
+S0208,Stephanie Thompson,Female,46,Pharmacy,Drug Safety Officer,St. Mary Hospital,Full-Time,Night,8,60900.0,38.0,0,13.0,Low,Active,2023
+S1447,Lisa Taylor,Male,50,ICU,ICU Specialist,Metro Health Center,Contract,Morning,28,109400.0,16.0,0,5.0,Medium,Active,2021
+S1123,Joshua King,Male,31,Emergency,ER Nurse,Metro Health Center,Full-Time,Afternoon,1,47800.0,40.0,0,3.0,Low,Active,2022
+S1347,Nancy Davis,Male,26,ICU,ICU Specialist,St. Mary Hospital,Full-Time,Afternoon,15,106400.0,59.0,19,17.0,High,Active,2022
+S0009,Joseph Rodriguez,Female,59,Pediatrics,Pediatrician,Sunrise Clinic,Contract,Afternoon,25,88300.0,30.0,0,2.0,High,Active,2021
+S1015,William Scott,Female,53,ICU,ICU Specialist,Metro Health Center,Contract,Morning,10,103700.0,27.0,0,0.0,High,Active,2022
+S1373,Sarah Jackson,Female,47,I.C.U,ICU Nurse,Metro Health Center,Full-Time,Morning,25,54100.0,60.0,20,7.0,Low,Resigned,2019
+S1061,Steven Garcia,Male,31,Radiology,MRI Technician,St. Mary Hospital,Contract,Night,13,45500.0,24.0,0,13.0,Low,Active,2022
+S0453,Melissa Adams,Female,30,Pediatrics,Pediatric Nurse,Sunrise Clinic,Contract,Morning,19,47700.0,28.0,0,7.0,Medium,Resigned,2023
+S0254,Linda Robinson,Female,37,ICU,ICU Nurse,St. Mary Hospital,Full-Time,Morning,10,60000.0,54.0,14,1.0,Low,Resigned,2022
+S0897,Robert Torres,MALE,28,Surgery,Anesthesiologist,Metro Health Center,part-time,Night,27,157600.0,28.0,0,10.0,High,Active,2024
+S1337,Betty Perez,Male,33,General Ward,Ward Nurse,St. Mary Hospital,Full-Time,Afternoon,1,50100.0,46.0,6,10.0,Low,Active,2024
+S0881,Matthew Lopez,Female,25,Surgery,Anesthesiologist,City General,Part-Time,Night,6,156400.0,25.0,0,16.0,High,Resigned,2024
+S1443,Andrew Hill,Female,62,icu,Respiratory Therapist,St. Mary Hospital,Part-Time,Afternoon,13,43100.0,23.0,0,0.0,Medium,On Leave,2020
+S0624,Karen White,Female,29,Pharmacy,Pharmacist,City General,Full-Time,Afternoon,20,82000.0,44.0,4,8.0,High,Active,2022
+S0346,George Gonzalez,Female,59,General Ward,General Physician,Metro Health Center,Contract,Night,22,74800.0,29.0,0,5.0,Medium,Active,2020
+S1315,Ashley Thompson,Female,23,SURGERY,Anesthesiologist,Green Valley Medical,Part-Time,Afternoon,2,151400.0,24.0,0,11.0,High,Active,2023
+S0263,John Anderson,Female,25,Surgery,Scrub Nurse,Green Valley Medical,Contract,Morning,15,56500.0,28.0,0,11.0,Low,Active,2019
+S0151,William Martin,Female,27,Surgery,Scrub Nurse,Metro Health Center,Full-Time,Afternoon,21,56700.0,37.0,0,16.0,Medium,Active,2021
+S0473,Andrew Adams,Female,49,ICU,ICU Nurse,Green Valley Medical,Part-Time,Night,19,55800.0,19.0,0,19.0,Medium,Active,2023
+S0641,Richard Davis,Female,41,Radiology,X-Ray Technician,City General,Full-Time,Morning,28,35300.0,57.0,17,6.0,Low,Active,2019
+S1396,Steven Adams,Female,55,General Ward,Ward Nurse,City General,Full-Time,Morning,16,40700.0,45.0,5,12.0,Low,On Leave,2021
+S1440,Michelle Lewis,Female,48,Radiology,Radiologist,Metro Health Center,Contract,Morning,5,116000.0,28.0,0,20.0,High,Active,2020
+S0551,David Moore,Male,47,General Ward,General Physician,St. Mary Hospital,Part-Time,Morning,5,71800.0,19.0,0,15.0,Medium,On Leave,2019
+S0929,Richard Martin,Male,34,Radiology,X-Ray Technician,Sunrise Clinic,Full-Time,Afternoon,19,40000.0,37.0,0,9.0,Low,Active,2023
+S0489,Joseph Anderson,Female,28,ICU,Respiratory Therapist,Sunrise Clinic,Part-Time,Afternoon,30,44400.0,34.0,0,8.0,Medium,Active,2022
+S1386,Brian Hernandez,Male,31,Pediatrics,Pediatrician,Sunrise Clinic,Full-Time,Afternoon,23,84400.0,57.0,17,16.0,High,Active,2020
+S1172,Margaret Williams,male,45,ICU,ICU Nurse,Sunrise Clinic,Full-Time,Morning,26,55900.0,36.0,0,15.0,Medium,Active,2020
+S0147,Steven Anderson,Female,41,ICU,Respiratory Therapist,City General,Contract,Morning,8,44000.0,21.0,0,4.0,Low,Active,2021
+S0403,Stephanie Lewis,Male,40,Surgery,Anesthesiologist,Metro Health Center,Part-Time,Afternoon,10,135100.0,27.0,0,19.0,High,Active,2022
+S0955,Mary Brown,Male,44,Emergency,ER Nurse,Green Valley Medical,Part-Time,Afternoon,20,45400.0,21.0,0,17.0,Medium,Active,2020
+S1435,James Scott,Female,44,Pharmacy,Drug Safety Officer,St. Mary Hospital,Contract,Afternoon,22,67900.0,28.0,0,3.0,Medium,Active,2020
+S0660,George Rodriguez,Male,24,Surgery,Scrub Nurse,Sunrise Clinic,Part-Time,Night,7,56500.0,32.0,0,9.0,Medium,Active,2024
+S0464,Jennifer Taylor,Male,51,General Ward,General Physician,City General,Contract,Night,3,75300.0,20.0,0,3.0,Medium,Active,2022
+S0187,Karen Gonzalez,Female,36,Pharmacy,Drug Safety Officer,Green Valley Medical,Part-Time,Morning,26,74300.0,18.0,0,1.0,Medium,Active,2020
+S1148,Daniel Thompson,Female,48,Radiology,Radiologist,Sunrise Clinic,Contract,Morning,15,106500.0,22.0,0,8.0,High,Active,2021
+S1225,William King,Female,61,Pediatrics,Pediatric Nurse,St. Mary Hospital,Contract,Afternoon,26,48600.0,25.0,0,,Medium,Active,2023
+S0609,Kevin Thomas,Male,60,Radiology,MRI Technician,St. Mary Hospital,Contract,Morning,10,44100.0,32.0,0,12.0,Medium,Active,2024
+S0144,Betty Sanchez,Female,50,General Ward,Ward Nurse,City General,Contract,Morning,4,45200.0,23.0,0,7.0,Medium,Active,2023
+S0752,Joshua Wright,Female,23,Pharmacy,Pharmacist,St. Mary Hospital,Part-Time,Afternoon,9,77500.0,32.0,0,5.0,Medium,Active,2021
+S0982,Donna Walker,Female,22,Surgery,Surgeon,Sunrise Clinic,Full-Time,Morning,27,126600.0,39.0,0,1.0,Medium,Active,2021
+S0198,Matthew Torres,Female,40,Oncology,Palliative Care Specialist,Green Valley Medical,Full-Time,Morning,18,68700.0,42.0,2,15.0,Medium,On Leave,2020
+S0884,Sarah Anderson,Male,51,Emergency,Paramedic,Green Valley Medical,Contract,Night,27,39900.0,21.0,0,17.0,Low,Active,2020
+S0280,William Hernandez,Female,59,Radiology,X-Ray Technician,Green Valley Medical,Part-Time,Morning,16,47000.0,28.0,0,20.0,Low,Active,2021
+S0294,John Ramirez,Female,33,Pediatrics,Pediatrician,City General,Full-Time,Morning,7,81300.0,56.0,16,13.0,High,Active,2020
+S1394,Betty Brown,Male,52,ICU,ICU Specialist,Metro Health Center,Part-Time,Morning,12,109800.0,15.0,0,4.0,Medium,Active,2024
+S0401,Michael Hernandez,Female,38,Radiology,MRI Technician,St. Mary Hospital,Contract,Night,16,41000.0,21.0,0,8.0,Low,Active,2022
+S0123,Amanda Sanchez,Male,59,Pediatrics,Pediatric Nurse,Green Valley Medical,Full-Time,Night,10,46100.0,54.0,14,2.0,Medium,On Leave,2021
+S1208,Matthew Perez,Female,46,Surgery,Scrub Nurse,Green Valley Medical,Contract,Morning,14,54000.0,31.0,0,,Medium,On Leave,2024
+S0203,Daniel Moore,Male,37,ICU,Respiratory Therapist,Metro Health Center,Contract,Morning,13,48500.0,17.0,0,11.0,Medium,Resigned,2021
+S0836,Jennifer Gonzalez,Male,22,Pediatrics,Child Therapist,Green Valley Medical,Contract,Morning,29,42300.0,30.0,0,18.0,Medium,Resigned,2024
+S0247,Stephanie Martinez,Male,50,Emergency,Paramedic,City General,CONTRACT,Afternoon,28,41700.0,34.0,0,,Medium,Active,2024
+S1466,Sarah Rodriguez,Male,44,Pharmacy,Pharmacist,City General,Part-Time,Night,28,86200.0,32.0,0,18.0,High,Active,2024
+S1287,Karen Torres,Female,45,Radiology,Radiologist,Sunrise Clinic,Part-Time,Morning,5,110000.0,32.0,0,10.0,High,Active,2024
+S1154,Andrew Garcia,Male,46,Radiology,MRI Technician,Green Valley Medical,CONTRACT,Morning,27,45300.0,22.0,0,14.0,Medium,Active,2023
+S0385,Joseph White,Female,60,ICU,ICU Specialist,St. Mary Hospital,Full-Time,Afternoon,24,92600.0,54.0,14,1.0,High,Resigned,2021
+S1351,Betty Gonzalez,Female,57,Surgery,Anesthesiologist,Green Valley Medical,Part-Time,,7,132800.0,16.0,0,14.0,High,On Leave,2024
+S0855,Andrew Torres,Male,62,Oncology,Oncologist,Green Valley Medical,Full-Time,Morning,2,111500.0,53.0,13,15.0,Medium,Active,2019
+S0220,Paul Allen,Male,50,Pharmacy,Pharmacy Technician,Metro Health Center,Part-Time,Night,26,38900.0,32.0,0,1.0,Low,Active,2022
+S0642,Paul Gonzalez,Female,31,Emergency,ER Doctor,Sunrise Clinic,Full-Time,Night,5,86400.0,44.0,4,14.0,High,Active,2024
+S0002,Richard Wright,Male,36,Emergency,ER Doctor,St. Mary Hospital,Contract,Night,19,91900.0,22.0,0,14.0,Medium,Active,2023
+S0113,Mary Robinson,Female,26,Surgery,Anesthesiologist,St. Mary Hospital,Contract,,14,135100.0,25.0,0,18.0,High,Active,2022
+S0699,Melissa Johnson,Female,61,Pharmacy,Pharmacy Technician,Green Valley Medical,Full-Time,Night,19,39400.0,51.0,11,10.0,Medium,Active,2024
+S1461,George Robinson,Female,39,Pediatrics,Pediatrician,Metro Health Center,Full-Time,Afternoon,16,88100.0,54.0,14,17.0,High,Active,2019
+S0952,Thomas Johnson,Male,56,Oncology,Chemo Nurse,Metro Health Center,Full-Time,Night,9,50500.0,45.0,5,13.0,Low,Active,2022
+S1346,Brian Scott,Male,45,Pharmacy,Pharmacist,Green Valley Medical,Part-Time,Morning,5,85500.0,17.0,0,2.0,High,Active,2023
+S1292,  Donna Thompson  ,Male,36,Pharmacy,Pharmacist,Metro Health Center,Contract,,1,88800.0,22.0,0,4.0,High,Active,2021
+S1383,Richard Rodriguez,Male,24,Pediatrics,Pediatrician,City General,Full-Time,Night,22,84800.0,49.0,9,1.0,High,On Leave,2020
+S0442,Stephanie Brown,Male,30,Oncology,Chemo Nurse,Sunrise Clinic,Full-Time,Afternoon,3,59000.0,47.0,7,8.0,Medium,Active,2023
+S1137,Patricia Clark,Female,35,I.C.U,ICU Nurse,Metro Health Center,Contract,Night,27,52300.0,19.0,0,15.0,Medium,Active,2019
+S1257,Melissa Hernandez,Female,44,Oncology,Oncologist,Sunrise Clinic,Part-Time,Night,17,139200.0,16.0,0,10.0,High,Active,2023
+S0664,William Harris,Female,40,Surgery,Scrub Nurse,Metro Health Center,Contract,Night,11,56500.0,22.0,0,3.0,Medium,Resigned,2024
+S1402,Kimberly Gonzalez,Female,33,EMERGENCY,ER Nurse,Sunrise Clinic,Part-Time,Night,21,51200.0,,0,16.0,Low,On Leave,2020
+S1258,William Wilson,Female,56,Pediatrics,Child Therapist,City General,Contract,Night Shift,29,46500.0,17.0,0,13.0,Low,On Leave,2023
+S1360,Andrew Miller,Male,27,Oncology,Oncologist,City General,Full-Time,Afternoon,16,130700.0,60.0,20,0.0,Medium,Active,2024
+S0318,Daniel Gonzalez,Female,49,Oncology,Chemo Nurse,Green Valley Medical,Full-Time,Night,1,52700.0,60.0,20,12.0,Medium,Active,2022
+S0649,Joshua Young,Male,52,Oncology,Palliative Care Specialist,City General,Full-Time,Morning,16,56700.0,60.0,20,,Medium,Active,2020
+S0710,Paul Harris,Male,29,Pharmacy,Drug Safety Officer,City General,Full-Time,Morning,20,71400.0,46.0,6,10.0,Medium,On Leave,2020
+S1283,Paul King,Male,52,General Ward,Ward Nurse,Sunrise Clinic,Full-Time,Afternoon,9,50100.0,55.0,15,2.0,Medium,Active,2021
+S0973,Steven Lewis,Male,60,Radiology,X-Ray Technician,St. Mary Hospital,Part-Time,Morning,8,36900.0,31.0,0,2.0,Low,Active,2019
+S0628,Anthony Jones,Male,59,Oncology,Palliative Care Specialist,Metro Health Center,Contract,Morning,29,59000.0,30.0,0,3.0,Low,Active,2020
+S0633,Steven Gonzalez,Female,60,Pharmacy,Drug Safety Officer,St. Mary Hospital,Part-Time,Morning,16,68000.0,29.0,0,12.0,Medium,Active,2021
+S1307,Matthew Rodriguez,Male,32,ICU,Respiratory Therapist,St. Mary Hospital,Contract,Night,17,42000.0,24.0,0,14.0,Medium,Active,2019
+S1249,John Davis,Female,26,Pharmacy,Drug Safety Officer,St. Mary Hospital,Part-Time,Afternoon,15,1000.0,19.0,0,8.0,Medium,Resigned,2021
+S1492,Paul Wilson,Male,42,Pediatrics,Pediatrician,City General,Part-Time,Night,9,85200.0,32.0,0,9.0,Medium,Resigned,2023
+S1255,Barbara Lee,Male,45,General Ward,Healthcare Assistant,Metro Health Center,Part-Time,Night,19,30700.0,28.0,0,5.0,Low,Resigned,2023
+S1355,Robert Young,Female,43,Pharmacy,Pharmacist,Metro Health Center,FULL TIME,Afternoon,14,80100.0,58.0,18,9.0,High,Active,2021
+S1413,Kimberly Smith,Male,51,Radiology,MRI Technician,Metro Health Center,Part-Time,Night,27,40200.0,20.0,0,6.0,Medium,Resigned,2024
+S0796,Nancy Moore,Female,26,ICU,Respiratory Therapist,St. Mary Hospital,Contract,Afternoon,1,44400.0,22.0,0,8.0,Low,On Leave,2021
+S0646,Linda Young,Female,57,Pharmacy,Drug Safety Officer,Sunrise Clinic,Part-Time,Morning,23,,26.0,0,14.0,Medium,Active,2022
+S1013,Amanda Thomas,Male,57,Emergency,ER Nurse,Sunrise Clinic,Contract,Afternoon,17,50300.0,29.0,0,15.0,Medium,Active,2021
+S0557,Lisa Davis,Male,45,Radiology,MRI Technician,City General,Contract,Afternoon,25,40400.0,27.0,0,15.0,Medium,Active,2023
+S0682,Carol Jackson,Female,57,Pediatrics,Pediatrician,St. Mary Hospital,Full-Time,Afternoon,2,90700.0,40.0,0,0.0,Medium,Active,2022
+S0578,Daniel Thompson,Female,23,Surgery,Surgeon,Green Valley Medical,Full-Time,Morning,8,130500.0,51.0,11,19.0,Medium,Resigned,2023
+S1110,Sandra Moore,Female,61,ICU,Respiratory Therapist,St. Mary Hospital,Full-Time,Night,21,49600.0,49.0,9,4.0,Low,Active,2024
+S1267,Mark Wilson,Female,24,Radiology,Radiologist,Metro Health Center,Part-Time,Afternoon,1,115100.0,28.0,0,3.0,High,Active,2024
+S1184,Jennifer Jones,Male,29,General Ward,Ward Nurse,Sunrise Clinic,Full-Time,Morning,12,44000.0,48.0,8,19.0,Medium,Active,2020
+S0525,George Williams,Female,23,Oncology,Chemo Nurse,St. Mary Hospital,Part-Time,Morning,26,56600.0,18.0,0,6.0,Low,Active,2021
+S1060,George King,Female,44,General Ward,Ward Nurse,Metro Health Center,Contract,Afternoon,3,49300.0,29.0,0,1.0,Medium,Resigned,2020
+S0541,Ashley Moore,Female,55,Surgery,Surgeon,Metro Health Center,Full-Time,,24,121000.0,58.0,18,13.0,Medium,Active,2022
+S1195,Ashley Scott,Male,58,Surgery,Surgeon,Metro Health Center,Contract,Morning,10,146800.0,26.0,0,20.0,Medium,Active,2021
+S0749,Donna Wilson,Male,35,Surgery,Surgeon,City General,Full-Time,Morning,14,135500.0,51.0,11,2.0,Medium,Active,2023
+S1416,Robert Davis,Female,30,Radiology,X-Ray Technician,Green Valley Medical,Full-Time,Morning,10,43600.0,55.0,15,18.0,Medium,Active,2023
+S0485,James Adams,Male,39,General Ward,Healthcare Assistant,Green Valley Medical,Full-Time,Morning,7,34200.0,51.0,11,3.0,Medium,Active,2019
+S0096,Kenneth Hill,Male,51,Oncology,Oncologist,City General,contract,Morning,8,110700.0,16.0,0,10.0,High,Resigned,2024
+S1021,Jessica Moore,Male,26,Oncology,Palliative Care Specialist,St. Mary Hospital,Full-Time,Night,4,57900.0,43.0,3,18.0,Low,Active,2024
+S0564,Matthew Garcia,Female,52,Pediatrics,Pediatrician,St. Mary Hospital,Part-Time,night,30,80100.0,28.0,0,20.0,High,Active,2023
+S1265,Michelle Adams,Female,46,Emergency,ER Nurse,Sunrise Clinic,Full-Time,Night,1,50800.0,56.0,16,15.0,Low,On Leave,2024
+S0743,Brian Harris,Male,38,General Ward,General Physician,Green Valley Medical,Contract,Morning,6,81100.0,19.0,0,10.0,High,Active,2024
+S0864,Matthew Hernandez,Male,57,Emergency,Paramedic,St. Mary Hospital,Full-Time,Morning,8,500000.0,47.0,7,2.0,Medium,On Leave,2021
+S0892,George Young,Male,59,Oncology,Chemo Nurse,City General,Part-Time,Night,20,57100.0,29.0,0,13.0,Medium,Active,2020
+S1039,Stephanie Moore,Female,35,Pharmacy,Pharmacy Technician,Metro Health Center,Contractor,Afternoon,9,33500.0,31.0,0,6.0,Medium,Active,2023
+S0207,Lisa Hernandez,Male,59,Radiology,Radiologist,Sunrise Clinic,Contract,Morning,27,113500.0,22.0,0,18.0,Medium,Active,2019
+S0393,Stephanie Gonzalez,Male,58,Radiology,MRI Technician,City General,Full-Time,Afternoon,28,43800.0,58.0,18,7.0,Medium,On Leave,2022
+S0795,Mary Hill,Male,48,Radiology,X-Ray Technician,Sunrise Clinic,Part-Time,Morning,4,39100.0,17.0,0,8.0,Medium,Active,2022
+S0871,George Nguyen,Female,22,Pharmacy,Pharmacy Technician,City General,Contract,Night Shift,1,34400.0,25.0,0,10.0,Low,Active,2019
+S0398,Emily Ramirez,Female,52,Oncology,Oncologist,Green Valley Medical,Part-Time,Night,12,116900.0,28.0,0,11.0,High,Resigned,2020
+S0767,William Johnson,Female,28,Emergency,ER Nurse,Sunrise Clinic,Part-Time,Morning,9,54900.0,18.0,0,16.0,Low,Active,2024
+S1406,Paul Lopez,Male,47,Oncology,Oncologist,Green Valley Medical,Contract,Morning,22,119600.0,21.0,0,0.0,High,Active,2021
+S1242,Kenneth Adams,Male,47,Radiology,X-Ray Technician,Metro Health Center,Full-Time,Morning,12,39600.0,43.0,3,,Low,Active,2019
+S1029,Kenneth Robinson,Male,58,Oncology,Chemo Nurse,Sunrise Clinic,Contract,Morning,24,58000.0,20.0,0,15.0,Medium,Active,2023
+S0643,Donald Johnson,Male,29,General Ward,Ward Nurse,Sunrise Clinic,Full-Time,Morning,7,47400.0,53.0,13,7.0,Medium,Active,2022
+S0613,Mark Rodriguez,Male,25,Radiology,MRI Technician,City General,Contract,Night,21,40000.0,27.0,0,6.0,Medium,Active,2024
+S0961,Patricia Thompson,Female,42,Surgery,Anesthesiologist,Metro Health Center,Contract,Night,9,156900.0,34.0,0,15.0,Medium,Active,2019
+S0726,Ashley Brown,Female,35,ICU,ICU Nurse,Metro Health Center,Part-Time,Morning,6,56000.0,31.0,0,0.0,Medium,Active,2019
+S0684,Donna Moore,Male,47,ICU,ICU Nurse,City General,Full-Time,Night,17,57100.0,41.0,1,19.0,Low,On Leave,2024
+S0099,Linda Jones,Male,38,Radiology,Radiologist,Sunrise Clinic,Full-Time,Morning,17,110600.0,49.0,9,11.0,Medium,Resigned,2023
+S0805,Daniel Brown,Male,33,Pediatrics,Child Therapist,City General,Part-Time,Morning,6,46900.0,30.0,0,12.0,Medium,Active,2023
+S0407,Jennifer Miller,Female,57,ICU,ICU Specialist,Sunrise Clinic,Full-Time,Morning,3,98600.0,54.0,14,,High,On Leave,2023
+S0503,George King,Female,29,General Ward,Healthcare Assistant,St. Mary Hospital,Part-Time,Night,3,29600.0,29.0,0,16.0,Low,Active,2020
+S1072,Susan Sanchez,Female,53,Pharmacy,Pharmacist,Sunrise Clinic,Part-Time,Afternoon,27,79700.0,15.0,0,17.0,Low,Active,2020
+S1057,  Melissa White  ,Male,53,Oncology,Oncologist,St. Mary Hospital,Part-Time,Afternoon,22,118300.0,28.0,0,10.0,High,Resigned,2023
+S0930,Mark Lee,Male,46,General Ward,Healthcare Assistant,City General,Full-Time,Afternoon,15,33300.0,56.0,16,11.0,Low,Active,2023
+S0780,Kimberly Jackson,Female,52,Pharmacy,Pharmacy Technician,Sunrise Clinic,Part-Time,Afternoon,13,36600.0,21.0,0,17.0,Low,On Leave,2019
+S0201,Kevin Young,Female,45,Surgery,Anesthesiologist,Metro Health Center,Contract,Morning,18,131000.0,15.0,0,17.0,High,On Leave,2022
+S0135,Thomas Johnson,Male,46,Radiology,Radiologist,Sunrise Clinic,Full-Time,Afternoon,12,106700.0,60.0,20,,High,Active,2021
+S1052,Anthony Lopez,Female,46,Pediatrics,Pediatric Nurse,St. Mary Hospital,Part-Time,Night,27,46700.0,27.0,0,16.0,Medium,Active,2021
+S0041,Amanda Smith,Male,46,Pharmacy,Drug Safety Officer,City General,Part-Time,Afternoon,8,,18.0,0,13.0,Low,Active,2020
+S1018,James Martin,Female,48,General Ward,General Physician,Sunrise Clinic,Full-Time,Morning,23,81500.0,41.0,1,,Medium,Active,2019
+S0231,David Young,F,62,Pharmacy,Pharmacist,City General,Contract,Night,11,79700.0,19.0,0,5.0,Medium,Active,2023
+S0379,Stephanie Torres,Female,36,Emergency,Paramedic,Green Valley Medical,Part-Time,Afternoon,9,36600.0,28.0,0,4.0,Low,Active,2023
+S0289,Richard Miller,Female,27,Radiology,Radiologist,Metro Health Center,Contract,Afternoon,21,95800.0,21.0,0,5.0,High,On Leave,2022
+S0419,Donna King,Female,41,Surgery,Scrub Nurse,St. Mary Hospital,Full-Time,Afternoon,21,50000.0,43.0,3,15.0,Low,Active,2024
+S0392,Stephanie Perez,Female,37,Emergency,Paramedic,Sunrise Clinic,Full-Time,Afternoon,16,36200.0,52.0,12,5.0,Medium,Active,2024
+S0593,Kevin Thomas,Female,44,Pharmacy,Pharmacist,Green Valley Medical,Part-Time,Afternoon,10,79100.0,22.0,0,20.0,,On Leave,2019
+S1163,Linda Jones,Female,22,Pharmacy,Pharmacist,Green Valley Medical,Full-Time,Night,14,85100.0,37.0,0,16.0,Medium,On Leave,2023
+S1087,Richard Thompson,Male,31,Oncology,Oncologist,St. Mary Hospital,Contract,Afternoon,30,126300.0,29.0,0,18.0,High,Resigned,2024
+S0648,Melissa White,Female,30,Radiology,X-Ray Technician,Sunrise Clinic,Contract,Afternoon,7,42700.0,20.0,0,19.0,Low,Active,2022
+S1153,Margaret Taylor,Male,34,Pediatrics,Pediatric Nurse,Metro Health Center,Full-Time,Morning,18,,57.0,17,10.0,Low,Active,2024
+S1368,Emily Moore,Female,34,Surgery,Scrub Nurse,City General,Contract,Night,1,,16.0,0,8.0,Low,Resigned,2022
+S0521,James Harris,Female,47,General Ward,Ward Nurse,Metro Health Center,Full-Time,Night,4,51300.0,59.0,19,15.0,Medium,Resigned,2020
+S0065,Susan Scott,Male,38,ICU,ICU Specialist,City General,Full-Time,Night,14,92500.0,40.0,0,0.0,High,Active,2020
+S0015,Kimberly Lewis,Male,41,Pharmacy,Pharmacist,Green Valley Medical,Contract,Afternoon,3,77000.0,22.0,0,7.0,Medium,Active,2022
+S1181,Kenneth Sanchez,FEMALE,34,Pharmacy,Pharmacy Technician,Metro Health Center,Part-Time,Afternoon,22,32700.0,29.0,0,4.0,Medium,Active,2019
+S1065,Robert Adams,Male,36,Radiology,Radiologist,Green Valley Medical,Contract,Morning,19,104400.0,34.0,0,14.0,Medium,Active,2020
+S0493,Sarah Lopez,Female,49,Radiology,Radiologist,Metro Health Center,Part-Time,Night,27,116700.0,17.0,0,18.0,Medium,Active,2024
+S0380,Richard Smith,Male,40,General Ward,General Physician,Sunrise Clinic,Contract,Night,17,81600.0,15.0,0,18.0,Medium,Resigned,2021
+S0188,John Lewis,Male,37,Pharmacy,Drug Safety Officer,St. Mary Hospital,FULL TIME,Morning,8,69800.0,56.0,16,1.0,Medium,Active,2023
+S0764,Melissa Miller,Female,23,Oncology,Oncologist,Sunrise Clinic,Full-Time,Night,25,110300.0,36.0,0,8.0,High,Active,2022
+S0217,Brian Young,Female,33,Surgery,Scrub Nurse,Green Valley Medical,Part-Time,,13,57400.0,22.0,0,10.0,Low,Active,2024
+S0792,Jessica Rodriguez,Male,37,ICU,Respiratory Therapist,City General,Full-Time,Morning,19,51900.0,52.0,12,6.0,Medium,Active,2021
+S1077,Steven Davis,Male,60,General Ward,Ward Nurse,City General,Full-Time,Afternoon,8,49900.0,45.0,5,5.0,Low,Resigned,2022
+S0879,Melissa Thomas,Female,39,Surgery,Anesthesiologist,Green Valley Medical,Part-Time,Night,1,130300.0,28.0,0,1.0,Medium,Active,2022
+S0338,Michelle Walker,Male,55,Pediatrics,Pediatric Nurse,Metro Health Center,Full-Time,Night,23,52300.0,59.0,19,5.0,Medium,On Leave,2022
+S0720,Joseph King,Male,47,General Ward,Healthcare Assistant,City General,Full-Time,Morning,25,34600.0,60.0,20,17.0,Medium,Active,2022
+S0296,Michelle Nguyen,Female,29,General Ward,General Physician,City General,Full-Time,Afternoon,19,82400.0,38.0,0,3.0,High,Active,2023
+S1017,Jessica Perez,Female,55,surgery,Anesthesiologist,Sunrise Clinic,Part-Time,Night,23,138900.0,20.0,0,16.0,High,On Leave,2022
+S1276,Kevin Moore,female,25,Pharmacy,Pharmacist,St. Mary Hospital,Full-Time,Night,10,84600.0,51.0,11,0.0,High,Active,2023
+S0456,Stephanie Moore,Male,42,Radiology,Radiologist,Green Valley Medical,Part-Time,Afternoon,5,100000.0,21.0,0,3.0,High,Active,2022
+S0080,Thomas Perez,Male,48,general ward,General Physician,St. Mary Hospital,Full-Time,Night,21,80200.0,57.0,17,12.0,High,Active,2022
+S0816,Karen Gonzalez,Male,36,Pediatrics,Pediatrician,Sunrise Clinic,Full-Time,Morning,20,82400.0,48.0,8,0.0,Medium,Active,2019
+S0270,Robert Gonzalez,Male,59,Pharmacy,Pharmacy Technician,St. Mary Hospital,Part-Time,Night,29,39300.0,19.0,0,2.0,Medium,Active,2019
+S0996,Kenneth Thompson,Female,38,Pediatrics,Pediatrician,Metro Health Center,Part-Time,Night,29,87900.0,31.0,0,5.0,Medium,Active,2020
+S0202,Mary Allen,Male,55,Pharmacy,Pharmacist,Metro Health Center,Part-Time,Night,4,88300.0,28.0,0,5.0,High,Resigned,2021
+S0162,Steven Rodriguez,Female,52,Emergency,ER Doctor,City General,Part-Time,Night,6,90400.0,34.0,0,10.0,Medium,Active,2023
+S0730,Deborah Martin,Male,40,Emergency,Paramedic,Green Valley Medical,PART TIME,Night,14,41400.0,34.0,0,5.0,Medium,Active,2024
+S0402,Thomas Thompson,Female,38,ICU,ICU Nurse,Metro Health Center,Part-Time,Afternoon,12,50300.0,28.0,0,3.0,Medium,Active,2023
+S0703,Richard Gonzalez,Male,54,Pediatrics,Pediatrician,Sunrise Clinic,Full-Time,Night,11,90500.0,41.0,1,2.0,Medium,Active,2021
+S1130,Paul Lewis,Female,50,Radiology,Radiologist,Metro Health Center,Part-Time,Morning,25,98900.0,23.0,0,20.0,High,Active,2021
+S0566,Ashley Anderson,Female,59,General ward,General Physician,Metro Health Center,Part-Time,Afternoon,9,70400.0,15.0,0,4.0,Low,Active,2024
+S1414,Joshua King,Male,43,Emergency,ER Doctor,Metro Health Center,Full-Time,Afternoon,11,85200.0,42.0,2,12.0,Medium,Active,2020
+S1022,Stephanie Adams,Female,43,Pediatrics,Child Therapist,Metro Health Center,Contract,Night,1,47800.0,21.0,0,5.0,Medium,Active,2021
+S1026,Mary White,Female,29,General Ward,Ward Nurse,Green Valley Medical,Part-Time,Night,7,47600.0,26.0,0,13.0,Medium,Active,2020
+S1412,Robert Garcia,Female,36,Pharmacy,Drug Safety Officer,St. Mary Hospital,Part-Time,Morning,16,72300.0,34.0,0,16.0,Low,Active,2024
+S1105,Kevin Taylor,Male,50,Surgery,Anesthesiologist,Metro Health Center,PartTime,Morning,23,166500.0,31.0,0,9.0,High,On Leave,2023
+S0206,Melissa Moore,Male,58,emergency,ER Doctor,St. Mary Hospital,Part-Time,Afternoon,6,,33.0,0,1.0,High,On Leave,2019
+S0035,Steven Davis,Female,44,emergency,ER Doctor,Sunrise Clinic,Part-Time,Night,9,91300.0,33.0,0,6.0,High,On Leave,2023
+S0776,Joshua Nguyen,Female,45,Pharmacy,Pharmacy Technician,Metro Health Center,Full-Time,Night,1,35600.0,38.0,0,12.0,Low,Active,2024
+S0509,Matthew Thomas,Male,31,Emergency,ER Nurse,Sunrise Clinic,Full-Time,Night,6,52200.0,58.0,18,20.0,,Resigned,2022
+S1452,Nancy Anderson,Male,56,ICU,Respiratory Therapist,Sunrise Clinic,Part-Time,Night,16,51400.0,29.0,0,0.0,Medium,Active,2019
+S0117,Michelle Lewis,MALE,33,Pediatrics,Child Therapist,Sunrise Clinic,Part-Time,Night,28,49200.0,34.0,0,10.0,Medium,Active,2023
+S1391,Susan Williams,Male,38,Radiology,X-Ray Technician,Metro Health Center,Part-Time,Afternoon,5,42000.0,30.0,0,6.0,Medium,Resigned,2020
+S0092,Carol Anderson,Male,52,ICU,Respiratory Therapist,Metro Health Center,Contract,Morning,21,43000.0,29.0,0,9.0,Low,Resigned,2021
+S1364,Amanda Nguyen,Male,38,ICU,ICU Nurse,Metro Health Center,Full-Time,Night,5,52000.0,56.0,16,7.0,Low,Active,2020
+S0898,Anthony Davis,Male,25,Radiology,Radiologist,St. Mary Hospital,Part-Time,Afternoon,20,99100.0,29.0,0,5.0,High,Active,2021
+S0565,Richard Lopez,Male,57,Oncology,Chemo Nurse,Metro Health Center,Contract,Afternoon,18,63600.0,27.0,0,9.0,Medium,Active,2020
+S1370,Michelle Robinson,Male,49,Oncology,Chemo Nurse,Metro Health Center,Part-Time,Morning,8,55700.0,24.0,0,20.0,Low,Active,2019
+S0777,Joshua Jackson,Male,40,General Ward,Ward Nurse,Sunrise Clinic,Part-Time,Morning,11,42400.0,16.0,0,19.0,Low,Resigned,2020
+S0242,Linda Hernandez,M,24,General Ward,Ward Nurse,Sunrise Clinic,Contract,Morning,14,47200.0,29.0,0,0.0,Medium,Active,2019
+S0014,Donald Scott,Female,26,ICU,ICU Specialist,City General,Full-Time,Night,28,95400.0,43.0,3,16.0,High,Active,2024
+S0316,Christopher King,Male,24,General Ward,Ward Nurse,Green Valley Medical,Full-Time,Night,21,43100.0,35.0,0,0.0,Low,Resigned,2019
+S0601,Anthony Lee,Female,31,Surgery,Scrub Nurse,Green Valley Medical,Full-Time,Morning,28,49100.0,55.0,15,6.0,Low,Active,2022
+S0388,Donna Nguyen,Male,26,Surgery,Anesthesiologist,Green Valley Medical,Contract,Morning,8,152800.0,26.0,0,8.0,Medium,Active,2024
+S1298,Karen Thomas,Female,35,Pharmacy,Pharmacist,Green Valley Medical,Part-Time,Morning,13,86700.0,24.0,0,7.0,High,Resigned,2022
+S0167,Ashley Wright,Female,52,Surgery,Anesthesiologist,Green Valley Medical,Part-Time,Night,22,152400.0,32.0,0,11.0,High,Active,2020
+S0841,Charles Thompson,Female,31,Pediatrics,Child Therapist,Green Valley Medical,Contract,Night,22,41700.0,23.0,0,15.0,Medium,On Leave,2023
+S0021,James Harris,Female,35,Pharmacy,Pharmacy Technician,City General,Full-Time,Afternoon,10,36300.0,60.0,20,14.0,Medium,Active,2022
+S0647,Mark Anderson,Male,40,Pharmacy,Pharmacist,Sunrise Clinic,Full-Time,Night,30,83300.0,42.0,2,18.0,High,Active,2021
+S1155,Joseph Thomas,Male,39,Emergency,ER Doctor,City General,Part-Time,Morning,26,88700.0,29.0,0,20.0,High,Active,2024
+S0832,Barbara Walker,Female,36,Pharmacy,Pharmacist,Sunrise Clinic,Contract,Night,15,76500.0,30.0,0,5.0,Low,Active,2021
+S1268,Ashley Moore,Male,54,Pediatrics,Child Therapist,Metro Health Center,Full-Time,Afternoon,21,49300.0,47.0,7,17.0,Low,Resigned,2020
+S0563,Sandra Clark,Female,48,ICU,ICU Specialist,City General,Part-Time,Afternoon,3,94600.0,33.0,0,19.0,Medium,Active,2024
+S1491,Kevin Nguyen,Male,48,Pediatrics,Pediatrician,Sunrise Clinic,Full-Time,Morning,8,81200.0,55.0,15,9.0,High,Active,2021
+S0687,Linda Thompson,Male,26,Pharmacy,Drug Safety Officer,Sunrise Clinic,Full-Time,Night,12,73300.0,47.0,7,19.0,Low,Active,2024
+S0958,Sarah Brown,Female,56,Emergency,ER Doctor,St. Mary Hospital,Full-Time,Night,15,,36.0,0,4.0,High,Active,2024
+S0190,Lisa Moore,Female,31,Radiology,Radiologist,City General,Contract,Night,29,97000.0,32.0,0,18.0,Medium,Active,2022
+S0976,Deborah Thompson,Male,42,ICU,Respiratory Therapist,Metro Health Center,Contract,Night,2,45500.0,27.0,0,18.0,Medium,Active,2023
+S0700,Richard Torres,Male,22,Surgery,Surgeon,St. Mary Hospital,Contract,Night,12,128300.0,31.0,0,8.0,Medium,Active,2023
+S0511,James Jackson,Female,52,Surgery,Scrub Nurse,Metro Health Center,Full-Time,Afternoon,17,,47.0,7,10.0,Low,Active,2022
+S1083,Kenneth Martin,Female,40,Radiology,X-Ray Technician,City General,Contract,Afternoon,5,42800.0,29.0,0,9.0,Medium,On Leave,2023
+S0475,Daniel Scott,Male,61,ICU,Respiratory Therapist,St. Mary Hospital,Part-Time,Afternoon,7,45500.0,15.0,0,20.0,Low,Active,2021
+S0857,Michelle Harris,Female,54,ICU,ICU Nurse,City General,Contract,Morning,10,57800.0,33.0,0,1.0,Low,Active,2019
+S0748,Susan Lewis,Male,36,Emergency,Paramedic,Metro Health Center,Part-Time,Night,3,35100.0,17.0,0,15.0,Low,Active,2021
+S0253,Paul Lee,Male,41,Pediatrics,Pediatric Nurse,City General,Contract,Morning,25,50400.0,33.0,0,20.0,Low,Active,2020
+S0022,Michelle Wright,Female,31,Pharmacy,Drug Safety Officer,City General,Part-Time,Morning,2,61000.0,25.0,0,1.0,Medium,On Leave,2019
+S1338,Kimberly Sanchez,Male,35,ICU,ICU Nurse,Metro Health Center,Part-Time,Morning,30,58700.0,33.0,0,19.0,Low,Active,2021
+S0460,Matthew Lee,Male,49,Radiology,MRI Technician,Metro Health Center,Full-Time,Afternoon,20,46500.0,54.0,14,18.0,Low,Active,2024
+S1185,Jessica Lee,Male,50,General Ward,Healthcare Assistant,Metro Health Center,Full-Time,Night,5,25700.0,53.0,13,0.0,Medium,Active,2020
+S0277,Andrew Martinez,Female,59,Radiology,X-Ray Technician,Green Valley Medical,Contract,Morning,18,44200.0,21.0,0,15.0,Medium,Active,2023
+S0956,Brian Rodriguez,MALE,57,Pharmacy,Drug Safety Officer,Sunrise Clinic,Full-Time,Afternoon,18,67000.0,57.0,17,13.0,Medium,Resigned,2022
+S1216,Sandra Taylor,Female,60,Pharmacy,Drug Safety Officer,Green Valley Medical,Contract,Afternoon,17,73500.0,26.0,0,7.0,Low,Resigned,2020
+S0386,James Gonzalez,Female,60,Pharmacy,Pharmacy Technician,Sunrise Clinic,Full-Time,Morning,2,40500.0,44.0,4,6.0,Medium,Resigned,2022
+S0806,Donald Jackson,Female,37,Radiology,Radiologist,Green Valley Medical,Full-Time,Night,24,103700.0,41.0,1,0.0,Medium,Active,2021
+S1438,Robert Garcia,Male,25,Pharmacy,Pharmacy Technician,Metro Health Center,Part-Time,Morning,27,999999.0,,0,10.0,Low,Active,2020
+S0344,Mark Miller,Male,40,Oncology,Oncologist,St. Mary Hospital,Contract,Morning,24,130200.0,32.0,0,7.0,High,Active,2021
+S0770,Barbara King,Male,46,General Ward,Healthcare Assistant,City General,Contract,Afternoon,5,34400.0,31.0,0,1.0,Medium,Active,2024
+S1333,Nancy Lee,MALE,50,ICU,ICU Specialist,St. Mary Hospital,Full-Time,Morning,14,109000.0,42.0,2,15.0,Medium,Active,2021
+S0131,Donald Rodriguez,Male,43,Emergency,ER Nurse,St. Mary Hospital,Full-Time,Morning,1,52700.0,49.0,9,19.0,Low,On Leave,2021
+S0872,Kimberly Smith,Male,53,Pediatrics,Pediatric Nurse,Sunrise Clinic,Full-Time,Afternoon,15,,39.0,0,20.0,Low,Active,2021
+S1124,Anthony Wright,Male,48,Radiology,Radiologist,Sunrise Clinic,Full-Time,Morning,26,109400.0,39.0,0,19.0,High,Resigned,2022
+S1397,James Taylor,Female,51,Emergency,Paramedic,Metro Health Center,Full-Time,Morning,21,39000.0,47.0,7,11.0,Medium,Active,2019
+S0088,Michael Williams,Male,61,Radiology,Radiologist,City General,Contract,Afternoon,19,105100.0,29.0,0,1.0,Medium,Active,2024
+S1483,Charles Clark,Female,36,General Ward,General Physician,Sunrise Clinic,Part-Time,Afternoon,12,72500.0,15.0,0,4.0,Low,Active,2024
+S0331,Emily Hernandez,Male,22,Pediatrics,Child Therapist,Metro Health Center,Full-Time,Night,11,41200.0,59.0,19,15.0,Medium,On Leave,2022
+S1239,John Williams,Male,25,Surgery,Surgeon,City General,Contract,Night,28,1000.0,22.0,0,4.0,High,Resigned,2022
+S0467,Thomas Smith,Male,29,General Ward,Ward Nurse,St. Mary Hospital,Full-Time,AM,18,47500.0,50.0,10,15.0,Low,Active,2023
+S0122,Michael Scott,Male,62,Radiology,X-Ray Technician,St. Mary Hospital,Part-Time,Night,9,46100.0,27.0,0,9.0,Low,Active,2021
+S1045,Jennifer Martin,Male,58,Oncology,Palliative Care Specialist,Green Valley Medical,Full-Time,Morning,26,68000.0,59.0,19,4.0,Low,Active,2019
+S1096,Richard Miller,Female,28,Pharmacy,Drug Safety Officer,Metro Health Center,PART TIME,Afternoon,10,72500.0,22.0,0,6.0,Medium,On Leave,2020
+S1131,Kevin Miller,Male,38,Radiology,MRI Technician,Metro Health Center,Part-Time,Afternoon,9,,25.0,0,16.0,Low,Active,2022
+S1295,Mark Wilson,Male,41,ICU,ICU Specialist,Metro Health Center,Contract,Afternoon,14,97600.0,18.0,0,2.0,High,Active,2022
+S0861,Robert Lopez,Male,39,Oncology,Oncologist,Green Valley Medical,Part-Time,Night,16,133300.0,29.0,0,8.0,High,Active,2019
+S1460,Margaret Lewis,Female,27,general ward,General Physician,City General,Full-Time,Afternoon,18,76400.0,50.0,10,6.0,Medium,Active,2023
+S1127,Deborah Robinson,Female,33,Surgery,Surgeon,Green Valley Medical,Contract,Night,19,158700.0,31.0,0,16.0,Medium,Resigned,2021
